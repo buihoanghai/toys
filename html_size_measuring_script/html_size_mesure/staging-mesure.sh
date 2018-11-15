@@ -1,43 +1,42 @@
 #!/bin/sh
 
-QA="intergration"
-DEV="iprice.mx/"
+STAGING="iprice.mx/"
 
 cat links.txt | while read link
 do
 	case $link in
 	    *"iprice.my"*)
 	        HOST="iprice.my"
-	        COUNTRY="-my"
+	        COUNTRY="my"
 	        ;;
 	    *"iprice.vn"*)
 	        HOST="iprice.vn"
-	        COUNTRY="-vn"
+	        COUNTRY="vn"
 	        ;;
 	    *"iprice.ph"*)
 	        HOST="iprice.ph"
-	        COUNTRY="-ph"
+	        COUNTRY="ph"
 
 	        ;;
 	    *"iprice.hk"*)
 	        HOST="iprice.hk"
-	        COUNTRY="-hk"
+	        COUNTRY="hk"
 	        ;;
 	    *"iprice.sg"*)
 	        HOST="iprice.sg"
-	        COUNTRY="-sg"
+	        COUNTRY="sg"
 	        ;;
 	    *"ipricethailand.com"*)
 	        HOST="ipricethailand.com"
-	        COUNTRY="-th"
+	        COUNTRY="th"
 	        ;;
 	    *"iprice.co.id"*)
 	        HOST="iprice.co.id"
-	        COUNTRY="-id"
+	        COUNTRY="id"
 	        ;;
   	esac
 
-	QA_LINK="${link/$HOST/$QA$COUNTRY.$DEV}"
+	QA_LINK="${link/$HOST/$COUNTRY.$STAGING}"
 	curl  -so /dev/null --compressed --header "Host: $HOST" "$QA_LINK" -w '%{size_download}'
 	printf "	"
 	curl -so /dev/null --header "Host: $HOST" "$QA_LINK" -w '%{size_download}'

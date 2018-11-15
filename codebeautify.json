@@ -1,0 +1,1316 @@
+﻿{
+  "took": 4,
+  "timed_out": false,
+  "_shards": {
+    "total": 10,
+    "successful": 10,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 22284,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "3980030007cb1ee89832e543d8134665527b847c",
+        "_score": null,
+        "_source": {
+          "offerCount": 6573,
+          "comparableUrl": "jbl-go"
+        },
+        "sort": [
+          6573
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "29b96c59c0ae30d4315016bf699480e043aa69fa",
+        "_score": null,
+        "_source": {
+          "offerCount": 4777,
+          "comparableUrl": "xiaomi-mifa-m1"
+        },
+        "sort": [
+          4777
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "4cf91c2a77217ef04b37d1ad7f59f23b3e48541a",
+        "_score": null,
+        "_source": {
+          "offerCount": 3264,
+          "comparableUrl": "jbl-micro-wireless"
+        },
+        "sort": [
+          3264
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "560e8d4c91687f09601cddabb702a700a9a9d495",
+        "_score": null,
+        "_source": {
+          "offerCount": 2794,
+          "comparableUrl": "xiaomi-mifa-m1-hitam"
+        },
+        "sort": [
+          2794
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "69ac82650f3f62600d94f6a9d5fc7bc22b81e4e5",
+        "_score": null,
+        "_source": {
+          "offerCount": 2520,
+          "comparableUrl": "jbl-micro-wireless-hitam"
+        },
+        "sort": [
+          2520
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "9443bc3a8e53711c7e9813de9a32714a49ae98b0",
+        "_score": null,
+        "_source": {
+          "offerCount": 2099,
+          "comparableUrl": "xiaomi-mi-band-3"
+        },
+        "sort": [
+          2099
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "9f4ae7fa904a8c8d4ee041d1e6835eaacdf264cb",
+        "_score": null,
+        "_source": {
+          "offerCount": 1862,
+          "comparableUrl": "xiaomi-mi-power-bank"
+        },
+        "sort": [
+          1862
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "a530d15b4224cd44eca650077b4319124f578080",
+        "_score": null,
+        "_source": {
+          "offerCount": 1856,
+          "comparableUrl": "jbl-go-hitam"
+        },
+        "sort": [
+          1856
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "acf1a4e729db5d65039b1a349025e1231dd733b3",
+        "_score": null,
+        "_source": {
+          "offerCount": 1747,
+          "comparableUrl": "sandisk-microsd"
+        },
+        "sort": [
+          1747
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "46e955061e69672497d063aa58f06e2362e2bac5",
+        "_score": null,
+        "_source": {
+          "offerCount": 1693,
+          "comparableUrl": "corsair-mm200"
+        },
+        "sort": [
+          1693
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "799e5e242e488c6e81d6f3cf539d6dc4edae7df0",
+        "_score": null,
+        "_source": {
+          "offerCount": 1654,
+          "comparableUrl": "awei-a920bl"
+        },
+        "sort": [
+          1654
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "dd98efdf728196da8e8f7fb01c15234b0e97e2c7",
+        "_score": null,
+        "_source": {
+          "offerCount": 1348,
+          "comparableUrl": "xiaomi-mi-band-3-hitam"
+        },
+        "sort": [
+          1348
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "b239174869f86a7cd0a88bdc728cd38be846da57",
+        "_score": null,
+        "_source": {
+          "offerCount": 1341,
+          "comparableUrl": "eken-h9r"
+        },
+        "sort": [
+          1341
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "184203f1b3af415f8c1811c96bf44f788307c354",
+        "_score": null,
+        "_source": {
+          "offerCount": 1196,
+          "comparableUrl": "apple-iphone-6"
+        },
+        "sort": [
+          1196
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "adcd5f237240cface3877c03d1b647fd262cdd45",
+        "_score": null,
+        "_source": {
+          "offerCount": 1126,
+          "comparableUrl": "spigen-neo-hybrid"
+        },
+        "sort": [
+          1126
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "52571fa62086b5045481339d292c67fc12bf24a4",
+        "_score": null,
+        "_source": {
+          "offerCount": 1054,
+          "comparableUrl": "nyx-soft-matte-lip-cream"
+        },
+        "sort": [
+          1054
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "75265352072775f6e433c11a699bd6d803f5b007",
+        "_score": null,
+        "_source": {
+          "offerCount": 1020,
+          "comparableUrl": "sandisk-cruzer-blade"
+        },
+        "sort": [
+          1020
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "a4f3855b8794b36e2e912709c7194414bd889ac3",
+        "_score": null,
+        "_source": {
+          "offerCount": 956,
+          "comparableUrl": "sony-srs-xb10"
+        },
+        "sort": [
+          956
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "033ffcedabf4a4c7000188be1180a173371b5b0f",
+        "_score": null,
+        "_source": {
+          "offerCount": 934,
+          "comparableUrl": "remax-rb-t9"
+        },
+        "sort": [
+          934
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "5ec6c8239f80b47265207876fad91330a6f69a3c",
+        "_score": null,
+        "_source": {
+          "offerCount": 927,
+          "comparableUrl": "skmei-1227"
+        },
+        "sort": [
+          927
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "4ebee5a978582d7a540b36d6a59139828c6cd842",
+        "_score": null,
+        "_source": {
+          "offerCount": 913,
+          "comparableUrl": "apple-iphone-7"
+        },
+        "sort": [
+          913
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "7a935b229e446888521441625f66bf9197292129",
+        "_score": null,
+        "_source": {
+          "offerCount": 878,
+          "comparableUrl": "oppo-a3s"
+        },
+        "sort": [
+          878
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "737d9ba3f7d12144f4c9004e9edd2d872ebc9b6f",
+        "_score": null,
+        "_source": {
+          "offerCount": 849,
+          "comparableUrl": "oxone-ox-961"
+        },
+        "sort": [
+          849
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "cfa20d2c7a49368aef6af94382cc2460cd7ebf32",
+        "_score": null,
+        "_source": {
+          "offerCount": 844,
+          "comparableUrl": "apple-iphone-7-plus"
+        },
+        "sort": [
+          844
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "2e707069961cab09d202e6827aeba21600302a13",
+        "_score": null,
+        "_source": {
+          "offerCount": 831,
+          "comparableUrl": "wardah-lipstick-exclusive-38g"
+        },
+        "sort": [
+          831
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "1e6fd980d468a654d112ecfe8632c0e7c23fdb5f",
+        "_score": null,
+        "_source": {
+          "offerCount": 830,
+          "comparableUrl": "brica-b-pro5-alpha-edition"
+        },
+        "sort": [
+          830
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "82539b1038772571947f267bd79701da69c08840",
+        "_score": null,
+        "_source": {
+          "offerCount": 791,
+          "comparableUrl": "samsung-galaxy-j2-prime"
+        },
+        "sort": [
+          791
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "ed1743a9dc00240ddf17a4a9592afd884e476ec3",
+        "_score": null,
+        "_source": {
+          "offerCount": 785,
+          "comparableUrl": "jbl-clip-2"
+        },
+        "sort": [
+          785
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "98b707c815356f0815d8e178b43704da5ead6b1c",
+        "_score": null,
+        "_source": {
+          "offerCount": 771,
+          "comparableUrl": "xiaomi-mi-power-bank-10000mah"
+        },
+        "sort": [
+          771
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "c3d998e566417338d8948245c24d19f937acfa93",
+        "_score": null,
+        "_source": {
+          "offerCount": 766,
+          "comparableUrl": "jbl-go-biru"
+        },
+        "sort": [
+          766
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "24b540439eb2aa3cbeca571db3fb1f14e6884d9e",
+        "_score": null,
+        "_source": {
+          "offerCount": 762,
+          "comparableUrl": "awei-a885bl"
+        },
+        "sort": [
+          762
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "fac0589e6b9c8b94ddf8a47f4d0a87d8a8248ee7",
+        "_score": null,
+        "_source": {
+          "offerCount": 750,
+          "comparableUrl": "sony-playstation-4"
+        },
+        "sort": [
+          750
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "8434f107a0bfd84fbfd9cb179d9597c1c7b6693c",
+        "_score": null,
+        "_source": {
+          "offerCount": 746,
+          "comparableUrl": "wardah-exclusive-two-way-cake"
+        },
+        "sort": [
+          746
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "35781bf738500650c986b92e839ceed74bd717bd",
+        "_score": null,
+        "_source": {
+          "offerCount": 740,
+          "comparableUrl": "vivo-v9"
+        },
+        "sort": [
+          740
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "f8dc3120f725a4d28780b34577bc6117944a3552",
+        "_score": null,
+        "_source": {
+          "offerCount": 734,
+          "comparableUrl": "logitech-z120"
+        },
+        "sort": [
+          734
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "64aea21b7dbd103a184e9fa03274d92d78ea8d05",
+        "_score": null,
+        "_source": {
+          "offerCount": 727,
+          "comparableUrl": "sandisk-ultra"
+        },
+        "sort": [
+          727
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "5b48bd18cc03eb9e5de3d57705b65a9ac70ee25c",
+        "_score": null,
+        "_source": {
+          "offerCount": 712,
+          "comparableUrl": "apple-iphone-6s"
+        },
+        "sort": [
+          712
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "941fd811ba1144b4f1fb3ed877367f192260a0ba",
+        "_score": null,
+        "_source": {
+          "offerCount": 703,
+          "comparableUrl": "toshiba-adaptor-charger"
+        },
+        "sort": [
+          703
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "b1aff6fdd807869e16abd33b08dfca898c07ac18",
+        "_score": null,
+        "_source": {
+          "offerCount": 702,
+          "comparableUrl": "miyako-hm-620"
+        },
+        "sort": [
+          702
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "6586049b5b2ba9563bb3de7c7902c716e7029891",
+        "_score": null,
+        "_source": {
+          "offerCount": 686,
+          "comparableUrl": "xiaomi-redmi-note-5"
+        },
+        "sort": [
+          686
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "2d6325d520598d4e9cf12db4c623dbf8b43e847b",
+        "_score": null,
+        "_source": {
+          "offerCount": 679,
+          "comparableUrl": "jbl-go-teal"
+        },
+        "sort": [
+          679
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "b14b836a8795b9654eaab5898876a6fefcf44f6f",
+        "_score": null,
+        "_source": {
+          "offerCount": 675,
+          "comparableUrl": "yongnuo-yn-560-iv"
+        },
+        "sort": [
+          675
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "347632d5ec20a6d13923f250b93f2823f892cba2",
+        "_score": null,
+        "_source": {
+          "offerCount": 672,
+          "comparableUrl": "oxone-ox-953"
+        },
+        "sort": [
+          672
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "4915e9f8c5995422b943379b4063e9eac1b3886e",
+        "_score": null,
+        "_source": {
+          "offerCount": 665,
+          "comparableUrl": "logitech-b100"
+        },
+        "sort": [
+          665
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "b249f3d9a912a230cd379164622b869ada456e31",
+        "_score": null,
+        "_source": {
+          "offerCount": 656,
+          "comparableUrl": "seagate-expansion"
+        },
+        "sort": [
+          656
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "574bb57849e5a3aa387ce89d36f6095d5a8d39cc",
+        "_score": null,
+        "_source": {
+          "offerCount": 649,
+          "comparableUrl": "apple-iphone-6s-plus"
+        },
+        "sort": [
+          649
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "85483efe8dcf55c9ae55f8ac04556a327a1b3ec6",
+        "_score": null,
+        "_source": {
+          "offerCount": 640,
+          "comparableUrl": "jbl-go-merah"
+        },
+        "sort": [
+          640
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "41cd1e36d9ff92ece7d3483a460b5591c7aed080",
+        "_score": null,
+        "_source": {
+          "offerCount": 637,
+          "comparableUrl": "seagate-backup-plus-slim"
+        },
+        "sort": [
+          637
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "5410004e9ed1727f169ff982dde9b37f3bbe7464",
+        "_score": null,
+        "_source": {
+          "offerCount": 630,
+          "comparableUrl": "sjcam-sj5000x-elite"
+        },
+        "sort": [
+          630
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "6ed226220e1fc72fcda287dea675fa56ee2f4d9b",
+        "_score": null,
+        "_source": {
+          "offerCount": 630,
+          "comparableUrl": "jbl-clip-plus"
+        },
+        "sort": [
+          630
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "7a418a67b50a4b26e744df44dacb00eff94465d8",
+        "_score": null,
+        "_source": {
+          "offerCount": 628,
+          "comparableUrl": "oppo-f9"
+        },
+        "sort": [
+          628
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "270b8bbf2e8d2a394130594c2d788029c1cd8761",
+        "_score": null,
+        "_source": {
+          "offerCount": 625,
+          "comparableUrl": "sandisk-dual"
+        },
+        "sort": [
+          625
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "ff2d28d5d48827cf36784243a1e51f4ec40bd153",
+        "_score": null,
+        "_source": {
+          "offerCount": 623,
+          "comparableUrl": "philips-hr-1559"
+        },
+        "sort": [
+          623
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "3f8ca4c9600e48c824868a5cb80efcf9910fd248",
+        "_score": null,
+        "_source": {
+          "offerCount": 623,
+          "comparableUrl": "sony-alpha-ilce-6000"
+        },
+        "sort": [
+          623
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "aee2eea796e36d145de22bc34a1e0544bc0ec31b",
+        "_score": null,
+        "_source": {
+          "offerCount": 607,
+          "comparableUrl": "sjcam-m20"
+        },
+        "sort": [
+          607
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "0cb8a353494a02f30f7dd2087ad3c11796a04755",
+        "_score": null,
+        "_source": {
+          "offerCount": 601,
+          "comparableUrl": "remax-rb-t8"
+        },
+        "sort": [
+          601
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "0a484757874a69281fffb7a3db078cc8cc5bff4e",
+        "_score": null,
+        "_source": {
+          "offerCount": 600,
+          "comparableUrl": "xiaomi-redmi-s2"
+        },
+        "sort": [
+          600
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "587bb78fd8f3a568f13eeb778b957da5c47cfc2d",
+        "_score": null,
+        "_source": {
+          "offerCount": 598,
+          "comparableUrl": "awei-a990bl"
+        },
+        "sort": [
+          598
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "bdf90f2952fee7e57b8f6a912bb11142a68819ff",
+        "_score": null,
+        "_source": {
+          "offerCount": 594,
+          "comparableUrl": "logitech-m238"
+        },
+        "sort": [
+          594
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "a961e697fd8f46c7d0a17f770a41bded748bcdb9",
+        "_score": null,
+        "_source": {
+          "offerCount": 590,
+          "comparableUrl": "eken-h8r-ultra-hd"
+        },
+        "sort": [
+          590
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "d6e099a6eeec06909751778e919edd160ade34f6",
+        "_score": null,
+        "_source": {
+          "offerCount": 585,
+          "comparableUrl": "asus-zenfone-max-pro-m1-zb602kl"
+        },
+        "sort": [
+          585
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "85823ad4e16b993861240a7d31666df2e1e7bbc0",
+        "_score": null,
+        "_source": {
+          "offerCount": 584,
+          "comparableUrl": "philips-hd-117380"
+        },
+        "sort": [
+          584
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "3c8c3381623584c7bc723a207e4370f5cbe8e009",
+        "_score": null,
+        "_source": {
+          "offerCount": 582,
+          "comparableUrl": "samsung-clear-view-cover"
+        },
+        "sort": [
+          582
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "a7a917c887065c85d8dd2ce53c1bc07d20ea52a8",
+        "_score": null,
+        "_source": {
+          "offerCount": 577,
+          "comparableUrl": "fujifilm-x-t20"
+        },
+        "sort": [
+          577
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "44e7c67b3e5926862aeefc0e9ecaa57b87e20ab3",
+        "_score": null,
+        "_source": {
+          "offerCount": 570,
+          "comparableUrl": "wardah-lightening-day-cream"
+        },
+        "sort": [
+          570
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "5bf21d0611bc794cf073eda0fae249bfd0790a7d",
+        "_score": null,
+        "_source": {
+          "offerCount": 569,
+          "comparableUrl": "skmei-1142"
+        },
+        "sort": [
+          569
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "cb05d80baa6e0141727215520d961203e98da0be",
+        "_score": null,
+        "_source": {
+          "offerCount": 560,
+          "comparableUrl": "sandisk-extreme-pro"
+        },
+        "sort": [
+          560
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "bec66592698d0c86f7b724afcbc909dcabf8c64d",
+        "_score": null,
+        "_source": {
+          "offerCount": 559,
+          "comparableUrl": "miyako-sm-625"
+        },
+        "sort": [
+          559
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "40f730143b805bfc86eafd84ba822e8e6860935d",
+        "_score": null,
+        "_source": {
+          "offerCount": 552,
+          "comparableUrl": "vivo-y81"
+        },
+        "sort": [
+          552
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "0c58e778241704867f54ede6b1b5bcb63ba798f3",
+        "_score": null,
+        "_source": {
+          "offerCount": 549,
+          "comparableUrl": "hippo-smore-powerbank"
+        },
+        "sort": [
+          549
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "b76e4be1319b28e4c9920387f65f7e171d624a14",
+        "_score": null,
+        "_source": {
+          "offerCount": 547,
+          "comparableUrl": "awei-a880bl"
+        },
+        "sort": [
+          547
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "00306ddcf66fc28505fc5ae5bf8a7d083c6c12b0",
+        "_score": null,
+        "_source": {
+          "offerCount": 541,
+          "comparableUrl": "jbl-go-kuning"
+        },
+        "sort": [
+          541
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "fc254a3fd1cf3d4640b6980e2400a09c19dd0729",
+        "_score": null,
+        "_source": {
+          "offerCount": 535,
+          "comparableUrl": "wardah-everyday-bb-cream-30ml"
+        },
+        "sort": [
+          535
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "7a84f6eb3fd6c2795c5dc588456cd924f27f25a1",
+        "_score": null,
+        "_source": {
+          "offerCount": 535,
+          "comparableUrl": "xiaomi-redmi-note-4"
+        },
+        "sort": [
+          535
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "57e742febacee1e3d290da20fba4abee9e791a6a",
+        "_score": null,
+        "_source": {
+          "offerCount": 533,
+          "comparableUrl": "skmei-1250"
+        },
+        "sort": [
+          533
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "7004dfa2457caf5e431c0577cbff0e7450338da3",
+        "_score": null,
+        "_source": {
+          "offerCount": 525,
+          "comparableUrl": "ipega-pg-9023"
+        },
+        "sort": [
+          525
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "13a2cd8b67f1a05960809443768e55a4f7d1f38c",
+        "_score": null,
+        "_source": {
+          "offerCount": 523,
+          "comparableUrl": "sandisk-cruzer-blade-8gb"
+        },
+        "sort": [
+          523
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "da50b757998e576f850059b53c64ca66f1b51f61",
+        "_score": null,
+        "_source": {
+          "offerCount": 520,
+          "comparableUrl": "xiaomi-mi-band-2"
+        },
+        "sort": [
+          520
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "0e95875858785fe3aa656b554236befb5162e413",
+        "_score": null,
+        "_source": {
+          "offerCount": 520,
+          "comparableUrl": "xiaomi-redmi-note-4x"
+        },
+        "sort": [
+          520
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "2216d303efb701b54c9f56f85ec684765d6e9742",
+        "_score": null,
+        "_source": {
+          "offerCount": 515,
+          "comparableUrl": "brica-b-pro5-alpha-edition-hitam"
+        },
+        "sort": [
+          515
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "f6bda80be38d19d778042e12194515cf3a79d97f",
+        "_score": null,
+        "_source": {
+          "offerCount": 510,
+          "comparableUrl": "laneige-water-sleeping-mask"
+        },
+        "sort": [
+          510
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "e38d6ff08c336521e1de13fb2cb01b7b2064df69",
+        "_score": null,
+        "_source": {
+          "offerCount": 510,
+          "comparableUrl": "skmei-1068"
+        },
+        "sort": [
+          510
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "72772470fafe6d3147f63121f0d56efd7eb2fc19",
+        "_score": null,
+        "_source": {
+          "offerCount": 505,
+          "comparableUrl": "logitech-m187"
+        },
+        "sort": [
+          505
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "c03f8630394184df9a7856129d10511a0b5e791e",
+        "_score": null,
+        "_source": {
+          "offerCount": 499,
+          "comparableUrl": "hp-46"
+        },
+        "sort": [
+          499
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "420ea512fdbda4973e7655aa836dcd6622fcc338",
+        "_score": null,
+        "_source": {
+          "offerCount": 496,
+          "comparableUrl": "samsung-galaxy-s7"
+        },
+        "sort": [
+          496
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "bffa4f7b4a8b139233eeea6e447ec259b6c6b5f1",
+        "_score": null,
+        "_source": {
+          "offerCount": 491,
+          "comparableUrl": "xiaomi-redmi-note-5-pro"
+        },
+        "sort": [
+          491
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "859e0a6df55d82bbb81d44e2ae6c6a7e90d93eab",
+        "_score": null,
+        "_source": {
+          "offerCount": 491,
+          "comparableUrl": "miyako-psg-607"
+        },
+        "sort": [
+          491
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "6a4c36b944c58f23afe665c65f6d08646e811936",
+        "_score": null,
+        "_source": {
+          "offerCount": 487,
+          "comparableUrl": "philips-hr2116"
+        },
+        "sort": [
+          487
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "1d68fb67807468c59a873ad59bb8aa25cdc21370",
+        "_score": null,
+        "_source": {
+          "offerCount": 485,
+          "comparableUrl": "oppo-f7"
+        },
+        "sort": [
+          485
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "dec10441fde0c8033d19583d0a52ffb7f924ddb2",
+        "_score": null,
+        "_source": {
+          "offerCount": 483,
+          "comparableUrl": "skmei-1219"
+        },
+        "sort": [
+          483
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "a63edb2fd94e87d851d14aeb1faebd29707699f0",
+        "_score": null,
+        "_source": {
+          "offerCount": 482,
+          "comparableUrl": "samsung-galaxy-j5-pro"
+        },
+        "sort": [
+          482
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "4b8dfcfcc79453d1b7f6b67e7fd221f9f6a00001",
+        "_score": null,
+        "_source": {
+          "offerCount": 475,
+          "comparableUrl": "skmei-1180"
+        },
+        "sort": [
+          475
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "88624d6e63b82040e7c9f713aea35e9ec2fd0190",
+        "_score": null,
+        "_source": {
+          "offerCount": 475,
+          "comparableUrl": "remax-rm-610d"
+        },
+        "sort": [
+          475
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "6e9398aee045709da6d479c0c663808ef55beb76",
+        "_score": null,
+        "_source": {
+          "offerCount": 475,
+          "comparableUrl": "sandisk-32gb-ultra-dual"
+        },
+        "sort": [
+          475
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "31b16ab0a4e1855f486777e0f2a71604bd3de8ac",
+        "_score": null,
+        "_source": {
+          "offerCount": 471,
+          "comparableUrl": "samsung-galaxy-j7-pro"
+        },
+        "sort": [
+          471
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "e3ae13b759a283807d35f838ad7f42cc81b5ee86",
+        "_score": null,
+        "_source": {
+          "offerCount": 471,
+          "comparableUrl": "demeter-cologne-spray"
+        },
+        "sort": [
+          471
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "f7420020c6948beed2e1887a5e31f306fbc34fcf",
+        "_score": null,
+        "_source": {
+          "offerCount": 469,
+          "comparableUrl": "spigen-neo-hybrid-crystal"
+        },
+        "sort": [
+          469
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "5301c87b4bce5957f5797574db400ee9f5dc6eb9",
+        "_score": null,
+        "_source": {
+          "offerCount": 468,
+          "comparableUrl": "jbl-go-oren"
+        },
+        "sort": [
+          468
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "5b58bfa51542831fd25cd77097a2950e22ecf828",
+        "_score": null,
+        "_source": {
+          "offerCount": 465,
+          "comparableUrl": "xiaomi-redmi-6a"
+        },
+        "sort": [
+          465
+        ]
+      },
+      {
+        "_index": "product_id_20181018",
+        "_type": "comparable",
+        "_id": "2dfbb6741dd8e4d577fea2c7644bff132a42f26b",
+        "_score": null,
+        "_source": {
+          "offerCount": 460,
+          "comparableUrl": "miyako-mcm-528"
+        },
+        "sort": [
+          460
+        ]
+      }
+    ]
+  }
+}

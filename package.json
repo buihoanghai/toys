@@ -1,0 +1,11 @@
+{
+  "name": "roi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:buihoanghai/roi.git",
+  "author": "haibui <hoanghaibui2003@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
