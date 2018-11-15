@@ -1,0 +1,241 @@
+{
+  "section1": {
+    "type": "product-carousel",
+    "title": "Compare Prices and Find the Cheapest Price",
+    "go-to-url": "1234",
+    "go-to-title": "1234"
+  },
+  "section1_link": {
+    "type": "link",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "section2": {
+    "type": "product-carousel",
+    "title": "Top sephora products",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "1234",
+        "price": "1234",
+        "store-count": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      },
+      {
+        "name": "1234",
+        "price": "1234",
+        "store-count": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      }
+    ]
+  },
+  "section3": {
+    "type": "catagory-carousel",
+    "title": "Popular Products",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      }
+    ]
+  },
+  "section2_link": {
+    "type": "link",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "section4": {
+    "type": "category-carousel",
+    "title": "Top Men Fashion",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "image-url": "1234",
+    "url": "1234",
+    "label": "1234",
+    "items": [
+      {
+        "brand-name": "1234",
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      },
+      {
+        "brand-name": "1234",
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      }
+    ]
+  },
+  "section3_link": {
+    "type": "link",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "section5": {
+    "type": "category-carousel",
+    "title": "Top Women Fashion",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "image-url": "1234",
+    "url": "1234",
+    "label": "1234",
+    "items": [
+      {
+        "brand-name": "1234",
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      },
+      {
+        "brand-name": "1234",
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      }
+    ]
+  },
+  "section4_link": {
+    "type": "link",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "section6": {
+    "type": "catagory-carousel-no-text",
+    "title": "Top Coupon Store",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      }
+    ]
+  },
+  "section7": {
+    "type": "catagory-carousel-no-text",
+    "title": "Top Coupon Categories",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      }
+    ]
+  },
+  "section8": {
+    "type": "coupon-carousel",
+    "title": "Best Coupon",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234",
+        "image-url": "1234"
+      }
+    ]
+  },
+  "section9": {
+    "type": "link",
+    "title": "Top keywords",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "section10": {
+    "type": "link",
+    "title": "Explore More",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "end": {}
+}
