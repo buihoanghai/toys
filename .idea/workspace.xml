@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse-csv/lib/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_size_measuring_script/__MACOSX/html_size_mesure/._links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html_size_measuring_script/__MACOSX/html_size_mesure/._links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_size_measuring_script/__MACOSX/html_size_mesure/._mesure.sh" beforeDir="false" afterPath="$PROJECT_DIR$/html_size_measuring_script/__MACOSX/html_size_mesure/._mesure.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_size_measuring_script/__MACOSX/html_size_mesure/._qa-mesure.sh" beforeDir="false" afterPath="$PROJECT_DIR$/html_size_measuring_script/__MACOSX/html_size_mesure/._qa-mesure.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-exel/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse-csv/result/Homepage - MY.json" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/result/Homepage - MY.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="util.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="106" column="23" lean-forward="true" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+              <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
               <folding>
                 <element signature="n#!!block;n#CSVToArray#0" />
               </folding>
@@ -59,11 +56,7 @@
       </file>
       <file leaf-file-name="result2.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/result2.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="99" selection-start-line="99" selection-end-line="99" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
@@ -75,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Homepage - MY.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Homepage - MY.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parse-csv/result/Homepage - MY.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret column="2525" lean-forward="true" selection-end-column="4723" />
             </state>
           </provider>
         </entry>
@@ -95,11 +88,7 @@
       </file>
       <file leaf-file-name="Homepage - MY.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parse-csv/result/Homepage - MY.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret column="2721" lean-forward="true" selection-start-column="2721" selection-end-column="2721" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
       <file leaf-file-name="result2.txt" pinned="false" current-in-tab="false">
@@ -140,8 +129,9 @@
         <option value="$PROJECT_DIR$/parse-exel/lib/util.js" />
         <option value="$PROJECT_DIR$/parse-exel/index.js" />
         <option value="$PROJECT_DIR$/parse-csv/index.js" />
-        <option value="$PROJECT_DIR$/parse-csv/result/Homepage - MY.json" />
         <option value="$PROJECT_DIR$/parse-csv/lib/util.js" />
+        <option value="$PROJECT_DIR$/parse-csv/result/Homepage - MY.csv" />
+        <option value="$PROJECT_DIR$/parse-csv/result/Homepage - MY.json" />
       </list>
     </option>
   </component>
@@ -170,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,7 +189,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,15 +199,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/parse-exel/lib" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/parse-csv/data" />
       <recent name="$PROJECT_DIR$/parse-exel/data" />
       <recent name="$PROJECT_DIR$/parse-exel" />
       <recent name="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/parse-exel/lib" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -247,16 +237,18 @@
       <workItem from="1540376481455" duration="1223000" />
       <workItem from="1540437392312" duration="3665000" />
       <workItem from="1542264825381" duration="3742000" />
-      <workItem from="1542292320390" duration="8480000" />
+      <workItem from="1542292320390" duration="9091000" />
+      <workItem from="1542432835374" duration="1667000" />
+      <workItem from="1542461321532" duration="4150000" />
+      <workItem from="1542531772249" duration="90000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23760000" />
+    <option name="totallyTimeSpent" value="30278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="327" y="29" width="1593" height="1023" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24921532" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -264,12 +256,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31782946" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -596,25 +588,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/result/Homepage - MY.csv">
-      <provider editor-type-id="csv-text-editor">
-        <state relative-caret-position="255">
-          <caret column="2742" lean-forward="true" selection-start-column="2742" selection-end-column="2742" />
+    <entry file="file://$PROJECT_DIR$/result2.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret column="2721" lean-forward="true" selection-start-column="2721" selection-end-column="2721" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+    <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!block;n#CSVToArray#0" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/index.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -623,27 +613,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
+    <entry file="file://$PROJECT_DIR$/parse-csv/result/Homepage - MY.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret column="2721" lean-forward="true" selection-start-column="2721" selection-end-column="2721" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/result/Homepage - MY.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="106" column="23" lean-forward="true" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!block;n#CSVToArray#0" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret column="2525" lean-forward="true" selection-end-column="4723" />
         </state>
       </provider>
     </entry>
