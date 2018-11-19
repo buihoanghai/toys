@@ -6,7 +6,7 @@ function process() {
 	fs.readFile(file, 'utf8', function (err, data) {
 		var json = util.CSVToArray(data);
 		var arr = util.arrayToJson(json);
-		fs.writeFile("parse-csv/result/Homepage - MY.json", JSON.stringify(arr), function(err) {
+		fs.writeFile("data/Homepage - MY.json", JSON.stringify(arr), function(err) {
 			if (err) {
 				console.log('Some error occured - file either not saved or corrupted file saved.');
 			} else {

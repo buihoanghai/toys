@@ -91,17 +91,17 @@ function arrayToJson(table) {
 	var item;
 	var currentRow;
 	_.each(table, (row, indexRow) => {
-		console.log("row", indexRow);
+		// console.log("row", indexRow);
 		if(items){
 			if(Object.keys(item).length){
-				items.push(item);
+				items.push(_.clone(item));
 			}
 		}
 		_.each(row, (cell, indexCol) => {
 			cell = cell.trim ? cell.trim() : "";
 			if (isHeader(cell)) {
 				heads[indexCol] = cell;
-				console.log("header", cell);
+				// console.log("header", cell);
 				switch (cell){
 					case "items":
 						items = [];
@@ -114,7 +114,7 @@ function arrayToJson(table) {
 
 			} else {
 				if (cell) {
-					console.log("cell", heads[indexCol], indexCol, cell);
+					// console.log("cell", heads[indexCol], indexCol, cell);
 					switch (heads[indexCol]){
 						case "section":
 							result[cell] = currentRow = {};

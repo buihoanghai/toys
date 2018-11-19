@@ -1,0 +1,1199 @@
+{
+  "section1": {
+    "type": "product-carousel",
+    "title": "Compare Prices and Find the Cheapest Price",
+    "go-to-url": "1234",
+    "go-to-title": "1234"
+  },
+  "section1_link": {
+    "type": "link",
+    "items": [
+      {
+        "name": "Oppo  F9",
+        "url": "/compare/oppo-f9/"
+      },
+      {
+        "name": "Huawei Nova 2i",
+        "url": "/compare/huawei-nova-2i/"
+      },
+      {
+        "name": "Apple iPhone Xs",
+        "url": "/compare/apple-iphone-xs/"
+      },
+      {
+        "name": "Vivo  V9",
+        "url": "/compare/vivo-v9/"
+      },
+      {
+        "name": "Huawei nova 3i",
+        "url": "/compare/huawei-nova-3i/"
+      },
+      {
+        "name": "Huawei  P20 Pro",
+        "url": "/compare/huawei-p20-pro/"
+      },
+      {
+        "name": "Huawei  P20",
+        "url": "/compare/huawei-p20/"
+      },
+      {
+        "name": "Apple iPhone Xr",
+        "url": "/compare/apple-iphone-xr/"
+      },
+      {
+        "name": "OPPO  F7",
+        "url": "/compare/oppo-f7/"
+      },
+      {
+        "name": "vivo  Y53",
+        "url": "/compare/vivo-y53/"
+      },
+      {
+        "name": "Xiaomi Pocophone F1",
+        "url": "/compare/xiaomi-pocophone-f1/"
+      },
+      {
+        "name": "Huawei Nova 2 Lite",
+        "url": "/compare/huawei-nova-2-lite/"
+      },
+      {
+        "name": "OPPO  R9s",
+        "url": "/compare/oppo-r9s/"
+      },
+      {
+        "name": "vivo  V11 Pro",
+        "url": "/compare/vivo-v11-pro/"
+      },
+      {
+        "name": "OPPO  F7",
+        "url": "/compare/oppo-f7-64gb-diamond-black/"
+      },
+      {
+        "name": "Samsung Galaxy A9 Pro",
+        "url": "/compare/samsung-galaxy-a9-pro/"
+      },
+      {
+        "name": "Samsung Galaxy J6",
+        "url": "/compare/samsung-galaxy-j6/"
+      },
+      {
+        "name": "OPPO  F5",
+        "url": "/compare/oppo-f5-32gb-gold/"
+      },
+      {
+        "name": "Samsung Galaxy Note 9",
+        "url": "/compare/samsung-galaxy-note-9/"
+      },
+      {
+        "name": "vivo  Y71",
+        "url": "/compare/vivo-y71/"
+      }
+    ]
+  },
+  "section2": {
+    "type": "product-carousel",
+    "title": "Top sephora products",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "OPPO A37",
+        "price": "RM 439.00",
+        "store-count": "4",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_fa7eccb676e7d8115d5cd5d7cfa81521.jpg",
+        "url": "/compare/oppo-a37/"
+      },
+      {
+        "name": "Asus ROG Phone",
+        "price": "RM 3,499.00",
+        "store-count": "3",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_8ca266c50dd03de67805d1835a6b2f68.jpg",
+        "url": "/compare/asus-rog-phone/"
+      },
+      {
+        "name": "Huawei P20 Pro",
+        "price": "RM 3,499.00",
+        "store-count": "0",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/54413844_0.jpg",
+        "url": "/compare/huawei-p20-pro-black/"
+      },
+      {
+        "name": "Vivo Y81",
+        "price": "RM 699.00",
+        "store-count": "5",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_1be5391f1aebcc608201c7ca28de4dcb.jpg",
+        "url": "/compare/vivo-y81/"
+      },
+      {
+        "name": "Oppo F9",
+        "price": "RM 1,255.00",
+        "store-count": "2",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_126497687b3b7a006352d008a1b23847.jpg",
+        "url": "/compare/oppo-f9-starry-purple/"
+      },
+      {
+        "name": "OPPO F5",
+        "price": "RM 339.00",
+        "store-count": "4",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_aa1c62a8426509d20f2b3e0c11704f93.jpg",
+        "url": "/compare/oppo-f5/"
+      },
+      {
+        "name": "vivo V5",
+        "price": "RM 549.00",
+        "store-count": "3",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_5f8caf5be2e1c0ec9bc92c067eda0276.jpg",
+        "url": "/compare/vivo-v5/"
+      },
+      {
+        "name": "vivo V7",
+        "price": "RM 766.00",
+        "store-count": "3",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_7ee689a143e32dfc28cbebba6c524ef3.jpg",
+        "url": "/compare/vivo-v7/"
+      },
+      {
+        "name": "Samsung Galaxy A7",
+        "price": "RM 1,299.00",
+        "store-count": "3",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_205540235693e153b09f821826e47dc3.jpg",
+        "url": "/compare/samsung-galaxy-a7/"
+      },
+      {
+        "name": "Samsung Galaxy J4 (2018)",
+        "price": "RM 519.00",
+        "store-count": "5",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_a6f155028e14bf9630b20fb0949399cd.jpg",
+        "url": "/compare/samsung-galaxy-j4-2018/"
+      },
+      {
+        "name": "Huawei Mate 20 Lite",
+        "price": "RM 1,236.80",
+        "store-count": "1",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/f0e0fbd84f0591cc2edda570e36418e5173d2202_0.jpg",
+        "url": "/compare/huawei-mate-20-lite/"
+      },
+      {
+        "name": "Apple iPhone 7 Plus",
+        "price": "RM 2,749.00",
+        "store-count": "2",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_8f30458df819d90c07a9b639fc155848.jpg",
+        "url": "/compare/apple-iphone-7-plus-128gb-black/"
+      },
+      {
+        "name": "OnePlus 6",
+        "price": "RM 2,049.00",
+        "store-count": "5",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_e56a154d9b20c198b1f6d40f9b5e09f2.jpg",
+        "url": "/compare/oneplus-6/"
+      },
+      {
+        "name": "Vivo Y81",
+        "price": "RM 699.00",
+        "store-count": "3",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_0f5529999a8b7a7548b9d1e2fcba003d.jpg",
+        "url": "/compare/vivo-y81-black/"
+      },
+      {
+        "name": "OPPO A77",
+        "price": "RM 687.00",
+        "store-count": "3",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_ed4d5f29655c55c88f5936c0c16d2293.jpg",
+        "url": "/compare/oppo-a77/"
+      },
+      {
+        "name": "Oppo Realme 2",
+        "price": "RM 600.00",
+        "store-count": "1",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/54765efed415835a54941962943cc2b35f833464_0.jpg",
+        "url": "/compare/oppo-realme-2/"
+      },
+      {
+        "name": "Samsung Galaxy J2 Prime",
+        "price": "RM 329.00",
+        "store-count": "7",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_e858ab25c93e1e4905b121d938eb317b.jpg",
+        "url": "/compare/samsung-galaxy-j2-prime/"
+      },
+      {
+        "name": "Huawei Nova 3e",
+        "price": "RM 1,047.00",
+        "store-count": "6",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_a21589dba490c8fb6835d36de5995fd8.jpg",
+        "url": "/compare/huawei-nova-3e/"
+      },
+      {
+        "name": "Xiaomi Redmi Note 5 AI",
+        "price": "RM 569.00",
+        "store-count": "3",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_ee3f92c4170c877a310c43801d57ebd6.jpg",
+        "url": "/compare/xiaomi-redmi-note-5-ai/"
+      },
+      {
+        "name": "Xiaomi Black Shark",
+        "price": "RM 1,549.00",
+        "store-count": "4",
+        "image-url": "https://d1ry3pze7o2kc.cloudfront.net/uploaded_2b7df7ca8433125e53f33257ae8debd2.jpg",
+        "url": "/compare/xiaomi-black-shark/"
+      }
+    ]
+  },
+  "section3": {
+    "type": "catagory-carousel",
+    "title": "Popular Products",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "brand-name": "Huawei",
+        "name": "Mobile Phones",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/huawei.png",
+        "url": "/huawei/phones-tablets/smartphones/"
+      },
+      {
+        "brand-name": "Samsung",
+        "name": "Mobile Phones",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/samsung.jpg",
+        "url": "/samsung/phones-tablets/smartphones/"
+      },
+      {
+        "brand-name": "ASUS",
+        "name": "Mobile Phones",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/asus_2.png",
+        "url": "/asus/phones-tablets/smartphones/"
+      },
+      {
+        "brand-name": "Toshiba",
+        "name": "Washing Machines",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/toshiba_2.png",
+        "url": "/toshiba/appliances/laundry-machines/washing/"
+      },
+      {
+        "brand-name": "Toshiba",
+        "name": "Refrigerators",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/toshiba_2.png",
+        "url": "/toshiba/appliances/refrigerators/"
+      },
+      {
+        "brand-name": "KDK",
+        "name": "Fans",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/kdk.jpg",
+        "url": "/kdk/appliances/fans/"
+      },
+      {
+        "brand-name": "Canon",
+        "name": "Camera & Photo",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/canon.jpg",
+        "url": "/canon/camera-photo/"
+      },
+      {
+        "brand-name": "Xiaomi",
+        "name": "Mobile Phones",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/xiaomi.jpg",
+        "url": "/xiaomi/phones-tablets/smartphones/"
+      },
+      {
+        "brand-name": "Dyson",
+        "name": "Vacuum Cleaners",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/dyson.jpg",
+        "url": "/dyson/appliances/vacuum-cleaners/"
+      },
+      {
+        "brand-name": "Daikin",
+        "name": "Air Conditioners",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/daikin.jpg",
+        "url": "/daikin/appliances/air-conditioners/"
+      },
+      {
+        "brand-name": "Canon",
+        "name": "Printers",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/canon.jpg",
+        "url": "/canon/computing/printers/"
+      },
+      {
+        "brand-name": "Sharp",
+        "name": "Refrigerators",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/canon.jpg",
+        "url": "/sharp/appliances/refrigerators/"
+      },
+      {
+        "brand-name": "Panasonic",
+        "name": "Fans",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/panasonic.png",
+        "url": "/panasonic/appliances/fans/"
+      },
+      {
+        "brand-name": "York",
+        "name": "Air Conditioners",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/panasonic.png",
+        "url": "/york/appliances/air-conditioners/"
+      },
+      {
+        "brand-name": "Sharp",
+        "name": "Washing Machines",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/panasonic.png",
+        "url": "/sharp/appliances/laundry-machines/washing/"
+      },
+      {
+        "brand-name": "Brother",
+        "name": "Printers",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/brother.jpg",
+        "url": "/brother/computing/printers/"
+      },
+      {
+        "brand-name": "Samsung",
+        "name": "Smartwatches",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/samsung.jpg",
+        "url": "/samsung/phones-tablets/smartwatches/"
+      },
+      {
+        "brand-name": "Panasonic",
+        "name": "Refrigerators",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/panasonic.png",
+        "url": "/panasonic/appliances/refrigerators/"
+      },
+      {
+        "brand-name": "Brother",
+        "name": "Printers",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/brother.jpg",
+        "url": "/brother/computing/printers/"
+      }
+    ]
+  },
+  "section3_brand": {
+    "type": "catagory-carousel-no-text",
+    "items": [
+      {
+        "name": "Apple",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/apple_2.png",
+        "url": "/apple/"
+      },
+      {
+        "name": "Xiaomi",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/xiaomi.jpg",
+        "url": "/xiaomi/"
+      },
+      {
+        "name": "Huawei",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/huawei.png",
+        "url": "/huawei/"
+      },
+      {
+        "name": "Vivo",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/vivo.jpg",
+        "url": "/vivo/"
+      },
+      {
+        "name": "KDK",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/kdk.jpg",
+        "url": "/kdk/"
+      },
+      {
+        "name": "OPPO",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/oppo.jpg",
+        "url": "/oppo/"
+      },
+      {
+        "name": "Samsung",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/samsung.jpg",
+        "url": "/samsung/"
+      },
+      {
+        "name": "Asus",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/asus_2.png",
+        "url": "/asus/"
+      },
+      {
+        "name": "Dell",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/dell.png",
+        "url": "/dell/"
+      },
+      {
+        "name": "Canon",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/canon.jpg",
+        "url": "/canon/"
+      },
+      {
+        "name": "Lenovo",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/lenovos.png",
+        "url": "/lenovo/"
+      },
+      {
+        "name": "Hp",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/hp.jpg",
+        "url": "/hp/"
+      },
+      {
+        "name": "Garmin",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/garmin.jpg",
+        "url": "/garmin/"
+      },
+      {
+        "name": "Nokia",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/nokia.jpg",
+        "url": "/nokia/"
+      },
+      {
+        "name": "SINGER",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/singer.jpg",
+        "url": "/singer/"
+      }
+    ]
+  },
+  "section3_link": {
+    "type": "link",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "section4": {
+    "type": "category-carousel",
+    "title": "Top Men Fashion",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/trends-article/5-luxury-travel-bags-that-will-fulfill-your-wanderlust.jpg",
+    "url": "1234",
+    "label": "1234",
+    "items": [
+      {
+        "type": "TRUE",
+        "brand-name": "Louis Vuitton",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/louis-vuitton.jpg",
+        "url": "/louis-vuitton/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Coach",
+        "name": "Bags",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/coach.jpg",
+        "url": "/coach/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Swarovski",
+        "name": "Jewellery",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/swarovski.png",
+        "url": "/swarovski/jewellery/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "BONIA",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/bonia.jpg",
+        "url": "/bonia/bags/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Vincci",
+        "name": "Shoes",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/vincci.png",
+        "url": "/vincci/shoes/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Poh Kong",
+        "name": "Jewellery",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/poh-kong.jpg",
+        "url": "/poh-kong/jewellery/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "HLA",
+        "name": "Clothing",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/poh-kong.jpg",
+        "url": "/hla/clothing/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Alexandre Christie",
+        "name": "Watches",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/poh-kong.jpg",
+        "url": "/alexandre-christie/watches/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "FILA",
+        "name": "Shoes",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/fila.jpg",
+        "url": "/fila/shoes/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Charles & Keith",
+        "name": "Bags",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/charles-keith.jpg",
+        "url": "/charles-keith/bags/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Pandora",
+        "name": "Jewellery",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/pandora.jpg",
+        "url": "/pandora/jewellery/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Longchamp",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/longchamp.jpg",
+        "url": "/longchamp/bags/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Vincci",
+        "name": "Bags",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/vincci.png",
+        "url": "/vincci/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "BONIA",
+        "name": "Watches",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/bonia.jpg",
+        "url": "/bonia/watches/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Furla",
+        "name": "Bags",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/furla.jpg",
+        "url": "/furla/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Burberry",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/burberry.jpg",
+        "url": "/burberry/bags/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Tiffany & Co.",
+        "name": "Jewellery",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/tiffany.png",
+        "url": "/tiffany-co/jewellery/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Mcm",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/mcm.jpg",
+        "url": "/mcm/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Cerruti 1881",
+        "name": "Watches",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/cerruti-1881.jpg",
+        "url": "/cerruti-1881/watches/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Tomei",
+        "name": "Jewellery",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/tomei.jpg",
+        "url": "/tomei/jewellery/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Alba",
+        "name": "Watches",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/alba.jpg",
+        "url": "/alba/watches/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Nike",
+        "name": "Shoes",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/nike.jpg",
+        "url": "/nike/shoes/"
+      }
+    ]
+  },
+  "section4_link": {
+    "type": "link",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "section5": {
+    "type": "category-carousel",
+    "title": "Top Women Fashion",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/trends-article/heres-your-bruno-mars-live-in-kuala-lumpur-starter-pack.jpg",
+    "url": "1234",
+    "label": "1234",
+    "items": [
+      {
+        "type": "TRUE",
+        "brand-name": "Louis Vuitton",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/louis-vuitton.jpg",
+        "url": "/louis-vuitton/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Coach",
+        "name": "Bags",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/coach.jpg",
+        "url": "/coach/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Swarovski",
+        "name": "Jewellery",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/swarovski.png",
+        "url": "/swarovski/jewellery/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "BONIA",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/bonia.jpg",
+        "url": "/bonia/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Vincci",
+        "name": "Shoes",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/vincci.png",
+        "url": "/vincci/shoes/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Poh Kong",
+        "name": "Jewellery",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/poh-kong.jpg",
+        "url": "/poh-kong/jewellery/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "HLA",
+        "name": "Clothing",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/poh-kong.jpg",
+        "url": "/hla/clothing/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Alexandre Christie",
+        "name": "Watches",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/poh-kong.jpg",
+        "url": "/alexandre-christie/watches/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "FILA",
+        "name": "Shoes",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/fila.jpg",
+        "url": "/fila/shoes/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Charles & Keith",
+        "name": "Bags",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/charles-keith.jpg",
+        "url": "/charles-keith/bags/"
+      },
+      {
+        "type": "FALSE",
+        "brand-name": "Pandora",
+        "name": "Jewellery",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/pandora.jpg",
+        "url": "/pandora/jewellery/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Longchamp",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/longchamp.jpg",
+        "url": "/longchamp/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Vincci",
+        "name": "Bags",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/vincci.png",
+        "url": "/vincci/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "BONIA",
+        "name": "Watches",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/bonia.jpg",
+        "url": "/bonia/watches/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Furla",
+        "name": "Bags",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/furla.jpg",
+        "url": "/furla/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Burberry",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/burberry.jpg",
+        "url": "/burberry/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Tiffany & Co.",
+        "name": "Jewellery",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/tiffany.png",
+        "url": "/tiffany-co/jewellery/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Mcm",
+        "name": "Bags",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/mcm.jpg",
+        "url": "/mcm/bags/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Cerruti 1881",
+        "name": "Watches",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/cerruti-1881.jpg",
+        "url": "/cerruti-1881/watches/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Tomei",
+        "name": "Jewellery",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/tomei.jpg",
+        "url": "/tomei/jewellery/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Alba",
+        "name": "Watches",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/alba.jpg",
+        "url": "/alba/watches/"
+      },
+      {
+        "type": "TRUE",
+        "brand-name": "Nike",
+        "name": "Shoes",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/nike.jpg",
+        "url": "/nike/shoes/"
+      }
+    ]
+  },
+  "section5_brand": {
+    "type": "link",
+    "items": [
+      {
+        "brand-name": "Sephora",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/sephora.jpg",
+        "url": "/sephora/"
+      },
+      {
+        "brand-name": "Charles & Keith",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/charles-keith.jpg",
+        "url": "/charles-keith/"
+      },
+      {
+        "brand-name": "adidas",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/adidas.png",
+        "url": "/adidas/"
+      },
+      {
+        "brand-name": "Uniqlo",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/adidas.png",
+        "url": "/uniqlo/"
+      },
+      {
+        "brand-name": "Nike",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/nike.jpg",
+        "url": "/nike/"
+      },
+      {
+        "brand-name": "ALHA ALFA COSMETIC",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/alha-alfa-cosmetic.jpg",
+        "url": "/alha-alfa-cosmetic/"
+      },
+      {
+        "brand-name": "BONIA",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/bonia.jpg",
+        "url": "/bonia/"
+      },
+      {
+        "brand-name": "Longchamp",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/longchamp.jpg",
+        "url": "/longchamp/"
+      },
+      {
+        "brand-name": "FILA",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/fila.jpg",
+        "url": "/fila/"
+      },
+      {
+        "brand-name": "H&M",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/h-m.jpg",
+        "url": "/h-m/"
+      },
+      {
+        "brand-name": "spao",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/spao.jpg",
+        "url": "/spao/"
+      },
+      {
+        "brand-name": "Coach",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/coach.jpg",
+        "url": "/coach/"
+      },
+      {
+        "brand-name": "Carlo Rino",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/carlo-rino.jpg",
+        "url": "/carlo-rino/"
+      },
+      {
+        "brand-name": "The Body Shop",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/carlo-rino.jpg",
+        "url": "/the-body-shop/"
+      },
+      {
+        "brand-name": "Zara",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/zara.jpg",
+        "url": "/zara/"
+      },
+      {
+        "brand-name": "Victoria's Secret",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/victorias-secret.jpg",
+        "url": "/victorias-secret/"
+      },
+      {
+        "brand-name": "Swatch",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/swatch.jpg",
+        "url": "/swatch/"
+      },
+      {
+        "brand-name": "G2000",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/g2000.jpg",
+        "url": "/g2000/"
+      },
+      {
+        "brand-name": "Barry Smith",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/barry-smith.jpg",
+        "url": "/barry-smith/"
+      },
+      {
+        "brand-name": "Fossil",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/fossil.png",
+        "url": "/fossil/"
+      }
+    ]
+  },
+  "section5_link": {
+    "type": "link",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "section6": {
+    "type": "catagory-carousel-no-text",
+    "title": "Top Coupon Store",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "Lazada",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/lazada-my.jpg",
+        "url": "https://iprice.my/coupons/lazada/"
+      },
+      {
+        "name": "Foodpanda",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/store/foodpanda-my.jpg",
+        "url": "https://iprice.my/coupons/foodpanda/"
+      },
+      {
+        "name": "Grab",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg",
+        "url": "https://iprice.my/coupons/grab/"
+      },
+      {
+        "name": "Shopee",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/store/shopee-my.jpg",
+        "url": "https://iprice.my/coupons/shopee/"
+      },
+      {
+        "name": "AirAsia",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/store/airasia-my.jpg",
+        "url": "https://iprice.my/coupons/airasia/"
+      },
+      {
+        "name": "GrabFood",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/store/grabfood-my.jpg",
+        "url": "https://iprice.my/coupons/grabfood/"
+      },
+      {
+        "name": "Kkday",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/store/kkday-my.jpg",
+        "url": "https://iprice.my/coupons/kkday/"
+      },
+      {
+        "name": "Booking.com",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/store/bookingcom-my.jpg",
+        "url": "https://iprice.my/coupons/bookingcom/"
+      },
+      {
+        "name": "Klook",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/klook-my.jpg",
+        "url": "https://iprice.my/coupons/klook/"
+      },
+      {
+        "name": "Zalora",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg",
+        "url": "https://iprice.my/coupons/zalora/"
+      }
+    ]
+  },
+  "section7": {
+    "type": "catagory-carousel-no-text",
+    "title": "Top Coupon Categories",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "11.11 Sale",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/coupon-category/1111-sale.jpg",
+        "url": "https://iprice.my/coupons/1111-sale/"
+      },
+      {
+        "name": "Weekly Exclusives",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/coupon-category/weekly-exclusives.jpg",
+        "url": "https://iprice.my/coupons/weekly-exclusives/"
+      },
+      {
+        "name": "Best Travel Promo Codes",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/coupon-category/best-travel-promo-codes.jpg",
+        "url": "https://iprice.my/coupons/best-travel-promo-codes/"
+      },
+      {
+        "name": "Fashion",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/coupon-category/fashion.jpg",
+        "url": "https://iprice.my/coupons/fashion/"
+      },
+      {
+        "name": "Electronics",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/coupon-category/electronics.jpg",
+        "url": "https://iprice.my/coupons/electronics/"
+      },
+      {
+        "name": "Home & Living",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/coupon-category/home-living.jpg",
+        "url": "https://iprice.my/coupons/home-living/"
+      },
+      {
+        "name": "Beauty & Health",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/coupon-category/beauty-health.jpg",
+        "url": "https://iprice.my/coupons/beauty-health/"
+      },
+      {
+        "name": "Food & Grocery",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/coupon-category/food-grocery.jpg",
+        "url": "https://iprice.my/coupons/food-grocery/"
+      },
+      {
+        "name": "Kids & Toys",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/coupon-category/kids-toys.jpg",
+        "url": "https://iprice.my/coupons/kids-toys/"
+      },
+      {
+        "name": "Sports & Outdoors",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/coupon-category/sports-outdoors.jpg",
+        "url": "https://iprice.my/coupons/sports-outdoors/"
+      }
+    ]
+  },
+  "section8": {
+    "type": "coupon-carousel",
+    "title": "Best Coupon",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "Receive Extra 10% Off selected Electronics : Enter Lazada code",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/lazada-my.jpg",
+        "url": "https://iprice.my/coupons/lazada/"
+      },
+      {
+        "name": "Use discount code | Take RM20 OFF on your first Foodpanda delivery order",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/store/foodpanda-my.jpg",
+        "url": "https://iprice.my/coupons/foodpanda/"
+      },
+      {
+        "name": "Apply Grab discount code: Get RM8 Off your first ride at selected destination",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg",
+        "url": "https://iprice.my/coupons/grab/"
+      },
+      {
+        "name": "Get Free Delivery on first 3 orders | Apply GrabFood discount code",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/store/grabfood-my.jpg",
+        "url": "https://iprice.my/coupons/grabfood/"
+      },
+      {
+        "name": "Save RM70 OFF selected Booking with AirAsia Discount Code",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/store/airasia-my.jpg",
+        "url": "https://iprice.my/coupons/airasia/"
+      },
+      {
+        "name": "Bank promotion - Get 15% OFF Shopee Promo Code - No Minimum Spend Required",
+        "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/store/shopee-my.jpg",
+        "url": "https://iprice.my/coupons/shopee/"
+      },
+      {
+        "name": "Grab RM15 OFF x 2 Food orders | Apply Promotion Code",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/kfc-my.jpg",
+        "url": "https://iprice.my/coupons/kfc/"
+      },
+      {
+        "name": "Enjoy RM15 Off x 2 orders at McDonald's with promotion code",
+        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/store/mcdonalds-ph.jpg",
+        "url": "https://iprice.my/coupons/mcdonalds/"
+      },
+      {
+        "name": "Zalora Referral Reward — Enjoy RM25 Off with Zalora coupon code",
+        "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg",
+        "url": "https://iprice.my/coupons/zalora/"
+      }
+    ]
+  },
+  "section9": {
+    "type": "link",
+    "title": "Top keywords",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "1234",
+        "url": "1234"
+      },
+      {
+        "name": "1234",
+        "url": "1234"
+      }
+    ]
+  },
+  "section10": {
+    "type": "link",
+    "title": "Explore More",
+    "go-to-url": "1234",
+    "go-to-title": "1234",
+    "items": [
+      {
+        "name": "Huawei Nova 2i",
+        "url": "https://iprice.my/compare/huawei-nova-2i/"
+      },
+      {
+        "name": "Apple iPhone Xs",
+        "url": "https://iprice.my/compare/apple-iphone-xs/"
+      },
+      {
+        "name": "Vivo  V9",
+        "url": "https://iprice.my/compare/vivo-v9/"
+      },
+      {
+        "name": "OPPO Mobile Phones",
+        "url": "https://iprice.my/oppo/phones-tablets/smartphones/"
+      },
+      {
+        "name": "Phones & Tablets",
+        "url": "https://iprice.my/phones-tablets/smartphones/"
+      },
+      {
+        "name": "Huawei  P20 Pro",
+        "url": "https://iprice.my/compare/huawei-p20-pro/"
+      },
+      {
+        "name": "Apple Apple",
+        "url": "https://iprice.my/apple/iphone/"
+      },
+      {
+        "name": "Huawei Nova 2 Lite",
+        "url": "https://iprice.my/compare/huawei-nova-2-lite/"
+      },
+      {
+        "name": "Apple iPhone X",
+        "url": "https://iprice.my/compare/apple-iphone-x/"
+      },
+      {
+        "name": "Oppo  F9",
+        "url": "https://iprice.my/compare/oppo-f9/"
+      },
+      {
+        "name": "Coach Bags",
+        "url": "https://iprice.my/coach/bags/"
+      },
+      {
+        "name": "Huawei Mobile Phones",
+        "url": "https://iprice.my/huawei/phones-tablets/smartphones/"
+      },
+      {
+        "name": "Louis Vuitton Bags",
+        "url": "https://iprice.my/louis-vuitton/bags/"
+      },
+      {
+        "name": "Apple iPhone 7",
+        "url": "https://iprice.my/compare/apple-iphone-7/"
+      },
+      {
+        "name": "Casio Casio",
+        "url": "https://iprice.my/casio/g-shock/"
+      },
+      {
+        "name": "Gucci Bags",
+        "url": "https://iprice.my/gucci/bags/"
+      },
+      {
+        "name": "CHANEL Bags",
+        "url": "https://iprice.my/chanel/bags/"
+      },
+      {
+        "name": "Xiaomi Pocophone F1",
+        "url": "https://iprice.my/compare/xiaomi-pocophone-f1/"
+      },
+      {
+        "name": "Samsung Galaxy Note 9",
+        "url": "https://iprice.my/compare/samsung-galaxy-note-9/"
+      },
+      {
+        "name": "Acer Laptops",
+        "url": "https://iprice.my/acer/computing/laptops/"
+      }
+    ]
+  },
+  "end": {}
+}
