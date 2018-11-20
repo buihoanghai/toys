@@ -1,26 +1,11 @@
-const puppeteer = require('puppeteer');
-
-(async () => {
-	const browser = await puppeteer.launch({
-		headless: true,
-		executablePath: '/usr/bin/google-chrome'
-	});
-	const page = await browser.newPage();
-	await page.goto('https://my.iprice.mx/watches/');
-
-	// Get the "viewport" of the page, as reported by the page.
-	const dimensions = await page.evaluate(() => {
-		var h1 = document.querySelector("h1");
-		h1.innerText;
-		return {
-			width: document.documentElement.clientWidth,
-			height: document.documentElement.clientHeight,
-			deviceScaleFactor: window.devicePixelRatio,
-			heading1: h1.innerText
-		};
-	});
-
-	console.log('Dimensions:', dimensions);
-
-	await browser.close();
-})();
+require("./section1_link")
+require("./section2")
+require("./section3")
+require("./section3_brand")
+require("./section4")
+require("./section5")
+require("./section5_brand")
+require("./section6")
+require("./section7")
+require("./section8")
+require("./section10")

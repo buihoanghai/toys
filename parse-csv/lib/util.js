@@ -1,6 +1,6 @@
 const _ = require('lodash');
 
-const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "name", "url", "price", "store-count", "image-url", "brand-name", "label"];
+const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "name", "url", "price", "store-count", "image-url", "brand-name", "label", "store-name"];
 
 function CSVToArray( strData, strDelimiter ){
 	// Check to see if the delimiter is defined. If not,

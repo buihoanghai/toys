@@ -21,10 +21,12 @@ var result = [];
 			let url = a.href;
 			let image = a.childNodes[1].childNodes[1];
 			let name = item.childNodes[3].childNodes[1].childNodes[1].innerText.trim();
+			let nameStore = item.childNodes[3].childNodes[3].childNodes[1].innerText.trim();
 			let imageUrl = image? image.getAttribute('src').trim() : "";
 			let data = [];
 			data.push(name);
 			data.push(imageUrl);
+			data.push(nameStore);
 			data.push(url);
 			result.push(data);
 		}
