@@ -19,7 +19,7 @@ let result = [];
 			brandName = brandName.innerText.trim();
 			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap a');
 			let name = breadcrumb[breadcrumb.length-1].innerText.trim();
-			let image =document.querySelector('.db-l.ba.b--gray-light.mr3.dn.v-mid amp-img');
+			let image =document.querySelector('.m-i amp-img');
 
 			let imageUrl = image? image.getAttribute('src').trim() : "";
 			let data = [];

@@ -1,7 +1,7 @@
 #!/bin/sh
 
-QA="intergration"
-DEV="iprice.mx/"
+QA="ip-8595"
+DEV="iprice.mx"
 
 cat links.txt | while read link
 do

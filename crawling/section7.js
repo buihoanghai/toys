@@ -10,7 +10,7 @@ var result = [];
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	await page.goto(config.url + "/coupons/");
+	await page.goto(config.urlCoupon);
 
 	const result = await page.evaluate(() => {
 		let items = document.querySelectorAll('#categories-coupons li');

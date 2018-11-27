@@ -1,6 +1,6 @@
 const _ = require('lodash');
 
-const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "name", "url", "price", "store-count", "image-url", "brand-name", "label", "store-name"];
+const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "name", "url", "price", "store-count", "image-url", "brand-name", "label", "store-name", "main-url"];
 
 function CSVToArray( strData, strDelimiter ){
 	// Check to see if the delimiter is defined. If not,
@@ -95,6 +95,7 @@ function arrayToJson(table) {
 		if(items){
 			if(Object.keys(item).length){
 				items.push(_.clone(item));
+				item = {};
 			}
 		}
 		_.each(row, (cell, indexCol) => {
