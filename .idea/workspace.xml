@@ -3,19 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section3.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/section3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section4.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/section4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section5.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/section5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section7.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/section7.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Homepage - MY.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Homepage - MY.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/qa-mesure.sh" beforeDir="false" afterPath="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/qa-mesure.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/lib/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/lib/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/result/Homepage - MY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/section3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/section3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/section4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/section4.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,13 +18,13 @@
       <file leaf-file-name="Homepage - MY.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret column="28625" selection-start-column="28625" selection-end-column="28625" />
+            <state relative-caret-position="213">
+              <caret column="23401" selection-end-column="26959" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/config.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -53,38 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section4.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawling/section4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="links.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/links.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="links.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="558">
               <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qa-mesure.sh" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/qa-mesure.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -98,15 +60,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Homepage - MY.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="section5.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawling/section5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
+            <state relative-caret-position="825">
               <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
             </state>
           </provider>
@@ -213,30 +170,7 @@
             <path>
               <item name="toys" type="b2602c69:ProjectViewProjectNode" />
               <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="html_size_measuring_script" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="html_size_measuring_script" type="462c0819:PsiDirectoryNode" />
-              <item name="html_size_mesure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toys" type="462c0819:PsiDirectoryNode" />
               <item name="parse-csv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="parse-csv" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="parse-csv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="toys" type="b2602c69:ProjectViewProjectNode" />
@@ -257,18 +191,18 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/parse-exel/lib" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/parse-csv/data" />
       <recent name="$PROJECT_DIR$/crawling" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/config" />
       <recent name="$PROJECT_DIR$/parse-exel/data" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/results" />
-      <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/parse-exel/lib" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -312,15 +246,15 @@
       <workItem from="1542773470840" duration="11699000" />
       <workItem from="1542853029380" duration="573000" />
       <workItem from="1542858436109" duration="2141000" />
+      <workItem from="1543300341299" duration="4876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72446000" />
+    <option name="totallyTimeSpent" value="77322000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="250" y="92" width="1593" height="1023" extended-state="0" />
-    <editor active="true" />
+    <frame x="250" y="57" width="1593" height="1023" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24921532" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -436,12 +370,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/result2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="99" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/result/Homepage - MY.csv" />
     <entry file="file://$PROJECT_DIR$/convert1.js">
@@ -462,8 +396,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section3.csv">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/Homepage - MY.csv" />
     <entry file="file://$PROJECT_DIR$/crawling/section5_brand.js">
@@ -522,31 +456,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section1_link.csv">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section2.csv">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section5.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section10.csv">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/crawling/section8.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -556,12 +490,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section8.csv">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="192" selection-start-line="8" selection-start-column="192" selection-end-line="8" selection-end-column="192" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -585,12 +519,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
-      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
+      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/crawling/section3.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -600,12 +534,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section4.csv">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="330">
           <caret line="21" column="133" selection-start-line="21" selection-start-column="133" selection-end-line="21" selection-end-column="133" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
@@ -617,41 +551,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret column="28625" selection-start-column="28625" selection-end-column="28625" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawling/section5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
+        <state relative-caret-position="825">
           <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/convert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/qa-mesure.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
@@ -669,17 +586,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/convert.js">
+    <entry file="file://$PROJECT_DIR$/crawling/section4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="25" />
+        <state relative-caret-position="532">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/qa-mesure.sh">
+    <entry file="file://$PROJECT_DIR$/crawling/section7.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        <state relative-caret-position="360">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret column="23401" selection-end-column="26959" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
