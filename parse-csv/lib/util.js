@@ -2,6 +2,34 @@ const _ = require('lodash');
 
 const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "name", "url", "price", "store-count", "image-url", "brand-name", "label", "store-name", "main-url"];
 
+const ORDER = ["brand" , "series", "model", "category", "gender", "color"];
+
+
+function sortArr(arr, order){
+	var result = [];
+	for(var i = 0;i< arr.length;i++){
+		let item = {
+			text: arr[i],
+			point:calPoint(arr[i], order)
+		};
+		result.push(item);
+	}
+	result = _.sortBy(result,"point");
+	var result1= [];
+	_.each(result,  item=>{
+		result1.push(item.text);
+	});
+	return result1;
+
+}
+function calPoint(str, order) {
+	for (var i = 0; i < order.length; i++) {
+		if (str === order[i])
+			return i;
+	}
+	return -1;
+}
+// "plp.electronics.default_gender_category_title"
 function CSVToArray( strData, strDelimiter ){
 	// Check to see if the delimiter is defined. If not,
 	// then default to comma.
@@ -136,12 +164,64 @@ function arrayToJson(table) {
 	});
 	return result;
 }
+const removeHeader = ["discount","og","blog","heading","store"];
+function isRemoveHeader(str){
+	for(var i = 0;i<removeHeader.length;i++){
+		if(str.indexOf(removeHeader[i]) !== -1){
+			return true;
+		}
+	}
+	return false;
+}
+function buildMetaTag(arr) {
+	let result = [];
+	_.each(arr, item => {
+		if(isRemoveHeader(item[4])){
+			return;
+		}
+		let cols = item[4].trim().split("_");
+		let t = [];
+		t.push(cols[0]);
+		let unsorted = cols.splice(1, cols.length - 2);
+		// console.log(unsorted.join());
+		let sorted = sortArr(unsorted, ORDER);
+		_.each(sorted, i => {
+			t.push(i);
+		});
+		t.push(cols[cols.length - 1]);
+		item[4] = t.join("_");
+		let data = buildCol(item[4]);
+		item[0] = data[0];
+		item[1] = data[1];
+		if(data[1]==="store" || data[1]==="search" || data[1].indexOf("color") !==-1){
+			return;
+		}
+		item[2] = data[2];
+		result.push(item);
+	});
+	return result;
+}
+function buildCol(str){
+	let result = [];
+	// "plp.sports-outdoor.default_discount_brand_series_model_meta"
+	var items = str.split(".");
+	var items1 = str.split("_");
+	let unsorted = items1.splice(1, items1.length - 2);
+	result.push(items[1]);
+	result.push(unsorted.join("_"));
+	result.push(items1[items1.length -1]);
+	return result;
+}
+
 function isHeader(str){
 
 	return HEADERS.includes(str);
 }
 const Util = {
 	CSVToArray : CSVToArray,
-	arrayToJson: arrayToJson
+	arrayToJson: arrayToJson,
+	buildMetaTag: buildMetaTag,
+	sortArr: sortArr,
+	buildCol: buildCol
 };
 module.exports = Util;

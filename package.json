@@ -8,5 +8,8 @@
   "dependencies": {
     "lodash": "^4.17.10",
     "puppeteer": "^1.6.2"
+  },
+  "devDependencies": {
+    "jasmine": "^3.3.0"
   }
 }
