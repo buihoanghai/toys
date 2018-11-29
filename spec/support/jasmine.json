@@ -1,0 +1,6 @@
+{
+  "spec_dir": "parse-csv",
+  "spec_files": [
+    "**/*[sS]pec.js"
+  ]
+}
