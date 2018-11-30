@@ -164,10 +164,11 @@ function arrayToJson(table) {
 	});
 	return result;
 }
-const removeHeader = ["discount","og","blog","heading","store"];
-function isRemoveHeader(str){
-	for(var i = 0;i<removeHeader.length;i++){
-		if(str.indexOf(removeHeader[i]) !== -1){
+const removeHeader = ["discount","og","blog"];
+const unchangedHeader = ["heading","store", "color"];
+function isExist(str, headers){
+	for(var i = 0;i<headers.length;i++){
+		if(str.indexOf(headers[i]) !== -1){
 			return true;
 		}
 	}
@@ -175,10 +176,12 @@ function isRemoveHeader(str){
 }
 function buildMetaTag(arr) {
 	let result = [];
+	let unchanged = [];
 	_.each(arr, item => {
-		if(isRemoveHeader(item[4])){
+		if(isExist(item[4],removeHeader)){
 			return;
 		}
+
 		let cols = item[4].trim().split("_");
 		let t = [];
 		t.push(cols[0]);
@@ -193,12 +196,18 @@ function buildMetaTag(arr) {
 		let data = buildCol(item[4]);
 		item[0] = data[0];
 		item[1] = data[1];
-		if(data[1]==="store" || data[1]==="search" || data[1].indexOf("color") !==-1){
+		item[2] = data[2];
+		if(isExist(item[4],unchangedHeader) || item[0]==="default" || item[1]==="default"){
+			item[0]="not";
+			item[1]="not";
+			item[2]="not";
+			unchanged.push(item);
 			return;
 		}
-		item[2] = data[2];
 		result.push(item);
 	});
+	result = result.concat(unchanged);
+
 	return result;
 }
 function buildCol(str){
@@ -208,7 +217,11 @@ function buildCol(str){
 	var items1 = str.split("_");
 	let unsorted = items1.splice(1, items1.length - 2);
 	result.push(items[1]);
-	result.push(unsorted.join("_"));
+	if(items[0]==="pdp"){
+		result.push("pdp");
+	}else{
+		result.push(unsorted.join("_"));
+	}
 	result.push(items1[items1.length -1]);
 	return result;
 }

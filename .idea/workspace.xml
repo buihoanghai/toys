@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse-csv/lib/utilSpec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse-csv/meta-template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thisGuestCorrectly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/en_hk/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/en_my/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/en_ph/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/en_sg/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/id/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/th/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/vi/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/metaTags/en_hk/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/metaTags/en_my/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/metaTags/en_ph/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/metaTags/en_sg/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/metaTags/id/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/metaTags/th/metaTags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/metaTags/vi/metaTags.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parse-csv/lib/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/lib/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result2.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,47 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="util.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="174" selection-start-line="174" selection-end-line="174" />
+            <state relative-caret-position="405">
+              <caret line="206" selection-start-line="206" selection-end-line="206" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thisGuestCorrectly.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thisGuestCorrectly.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="30" column="74" lean-forward="true" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jasmine.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spec/support/jasmine.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="section5.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawling/section5.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utilSpec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parse-csv/lib/utilSpec.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+      <file leaf-file-name="metaTags.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse-csv/data/metaTags.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="89" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -69,17 +49,8 @@
       <file leaf-file-name="meta-template.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parse-csv/meta-template.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-15">
               <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lib.es5.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="1116" column="16" selection-start-line="1116" selection-start-column="16" selection-end-line="1116" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -87,8 +58,8 @@
       <file leaf-file-name="metaTags.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/results/metaTags.csv">
           <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="-717">
-              <caret line="26" column="57" lean-forward="true" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+            <state relative-caret-position="-543">
+              <caret line="1006" column="77" lean-forward="true" selection-start-line="1006" selection-start-column="77" selection-end-line="1006" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -96,17 +67,8 @@
       <file leaf-file-name="metaTags.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/metaTags.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="section3.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawling/section3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="33" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="220">
+              <caret column="157403" lean-forward="true" selection-start-column="157403" selection-end-column="157403" />
             </state>
           </provider>
         </entry>
@@ -124,12 +86,17 @@
     <findStrings>
       <find>main-url</find>
       <find>&quot;&quot;</find>
-      <find>discount</find>
       <find>blog</find>
       <find>store</find>
       <find>og</find>
       <find>heading</find>
       <find>_heading</find>
+      <find>_h1</find>
+      <find>__h1</find>
+      <find>iscover the latest news and rumours ab</find>
+      <find>rumours about the [[brand]] [[series]] [[model]]</find>
+      <find>Discover the latest news and rumours about the [[brand]] [[series]] [[model]] on iPrice 香港</find>
+      <find>discount</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -172,8 +139,8 @@
         <option value="$PROJECT_DIR$/spec/support/jasmine.json" />
         <option value="$PROJECT_DIR$/parse-csv/lib/utilSpec.js" />
         <option value="$PROJECT_DIR$/thisGuestCorrectly.js" />
-        <option value="$PROJECT_DIR$/data/metaTags.json" />
         <option value="$PROJECT_DIR$/parse-csv/meta-template.js" />
+        <option value="$PROJECT_DIR$/data/metaTags.json" />
         <option value="$PROJECT_DIR$/parse-csv/lib/util.js" />
       </list>
     </option>
@@ -203,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,6 +192,19 @@
               <item name="toys" type="b2602c69:ProjectViewProjectNode" />
               <item name="toys" type="462c0819:PsiDirectoryNode" />
               <item name="parse-csv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+              <item name="parse-csv" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+              <item name="parse-csv" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="metaTags" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="toys" type="b2602c69:ProjectViewProjectNode" />
@@ -251,7 +232,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,18 +242,18 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/parse-csv/lib" />
-      <recent name="$PROJECT_DIR$/parse-csv/data" />
-      <recent name="$PROJECT_DIR$/parse-csv" />
-      <recent name="$PROJECT_DIR$/meta-template/data" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/results" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/parse-exel/lib" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$/parse-csv/data" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/parse-csv/lib" />
+      <recent name="$PROJECT_DIR$/parse-csv" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -319,18 +299,19 @@
       <workItem from="1542858436109" duration="2141000" />
       <workItem from="1543300341299" duration="4876000" />
       <workItem from="1543410997385" duration="8503000" />
-      <workItem from="1543481203244" duration="4976000" />
+      <workItem from="1543481203244" duration="6072000" />
+      <workItem from="1543544165012" duration="4996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90801000" />
+    <option name="totallyTimeSpent" value="96893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="101" y="50" width="1593" height="1023" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24921532" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24921532" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -339,7 +320,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3255814" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3255814" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -370,28 +351,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/result2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="99" column="47" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codebeautify.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result2.csv">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/result/Homepage - MY.csv" />
     <entry file="file://$PROJECT_DIR$/convert1.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -605,9 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/data/metaTags.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -624,43 +580,32 @@
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
+        <state relative-caret-position="16545">
           <caret line="1116" column="16" selection-start-line="1116" selection-start-column="16" selection-end-line="1116" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/metaTags.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/metaTags/id/metaTags.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/meta-template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="174" selection-start-line="174" selection-end-line="174" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/metaTags.csv">
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/metaTags/en_hk/metaTags.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-717">
-          <caret line="26" column="57" lean-forward="true" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        <state relative-caret-position="168">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/metaTags/id/metaTags.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="95" lean-forward="true" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/lib/utilSpec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -671,17 +616,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thisGuestCorrectly.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="30" column="74" lean-forward="true" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/support/jasmine.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thisGuestCorrectly.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" column="74" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/metaTags.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret column="157403" lean-forward="true" selection-start-column="157403" selection-end-column="157403" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/metaTags.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-543">
+          <caret line="1006" column="77" lean-forward="true" selection-start-line="1006" selection-start-column="77" selection-end-line="1006" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/meta-template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/metaTags.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="89" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
         </state>
       </provider>
     </entry>
