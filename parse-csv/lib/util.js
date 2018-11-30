@@ -165,7 +165,7 @@ function arrayToJson(table) {
 	return result;
 }
 const removeHeader = ["discount","og","blog"];
-const unchangedHeader = ["heading","store", "color"];
+const unchangedHeader = ["heading","store", "color", "search"];
 function isExist(str, headers){
 	for(var i = 0;i<headers.length;i++){
 		if(str.indexOf(headers[i]) !== -1){
@@ -198,9 +198,9 @@ function buildMetaTag(arr) {
 		item[1] = data[1];
 		item[2] = data[2];
 		if(isExist(item[4],unchangedHeader) || item[0]==="default" || item[1]==="default"){
-			item[0]="not";
-			item[1]="not";
-			item[2]="not";
+			item[0]="please-not-change";
+			item[1]="please-not-change";
+			item[2]="please-not-change";
 			unchanged.push(item);
 			return;
 		}

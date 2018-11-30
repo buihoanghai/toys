@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/en_hk/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/en_my/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/en_ph/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/en_sg/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/id/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/th/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse-csv/data/metaTags/vi/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/metaTags/en_hk/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/metaTags/en_my/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/metaTags/en_ph/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/metaTags/en_sg/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/metaTags/id/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/metaTags/th/metaTags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/metaTags/vi/metaTags.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/metaTags.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/metaTags.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parse-csv/lib/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/lib/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metaTags.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/metaTags.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +18,8 @@
       <file leaf-file-name="util.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="206" selection-start-line="206" selection-end-line="206" />
+            <state relative-caret-position="345">
+              <caret line="202" column="32" selection-start-line="202" selection-start-column="32" selection-end-line="202" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -68,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/data/metaTags.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret column="157403" lean-forward="true" selection-start-column="157403" selection-end-column="157403" />
+              <caret column="157232" lean-forward="true" selection-start-column="157232" selection-end-column="157232" />
             </state>
           </provider>
         </entry>
@@ -300,12 +287,12 @@
       <workItem from="1543300341299" duration="4876000" />
       <workItem from="1543410997385" duration="8503000" />
       <workItem from="1543481203244" duration="6072000" />
-      <workItem from="1543544165012" duration="4996000" />
+      <workItem from="1543544165012" duration="5372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96893000" />
+    <option name="totallyTimeSpent" value="97269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="101" y="50" width="1593" height="1023" extended-state="0" />
@@ -633,7 +620,7 @@
     <entry file="file://$PROJECT_DIR$/data/metaTags.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret column="157403" lean-forward="true" selection-start-column="157403" selection-end-column="157403" />
+          <caret column="157232" lean-forward="true" selection-start-column="157232" selection-end-column="157232" />
         </state>
       </provider>
     </entry>
@@ -660,8 +647,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="206" selection-start-line="206" selection-end-line="206" />
+        <state relative-caret-position="345">
+          <caret line="202" column="32" selection-start-line="202" selection-start-column="32" selection-end-line="202" selection-end-column="32" />
         </state>
       </provider>
     </entry>
