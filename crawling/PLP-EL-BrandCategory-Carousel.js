@@ -3,41 +3,41 @@ const homepage = require("../data/Homepage - MY");
 const config = require("../config/config");
 const _ = require('lodash');
 const fs = require('fs');
-var result = [];
+let result = [];
+
 (async () => {
 	const browser = await puppeteer.launch({
 		headless: false,
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	await page.goto(config.urlCoupon);
+	for(let i = 0; i<homepage['PLP-EL-BrandCategory-Carousel'].items.length;i++){
+		let item = homepage['PLP-EL-BrandCategory-Carousel'].items[i];
+		await page.goto(config.url + item.url);
+		const data = await page.evaluate(() => {
+			let brandName = document.querySelector('#clear_filters a span');
+			brandName = brandName.innerText.trim();
+			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap a');
+			let name = breadcrumb[breadcrumb.length-1].innerText.trim();
+			let image =document.querySelector('.m-i amp-img');
 
-	const result = await page.evaluate(() => {
-		let items = document.querySelectorAll('#categories-coupons li');
-		let result = [];
-		for(let i = 0; i<items.length;i++){
-			let item = items[i];
-			let a = item.childNodes[1].childNodes[1];
-			let url = a.href;
-			let image = a.childNodes[1].childNodes[1];
-			let name = item.innerText.trim();
 			let imageUrl = image? image.getAttribute('src').trim() : "";
 			let data = [];
+			data.push(brandName);
 			data.push(name);
 			data.push(imageUrl);
-			data.push(url);
-			result.push(data);
-		}
-		return result;
-	});
-	console.log(result.length);
+
+			return data;
+		});
+		result.push(data);
+	}
 	var lineArray = [];
 	result.forEach(function (infoArray, index) {
 		var line = infoArray.join("\t");
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");
-	fs.writeFile("results/section7.csv",csvContent, 'utf8', function(err) {
+	fs.writeFile("results/PLP-EL-BrandCategory-Carousel.csv",csvContent, 'utf8', function(err) {
 		if (err) {
 			console.log('Some error occured - file either not saved or corrupted file saved.');
 		} else {

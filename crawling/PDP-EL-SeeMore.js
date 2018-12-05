@@ -11,33 +11,22 @@ let result = [];
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	for(let i = 0; i<homepage.section2.items.length;i++){
-		let item = homepage.section2.items[i];
+	for(var i = 0; i<homepage["PDP-EL-SeeMore"].items.length;i++){
+		let item = homepage["PDP-EL-SeeMore"].items[i];
 		await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
-			var name = document.querySelector("#b-c");
-			name = name.innerText.trim();
-			let price = document.querySelector('.green.f18.f25-l');
-			price = price? price.innerText.trim(): "";
-			let store = document.querySelectorAll('.offers-collection').length;
-			let imageUrl = document.querySelector('#product-gallery amp-img').getAttribute('src').trim();
-			let data = [];
-			data.push(name);
-			data.push(price);
-			data.push(store);
-			data.push(imageUrl);
-
-			return data;
+			var elem = document.querySelector("#b-c");
+			return elem.innerText;
 		});
-		result.push(data);
+		result.push(data.trim());
 	}
 	var lineArray = [];
 	result.forEach(function (infoArray, index) {
-		var line = infoArray.join("\t");
+		var line = infoArray;
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");
-	fs.writeFile("results/section2.csv",csvContent, 'utf8', function(err) {
+	fs.writeFile("results/PDP-EL-SeeMore.csv",csvContent, 'utf8', function(err) {
 		if (err) {
 			console.log('Some error occured - file either not saved or corrupted file saved.');
 		} else {

@@ -11,33 +11,32 @@ let result = [];
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	for(let i = 0; i<homepage.section3.items.length;i++){
-		let item = homepage.section3.items[i];
-		await page.goto(config.url + item.url);
+	for(var i = 0; i<homepage['PDP-PLP-SeeMore'].items.length;i++){
+		let item = homepage['PDP-PLP-SeeMore'].items[i];
+		await page.goto(item.url);
 		const data = await page.evaluate(() => {
-			let brandName = document.querySelector('#clear_filters a span');
-			brandName = brandName.innerText.trim();
-			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap a');
-			let name = breadcrumb[breadcrumb.length-1].innerText.trim();
-			let image =document.querySelector('.m-i amp-img');
+			var name = document.querySelector("#b-c");
+			if(name){
+				name = name.innerText;
+			}
+			if(!name){
+				let brandName = document.querySelector('#clear_filters a span');
 
-			let imageUrl = image? image.getAttribute('src').trim() : "";
-			let data = [];
-			data.push(brandName);
-			data.push(name);
-			data.push(imageUrl);
-
-			return data;
+				brandName = brandName ? brandName.innerText.trim() + " " : "";
+				let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap a');
+				name = brandName + breadcrumb[breadcrumb.length-1].innerText.trim();
+			}
+			return name.trim();
 		});
-		result.push(data);
+		result.push(data.trim());
 	}
 	var lineArray = [];
 	result.forEach(function (infoArray, index) {
-		var line = infoArray.join("\t");
+		var line = infoArray;
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");
-	fs.writeFile("results/section3.csv",csvContent, 'utf8', function(err) {
+	fs.writeFile("results/PDP-PLP-SeeMore.csv",csvContent, 'utf8', function(err) {
 		if (err) {
 			console.log('Some error occured - file either not saved or corrupted file saved.');
 		} else {

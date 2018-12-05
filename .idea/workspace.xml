@@ -3,10 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section10.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section1_link.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section2.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-HB-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section3.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section3_brand.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-EL-Brand-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section4.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section5.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section5_brand.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-FA-Brand-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section6.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/section8.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Homepage - MY.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Homepage - MY.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/data/metaTags.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/lib/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/lib/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/section6.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,47 +28,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
+      <file leaf-file-name="PDP-HB-Carousel.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crawling/PDP-HB-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2550">
-              <caret line="170" selection-start-line="170" selection-end-line="170" />
+            <state relative-caret-position="200">
+              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Homepage - MY.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Homepage - MY.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret column="36513" selection-end-column="37242" />
+            <state relative-caret-position="372">
+              <caret column="34033" selection-start-column="34033" selection-end-column="34033" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parse-csv/index.js">
+      <file leaf-file-name="PLP-EL-Brand-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-Brand-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="315">
+              <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="utilSpec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parse-csv/lib/utilSpec.js">
+      <file leaf-file-name="PLP-EL-BrandCategory-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="meta-template.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parse-csv/meta-template.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+            <state relative-caret-position="495">
+              <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -71,20 +73,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metaTags.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/metaTags.csv">
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="15090">
-              <caret line="1006" column="77" selection-start-line="1006" selection-start-column="77" selection-end-line="1006" selection-end-column="77" />
+      <file leaf-file-name="PLP-FA-Brand-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-Brand-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metaTags.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/metaTags.json">
+      <file leaf-file-name="PLP-FA-BrandCategory-Men-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2790">
-              <caret column="186464" selection-start-column="186464" selection-end-column="186464" />
+            <state relative-caret-position="330">
+              <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PLP-FA-BrandCategory-Women-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PDP-EL-SeeMore.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -144,7 +164,6 @@
         <option value="$PROJECT_DIR$/crawling/section5_brand.js" />
         <option value="$PROJECT_DIR$/crawling/section6.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/crawling/index.js" />
         <option value="$PROJECT_DIR$/crawling/section8.js" />
         <option value="$PROJECT_DIR$/crawling/section2.js" />
         <option value="$PROJECT_DIR$/crawling/section3.js" />
@@ -162,6 +181,15 @@
         <option value="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" />
         <option value="$PROJECT_DIR$/parse-csv/lib/util.js" />
         <option value="$PROJECT_DIR$/data/Homepage - MY.json" />
+        <option value="$PROJECT_DIR$/crawling/index.js" />
+        <option value="$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js" />
+        <option value="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-FA-Brand-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-EL-Brand-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PDP-HB-Carousel.js" />
       </list>
     </option>
   </component>
@@ -180,8 +208,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="29" />
-    <option name="y" value="55" />
+    <option name="x" value="434" />
+    <option name="y" value="52" />
     <option name="width" value="1483" />
     <option name="height" value="1023" />
   </component>
@@ -222,19 +250,6 @@
             <path>
               <item name="toys" type="b2602c69:ProjectViewProjectNode" />
               <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="parse-csv" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="metaTags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="parse-csv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toys" type="462c0819:PsiDirectoryNode" />
               <item name="results" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -262,18 +277,18 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/parse-exel/lib" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/parse-csv/data" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/results" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/parse-csv/lib" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/results" />
-      <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/parse-exel/lib" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -325,14 +340,16 @@
       <workItem from="1543914039333" duration="1860000" />
       <workItem from="1543929610529" duration="11617000" />
       <workItem from="1543943470219" duration="2629000" />
+      <workItem from="1543976010993" duration="7229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117001000" />
+    <option name="totallyTimeSpent" value="124230000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="435" y="31" width="1483" height="1023" extended-state="0" />
+    <frame x="434" y="52" width="1483" height="1023" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2677006" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -374,7 +391,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/parse-csv/result/Homepage - MY.csv" />
     <entry file="file://$PROJECT_DIR$/convert1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -385,42 +401,14 @@
     <entry file="file://$PROJECT_DIR$/results/section3_brand.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section3_brand.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/results/section3.csv">
-      <provider editor-type-id="csv-text-editor" />
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section5_brand.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
+      <provider editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section5_brand.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section10.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -430,84 +418,56 @@
     <entry file="file://$PROJECT_DIR$/results/section7.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section1_link.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/results/section1_link.csv">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section5.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section10.csv">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section8.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section8.csv">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="192" selection-start-line="8" selection-start-column="192" selection-end-line="8" selection-end-column="192" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="71" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="71" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/section4.csv">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="330">
           <caret line="21" column="133" selection-start-line="21" selection-start-column="133" selection-end-line="21" selection-end-column="133" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
@@ -540,20 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -566,13 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="33" selection-end-line="45" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -597,13 +536,6 @@
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="150">
           <caret line="9" column="95" lean-forward="true" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -658,13 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2550">
-          <caret line="170" selection-start-line="170" selection-end-line="170" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/meta-template.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -672,18 +597,116 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/section8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/section7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret column="34033" selection-start-column="34033" selection-end-column="34033" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-Brand-Carousel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret column="36513" selection-end-column="37242" />
+        <state relative-caret-position="315">
+          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-Brand-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/PDP-EL-SeeMore.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-HB-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>

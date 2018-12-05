@@ -12,8 +12,8 @@ let url;
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	for(let i = 0; i<homepage.section4.items.length;i++){
-		let item = homepage.section4.items[i];
+	for(let i = 0; i<homepage['PLP-FA-BrandCategory-Women-Carousel'].items.length;i++){
+		let item = homepage['PLP-FA-BrandCategory-Women-Carousel'].items[i];
 		url = item['main-url'];
 		await page.goto(config.url + url);
 		const data = await page.evaluate(() => {
@@ -53,7 +53,7 @@ let url;
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");
-	fs.writeFile("results/section5.csv",csvContent, 'utf8', function(err) {
+	fs.writeFile("results/PLP-FA-BrandCategory-Women-Carousel.csv",csvContent, 'utf8', function(err) {
 		if (err) {
 			console.log('Some error occured - file either not saved or corrupted file saved.');
 		} else {

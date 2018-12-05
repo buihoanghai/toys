@@ -11,22 +11,29 @@ let result = [];
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	for(var i = 0; i<homepage.section1_link.items.length;i++){
-		let item = homepage.section1_link.items[i];
+	for(let i = 0; i<homepage['PLP-FA-Brand-Carousel'].items.length;i++){
+		let item = homepage['PLP-FA-Brand-Carousel'].items[i];
 		await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
-			var elem = document.querySelector("#b-c");
-			return elem.innerText;
+			let brandName = document.querySelector('#clear_filters a span');
+			brandName = brandName.innerText.trim();
+			let image =document.querySelector('.db-l.ba.b--gray-light.mr3.dn.v-mid amp-img');
+			let imageUrl = image? image.getAttribute('src').trim() : "";
+			let data = [];
+			data.push(brandName);
+			data.push(imageUrl);
+
+			return data;
 		});
-		result.push(data.trim());
+		result.push(data);
 	}
 	var lineArray = [];
 	result.forEach(function (infoArray, index) {
-		var line = infoArray;
+		var line = infoArray.join("\t");
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");
-	fs.writeFile("results/section1_link.csv",csvContent, 'utf8', function(err) {
+	fs.writeFile("results/PLP-FA-Brand-Carousel.csv",csvContent, 'utf8', function(err) {
 		if (err) {
 			console.log('Some error occured - file either not saved or corrupted file saved.');
 		} else {
