@@ -1,6 +1,6 @@
 const _ = require('lodash');
 
-const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "name", "url", "price", "store-count", "image-url", "brand-name", "label", "store-name", "main-url"];
+const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "items1", "name", "url", "price", "store-count", "image-url", "brand-name", "label", "store-name", "main-url"];
 
 const ORDER = ["brand" , "series", "model", "category", "gender", "color"];
 
@@ -116,26 +116,47 @@ function arrayToJson(table) {
 	var result = {};
 	var heads = new Array(20);
 	var items;
+	var items1;
 	var item;
+	var item1;
 	var currentRow;
+	var addItem1, addItem;
+	var indexColTemp1 = 999;
 	_.each(table, (row, indexRow) => {
 		// console.log("row", indexRow);
-		if(items){
-			if(Object.keys(item).length){
-				items.push(_.clone(item));
-				item = {};
+		if (items1) {
+			if (Object.keys(item1).length) {
+				items1.push(_.clone(item1));
+				item1 = {};
 			}
 		}
+		if (items) {
+			if (Object.keys(item).length) {
+				items.push(_.clone(item));
+				item = {};
+				item1 = {};
+			}
+		}
+
 		_.each(row, (cell, indexCol) => {
 			cell = cell.trim ? cell.trim() : "";
 			if (isHeader(cell)) {
 				heads[indexCol] = cell;
 				// console.log("header", cell);
-				switch (cell){
+				switch (cell) {
 					case "items":
 						items = [];
 						item = {};
-						currentRow["items"]= items;
+						currentRow["items"] = items;
+						addItem = true;
+						addItem1 = false;
+						break;
+					case "items1":
+						indexColTemp1 = indexCol;
+						items1 = [];
+						item1 = {};
+						item["items"] = items1;
+						addItem1 = true;
 						break;
 					default:
 
@@ -144,16 +165,33 @@ function arrayToJson(table) {
 			} else {
 				if (cell) {
 					// console.log("cell", heads[indexCol], indexCol, cell);
-					switch (heads[indexCol]){
+					switch (heads[indexCol]) {
 						case "section":
 							result[cell] = currentRow = {};
 							items = undefined;
+							items1 = undefined;
 							item = undefined;
+							item1 = undefined;
+							addItem1 = false;
+							indexColTemp1 = 999;
+							break;
+						case "items":
+							items1 = undefined;
+							item1 = undefined;
+							addItem1 = false;
 							break;
 						default:
-							if(item){
-								item[heads[indexCol]] = cell;
-							}else {
+							if (item) {
+								if (item1) {
+									if (indexColTemp1 <= indexCol) {
+										item1[heads[indexCol]] = cell;
+									} else {
+										item[heads[indexCol]] = cell;
+									}
+								} else {
+									item[heads[indexCol]] = cell;
+								}
+							} else {
 								currentRow[heads[indexCol]] = cell;
 							}
 					}
