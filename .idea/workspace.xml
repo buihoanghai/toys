@@ -2,22 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/crawling/PDP-EL-Carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawling/PDP-HB-SeeMore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawling/PLP-EL-Brand-SeeMore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawling/PLP-EL-Category-Carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawling/PLP-FA-Brand-SeeMore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawling/PLP-FA-Category-Carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawling/PLP-HB-Brand-Carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawling/PLP-HB-BrandCategory-Carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawling/PLP-HB-Category-Carousel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section10.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section1_link.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section2.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-HB-Carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section3.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section3_brand.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-EL-Brand-Carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section4.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section5.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section5_brand.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-FA-Brand-Carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section6.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawling/section8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/PDP-HB-Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-HB-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Homepage - MY.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Homepage - MY.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/section6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/section6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/.~lock.metaTags.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/PDP-EL-SeeMore.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/PDP-HB-Carousel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/PDP-PLP-SeeMore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/PDP-PLP-SeeMore.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/PLP-EL-Brand-Carousel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/PLP-EL-BrandCategory-Carousel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/PLP-FA-Brand-Carousel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/PLP-FA-BrandCategory-Men-Carousel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/PLP-FA-BrandCategory-Women-Carousel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metaTags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metaTags/en_hk/metaTags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metaTags/en_my/metaTags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metaTags/en_ph/metaTags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metaTags/en_sg/metaTags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metaTags/id/metaTags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metaTags/th/metaTags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metaTags/vi/metaTags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section1_link.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section3_brand.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section5_brand.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/section8.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,20 +55,562 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PDP-HB-Carousel.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/crawling/PDP-HB-Carousel.js">
+      <file leaf-file-name="Homepage - MY.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="90">
+              <caret line="719" column="3" selection-start-line="719" selection-start-column="3" selection-end-line="719" selection-end-column="17" />
+              <folding>
+                <element signature="n#!!block;n#Coupons-Store-Carousel#0;n#!!top" />
+                <element signature="e#235#2894#0" />
+                <element signature="e#243#399#0" />
+                <element signature="e#407#562#0" />
+                <element signature="e#570#725#0" />
+                <element signature="e#733#894#0" />
+                <element signature="e#902#1054#0" />
+                <element signature="e#1062#1214#0" />
+                <element signature="e#1222#1399#0" />
+                <element signature="e#1407#1568#0" />
+                <element signature="e#1576#1734#0" />
+                <element signature="e#1742#1894#0" />
+                <element signature="e#1902#2051#0" />
+                <element signature="e#2059#2223#0" />
+                <element signature="e#2231#2383#0" />
+                <element signature="e#2391#2538#0" />
+                <element signature="e#2546#2708#0" />
+                <element signature="e#2716#2888#0" />
+                <element signature="n#!!block;n#PLP-EL-BrandCategory-Carousel#0;n#!!top" />
+                <element signature="e#3038#7499#0" />
+                <element signature="e#3046#3280#0" />
+                <element signature="e#3288#3524#0" />
+                <element signature="e#3532#3762#0" />
+                <element signature="e#3770#4019#0" />
+                <element signature="e#4027#4261#0" />
+                <element signature="e#4269#4478#0" />
+                <element signature="e#4486#4705#0" />
+                <element signature="e#4713#4947#0" />
+                <element signature="e#4955#5190#0" />
+                <element signature="e#5198#5405#0" />
+                <element signature="e#5413#5632#0" />
+                <element signature="e#5640#5871#0" />
+                <element signature="e#5879#6100#0" />
+                <element signature="e#6108#6311#0" />
+                <element signature="e#6319#6564#0" />
+                <element signature="e#6572#6795#0" />
+                <element signature="e#6803#7039#0" />
+                <element signature="e#7047#7285#0" />
+                <element signature="e#7293#7493#0" />
+                <element signature="n#!!block;n#PLP-EL-Brand-Carousel#0;n#!!top" />
+                <element signature="e#7618#10824#0" />
+                <element signature="e#7626#7765#0" />
+                <element signature="e#7773#7913#0" />
+                <element signature="e#7921#8061#0" />
+                <element signature="e#8069#8203#0" />
+                <element signature="e#8211#8342#0" />
+                <element signature="e#8350#8484#0" />
+                <element signature="e#8492#8662#0" />
+                <element signature="e#8670#8806#0" />
+                <element signature="e#8814#8948#0" />
+                <element signature="e#8956#9120#0" />
+                <element signature="e#9128#9269#0" />
+                <element signature="e#9277#9432#0" />
+                <element signature="e#9440#9607#0" />
+                <element signature="e#9615#9752#0" />
+                <element signature="e#9760#9900#0" />
+                <element signature="e#9908#10072#0" />
+                <element signature="e#10080#10217#0" />
+                <element signature="e#10225#10359#0" />
+                <element signature="e#10367#10504#0" />
+                <element signature="e#10512#10652#0" />
+                <element signature="e#10660#10818#0" />
+                <element signature="n#!!block;n#PLP-EL-Category-Carousel#0;n#!!top" />
+                <element signature="e#10982#18136#0" />
+                <element signature="e#10990#12196#0" />
+                <element signature="e#11083#12188#0" />
+                <element signature="e#11095#11197#0" />
+                <element signature="e#11209#11319#0" />
+                <element signature="e#11331#11433#0" />
+                <element signature="e#11445#11549#0" />
+                <element signature="e#11561#11665#0" />
+                <element signature="e#11677#11790#0" />
+                <element signature="e#11802#11922#0" />
+                <element signature="e#11934#12054#0" />
+                <element signature="e#12066#12178#0" />
+                <element signature="e#12204#13117#0" />
+                <element signature="e#12311#13109#0" />
+                <element signature="e#12323#12440#0" />
+                <element signature="e#12452#12559#0" />
+                <element signature="e#12571#12688#0" />
+                <element signature="e#12700#12829#0" />
+                <element signature="e#12841#12958#0" />
+                <element signature="e#12970#13099#0" />
+                <element signature="e#13125#14171#0" />
+                <element signature="e#13214#14163#0" />
+                <element signature="e#13226#13333#0" />
+                <element signature="e#13345#13438#0" />
+                <element signature="e#13450#13545#0" />
+                <element signature="e#13557#13671#0" />
+                <element signature="e#13683#13793#0" />
+                <element signature="e#13805#13919#0" />
+                <element signature="e#13931#14028#0" />
+                <element signature="e#14040#14153#0" />
+                <element signature="e#14179#15421#0" />
+                <element signature="e#14282#15413#0" />
+                <element signature="e#14294#14402#0" />
+                <element signature="e#14414#14525#0" />
+                <element signature="e#14537#14652#0" />
+                <element signature="e#14664#14774#0" />
+                <element signature="e#14786#14893#0" />
+                <element signature="e#14905#15016#0" />
+                <element signature="e#15028#15147#0" />
+                <element signature="e#15159#15278#0" />
+                <element signature="e#15290#15403#0" />
+                <element signature="e#15429#16807#0" />
+                <element signature="e#15533#16799#0" />
+                <element signature="e#15545#15662#0" />
+                <element signature="e#15674#15779#0" />
+                <element signature="e#15791#15904#0" />
+                <element signature="e#15916#16017#0" />
+                <element signature="e#16029#16128#0" />
+                <element signature="e#16140#16247#0" />
+                <element signature="e#16259#16360#0" />
+                <element signature="e#16372#16501#0" />
+                <element signature="e#16513#16650#0" />
+                <element signature="e#16662#16789#0" />
+                <element signature="e#16815#18130#0" />
+                <element signature="e#16912#18122#0" />
+                <element signature="e#16924#17021#0" />
+                <element signature="e#17033#17148#0" />
+                <element signature="e#17160#17279#0" />
+                <element signature="e#17291#17412#0" />
+                <element signature="e#17424#17533#0" />
+                <element signature="e#17545#17650#0" />
+                <element signature="e#17662#17773#0" />
+                <element signature="e#17785#17888#0" />
+                <element signature="e#17900#17999#0" />
+                <element signature="e#18011#18112#0" />
+                <element signature="n#!!block;n#PDP-EL-Carousel#0;n#!!top" />
+                <element signature="e#18281#23388#0" />
+                <element signature="e#18289#18525#0" />
+                <element signature="e#18533#18783#0" />
+                <element signature="e#18791#19045#0" />
+                <element signature="e#19053#19289#0" />
+                <element signature="e#19297#19547#0" />
+                <element signature="e#19555#19807#0" />
+                <element signature="e#19815#20059#0" />
+                <element signature="e#20067#20321#0" />
+                <element signature="e#20329#20567#0" />
+                <element signature="e#20575#20813#0" />
+                <element signature="e#20821#21083#0" />
+                <element signature="e#21091#21349#0" />
+                <element signature="e#21357#21595#0" />
+                <element signature="e#21603#21804#0" />
+                <element signature="e#21812#22064#0" />
+                <element signature="e#22072#22338#0" />
+                <element signature="e#22346#22602#0" />
+                <element signature="e#22610#22862#0" />
+                <element signature="e#22870#23136#0" />
+                <element signature="e#23144#23382#0" />
+                <element signature="n#!!block;n#PDP-EL-SeeMore#0;n#!!top" />
+                <element signature="e#23478#27451#0" />
+                <element signature="e#23486#23666#0" />
+                <element signature="e#23674#23866#0" />
+                <element signature="e#23874#24074#0" />
+                <element signature="e#24082#24262#0" />
+                <element signature="e#24270#24450#0" />
+                <element signature="e#24458#24636#0" />
+                <element signature="e#24644#24822#0" />
+                <element signature="e#24830#25008#0" />
+                <element signature="e#25016#25214#0" />
+                <element signature="e#25222#25432#0" />
+                <element signature="e#25440#25642#0" />
+                <element signature="e#25650#25842#0" />
+                <element signature="e#25850#26032#0" />
+                <element signature="e#26040#26232#0" />
+                <element signature="e#26240#26420#0" />
+                <element signature="e#26428#26603#0" />
+                <element signature="e#26611#26821#0" />
+                <element signature="e#26829#27021#0" />
+                <element signature="e#27029#27237#0" />
+                <element signature="e#27245#27445#0" />
+                <element signature="n#!!block;n#PLP-FA-BrandCategory-Men-Carousel#0;n#!!top" />
+                <element signature="e#27803#33190#0" />
+                <element signature="e#27811#28118#0" />
+                <element signature="e#28126#28409#0" />
+                <element signature="e#28417#28727#0" />
+                <element signature="e#28735#29018#0" />
+                <element signature="e#29026#29154#0" />
+                <element signature="e#29162#29302#0" />
+                <element signature="e#29310#29438#0" />
+                <element signature="e#29446#29777#0" />
+                <element signature="e#29785#30068#0" />
+                <element signature="e#30076#30218#0" />
+                <element signature="e#30226#30364#0" />
+                <element signature="e#30372#30504#0" />
+                <element signature="e#30512#30638#0" />
+                <element signature="e#30646#30938#0" />
+                <element signature="e#30946#31229#0" />
+                <element signature="e#31237#31529#0" />
+                <element signature="e#31537#31684#0" />
+                <element signature="e#31692#31969#0" />
+                <element signature="e#31977#32290#0" />
+                <element signature="e#32298#32596#0" />
+                <element signature="e#32604#32893#0" />
+                <element signature="e#32901#33184#0" />
+                <element signature="n#!!block;n#PLP-FA-BrandCategory-Women-Carousel#0;n#!!top" />
+                <element signature="e#33547#39623#0" />
+                <element signature="e#33555#33864#0" />
+                <element signature="e#33872#34157#0" />
+                <element signature="e#34165#34477#0" />
+                <element signature="e#34485#34770#0" />
+                <element signature="e#34778#35069#0" />
+                <element signature="e#35077#35217#0" />
+                <element signature="e#35225#35353#0" />
+                <element signature="e#35361#35694#0" />
+                <element signature="e#35702#35987#0" />
+                <element signature="e#35995#36137#0" />
+                <element signature="e#36145#36283#0" />
+                <element signature="e#36291#36588#0" />
+                <element signature="e#36596#36884#0" />
+                <element signature="e#36892#37186#0" />
+                <element signature="e#37194#37479#0" />
+                <element signature="e#37487#37781#0" />
+                <element signature="e#37789#38107#0" />
+                <element signature="e#38115#38394#0" />
+                <element signature="e#38402#38717#0" />
+                <element signature="e#38725#39025#0" />
+                <element signature="e#39033#39324#0" />
+                <element signature="e#39332#39617#0" />
+                <element signature="n#!!block;n#PLP-FA-Brand-Carousel#0;n#!!top" />
+                <element signature="e#39721#43191#0" />
+                <element signature="e#39729#39878#0" />
+                <element signature="e#39886#40055#0" />
+                <element signature="e#40063#40218#0" />
+                <element signature="e#40226#40399#0" />
+                <element signature="e#40407#40574#0" />
+                <element signature="e#40582#40725#0" />
+                <element signature="e#40733#40903#0" />
+                <element signature="e#40911#41093#0" />
+                <element signature="e#41101#41241#0" />
+                <element signature="e#41249#41413#0" />
+                <element signature="e#41421#41588#0" />
+                <element signature="e#41596#41739#0" />
+                <element signature="e#41747#41932#0" />
+                <element signature="e#41940#42134#0" />
+                <element signature="e#42142#42282#0" />
+                <element signature="e#42290#42467#0" />
+                <element signature="e#42475#42648#0" />
+                <element signature="e#42656#42826#0" />
+                <element signature="e#42834#43022#0" />
+                <element signature="e#43030#43185#0" />
+                <element signature="n#!!block;n#PLP-FA-Category-Carousel#0;n#!!top" />
+                <element signature="e#43345#52506#0" />
+                <element signature="e#43353#45204#0" />
+                <element signature="e#43460#45196#0" />
+                <element signature="e#43472#43589#0" />
+                <element signature="e#43601#43712#0" />
+                <element signature="e#43724#43845#0" />
+                <element signature="e#43857#43978#0" />
+                <element signature="e#43990#44125#0" />
+                <element signature="e#44137#44250#0" />
+                <element signature="e#44262#44377#0" />
+                <element signature="e#44389#44502#0" />
+                <element signature="e#44514#44666#0" />
+                <element signature="e#44678#44797#0" />
+                <element signature="e#44809#44932#0" />
+                <element signature="e#44944#45073#0" />
+                <element signature="e#45085#45186#0" />
+                <element signature="e#45212#46465#0" />
+                <element signature="e#45312#46457#0" />
+                <element signature="e#45324#45434#0" />
+                <element signature="e#45446#45556#0" />
+                <element signature="e#45568#45688#0" />
+                <element signature="e#45700#45816#0" />
+                <element signature="e#45828#45940#0" />
+                <element signature="e#45952#46066#0" />
+                <element signature="e#46078#46192#0" />
+                <element signature="e#46204#46323#0" />
+                <element signature="e#46335#46447#0" />
+                <element signature="e#46473#48000#0" />
+                <element signature="e#46576#47992#0" />
+                <element signature="e#46588#46701#0" />
+                <element signature="e#46713#46834#0" />
+                <element signature="e#46846#46955#0" />
+                <element signature="e#46967#47078#0" />
+                <element signature="e#47090#47199#0" />
+                <element signature="e#47211#47332#0" />
+                <element signature="e#47344#47460#0" />
+                <element signature="e#47472#47591#0" />
+                <element signature="e#47603#47718#0" />
+                <element signature="e#47730#47851#0" />
+                <element signature="e#47863#47982#0" />
+                <element signature="e#48008#48991#0" />
+                <element signature="e#48105#48983#0" />
+                <element signature="e#48117#48223#0" />
+                <element signature="e#48235#48347#0" />
+                <element signature="e#48359#48469#0" />
+                <element signature="e#48481#48597#0" />
+                <element signature="e#48609#48717#0" />
+                <element signature="e#48729#48851#0" />
+                <element signature="e#48863#48973#0" />
+                <element signature="e#48999#50253#0" />
+                <element signature="e#49084#50245#0" />
+                <element signature="e#49096#49197#0" />
+                <element signature="e#49209#49306#0" />
+                <element signature="e#49318#49423#0" />
+                <element signature="e#49435#49546#0" />
+                <element signature="e#49558#49656#0" />
+                <element signature="e#49668#49782#0" />
+                <element signature="e#49794#49894#0" />
+                <element signature="e#49906#50009#0" />
+                <element signature="e#50021#50125#0" />
+                <element signature="e#50137#50235#0" />
+                <element signature="e#50261#51542#0" />
+                <element signature="e#50356#51534#0" />
+                <element signature="e#50368#50466#0" />
+                <element signature="e#50478#50584#0" />
+                <element signature="e#50596#50696#0" />
+                <element signature="e#50708#50814#0" />
+                <element signature="e#50826#50930#0" />
+                <element signature="e#50942#51048#0" />
+                <element signature="e#51060#51158#0" />
+                <element signature="e#51170#51274#0" />
+                <element signature="e#51286#51392#0" />
+                <element signature="e#51404#51524#0" />
+                <element signature="e#51550#52500#0" />
+                <element signature="e#51641#52492#0" />
+                <element signature="e#51653#51761#0" />
+                <element signature="e#51773#51877#0" />
+                <element signature="e#51889#51994#0" />
+                <element signature="e#52006#52114#0" />
+                <element signature="e#52126#52242#0" />
+                <element signature="e#52254#52364#0" />
+                <element signature="e#52376#52482#0" />
+                <element signature="n#!!block;n#PLP-HB-BrandCategory-Carousel#0;n#!!top" />
+                <element signature="e#52648#56771#0" />
+                <element signature="e#52656#52870#0" />
+                <element signature="e#52878#53130#0" />
+                <element signature="e#53138#53350#0" />
+                <element signature="e#53358#53574#0" />
+                <element signature="e#53582#53796#0" />
+                <element signature="e#53804#54013#0" />
+                <element signature="e#54021#54252#0" />
+                <element signature="e#54260#54481#0" />
+                <element signature="e#54489#54717#0" />
+                <element signature="e#54725#54939#0" />
+                <element signature="e#54947#55165#0" />
+                <element signature="e#55173#55409#0" />
+                <element signature="e#55417#55639#0" />
+                <element signature="e#55647#55859#0" />
+                <element signature="e#55867#56085#0" />
+                <element signature="e#56093#56313#0" />
+                <element signature="e#56321#56537#0" />
+                <element signature="e#56545#56765#0" />
+                <element signature="n#!!block;n#PLP-HB-Brand-Carousel#0;n#!!top" />
+                <element signature="e#56870#60158#0" />
+                <element signature="e#56878#57058#0" />
+                <element signature="e#57066#57226#0" />
+                <element signature="e#57234#57421#0" />
+                <element signature="e#57429#57574#0" />
+                <element signature="e#57582#57764#0" />
+                <element signature="e#57772#57917#0" />
+                <element signature="e#57925#58025#0" />
+                <element signature="e#58033#58208#0" />
+                <element signature="e#58216#58403#0" />
+                <element signature="e#58411#58568#0" />
+                <element signature="e#58576#58736#0" />
+                <element signature="e#58744#58904#0" />
+                <element signature="e#58912#59066#0" />
+                <element signature="e#59074#59156#0" />
+                <element signature="e#59164#59324#0" />
+                <element signature="e#59332#59498#0" />
+                <element signature="e#59506#59660#0" />
+                <element signature="e#59668#59828#0" />
+                <element signature="e#59836#59990#0" />
+                <element signature="e#59998#60152#0" />
+                <element signature="n#!!block;n#PLP-HB-Category-Carousel#0;n#!!top" />
+                <element signature="e#60320#70154#0" />
+                <element signature="e#60328#60902#0" />
+                <element signature="e#60423#60894#0" />
+                <element signature="e#60435#60541#0" />
+                <element signature="e#60553#60654#0" />
+                <element signature="e#60666#60771#0" />
+                <element signature="e#60783#60884#0" />
+                <element signature="e#60910#61373#0" />
+                <element signature="e#61001#61365#0" />
+                <element signature="e#61013#61113#0" />
+                <element signature="e#61125#61239#0" />
+                <element signature="e#61251#61355#0" />
+                <element signature="e#61381#62120#0" />
+                <element signature="e#61480#62112#0" />
+                <element signature="e#61492#61606#0" />
+                <element signature="e#61618#61730#0" />
+                <element signature="e#61742#61846#0" />
+                <element signature="e#61858#61966#0" />
+                <element signature="e#61978#62102#0" />
+                <element signature="e#62128#63260#0" />
+                <element signature="e#62217#63252#0" />
+                <element signature="e#62229#62328#0" />
+                <element signature="e#62340#62440#0" />
+                <element signature="e#62452#62566#0" />
+                <element signature="e#62578#62677#0" />
+                <element signature="e#62689#62782#0" />
+                <element signature="e#62794#62885#0" />
+                <element signature="e#62897#63010#0" />
+                <element signature="e#63022#63130#0" />
+                <element signature="e#63142#63242#0" />
+                <element signature="e#63268#63755#0" />
+                <element signature="e#63359#63747#0" />
+                <element signature="e#63371#63487#0" />
+                <element signature="e#63499#63611#0" />
+                <element signature="e#63623#63737#0" />
+                <element signature="e#63763#64486#0" />
+                <element signature="e#63858#64478#0" />
+                <element signature="e#63870#63977#0" />
+                <element signature="e#63989#64102#0" />
+                <element signature="e#64114#64223#0" />
+                <element signature="e#64235#64339#0" />
+                <element signature="e#64351#64468#0" />
+                <element signature="e#64494#66049#0" />
+                <element signature="e#64591#66041#0" />
+                <element signature="e#64603#64704#0" />
+                <element signature="e#64716#64823#0" />
+                <element signature="e#64835#64935#0" />
+                <element signature="e#64947#65050#0" />
+                <element signature="e#65062#65174#0" />
+                <element signature="e#65186#65297#0" />
+                <element signature="e#65309#65417#0" />
+                <element signature="e#65429#65539#0" />
+                <element signature="e#65551#65655#0" />
+                <element signature="e#65667#65771#0" />
+                <element signature="e#65783#65903#0" />
+                <element signature="e#65915#66031#0" />
+                <element signature="e#66057#67075#0" />
+                <element signature="e#66156#67067#0" />
+                <element signature="e#66168#66274#0" />
+                <element signature="e#66286#66402#0" />
+                <element signature="e#66414#66524#0" />
+                <element signature="e#66536#66654#0" />
+                <element signature="e#66666#66784#0" />
+                <element signature="e#66796#66921#0" />
+                <element signature="e#66933#67057#0" />
+                <element signature="e#67083#67982#0" />
+                <element signature="e#67192#67974#0" />
+                <element signature="e#67204#67335#0" />
+                <element signature="e#67347#67464#0" />
+                <element signature="e#67476#67591#0" />
+                <element signature="e#67603#67722#0" />
+                <element signature="e#67734#67841#0" />
+                <element signature="e#67853#67964#0" />
+                <element signature="e#67990#70148#0" />
+                <element signature="e#68099#70140#0" />
+                <element signature="e#68111#68226#0" />
+                <element signature="e#68238#68361#0" />
+                <element signature="e#68373#68496#0" />
+                <element signature="e#68508#68621#0" />
+                <element signature="e#68633#68756#0" />
+                <element signature="e#68768#68897#0" />
+                <element signature="e#68909#69028#0" />
+                <element signature="e#69040#69161#0" />
+                <element signature="e#69173#69292#0" />
+                <element signature="e#69304#69435#0" />
+                <element signature="e#69447#69586#0" />
+                <element signature="e#69598#69721#0" />
+                <element signature="e#69733#69858#0" />
+                <element signature="e#69870#69999#0" />
+                <element signature="e#70011#70130#0" />
+                <element signature="n#!!block;n#PDP-HB-Carousel#0;n#!!top" />
+                <element signature="e#70285#75907#0" />
+                <element signature="e#70293#70576#0" />
+                <element signature="e#70584#70866#0" />
+                <element signature="e#70874#71137#0" />
+                <element signature="e#71145#71418#0" />
+                <element signature="e#71426#71726#0" />
+                <element signature="e#71734#71995#0" />
+                <element signature="e#72003#72299#0" />
+                <element signature="e#72307#72578#0" />
+                <element signature="e#72586#72850#0" />
+                <element signature="e#72858#73118#0" />
+                <element signature="e#73126#73386#0" />
+                <element signature="e#73394#73664#0" />
+                <element signature="e#73672#73962#0" />
+                <element signature="e#73970#74249#0" />
+                <element signature="e#74257#74505#0" />
+                <element signature="e#74513#74792#0" />
+                <element signature="e#74800#75125#0" />
+                <element signature="e#75133#75399#0" />
+                <element signature="e#75407#75647#0" />
+                <element signature="e#75655#75901#0" />
+                <element signature="n#!!block;n#PDP-HB-SeeMore#0;n#!!top" />
+                <element signature="e#76066#78279#0" />
+                <element signature="e#76074#76278#0" />
+                <element signature="e#76286#76507#0" />
+                <element signature="e#76515#76711#0" />
+                <element signature="e#76719#76940#0" />
+                <element signature="e#76948#77132#0" />
+                <element signature="e#77140#77348#0" />
+                <element signature="e#77356#77596#0" />
+                <element signature="e#77604#77804#0" />
+                <element signature="e#77812#78033#0" />
+                <element signature="e#78041#78273#0" />
+                <element signature="n#!!block;n#PDP-PLP-SeeMore#0;n#!!top" />
+                <element signature="e#78447#85896#0" />
+                <element signature="e#78455#78653#0" />
+                <element signature="e#78661#78861#0" />
+                <element signature="e#78869#79053#0" />
+                <element signature="e#79061#79272#0" />
+                <element signature="e#79280#79484#0" />
+                <element signature="e#79492#79690#0" />
+                <element signature="e#79698#79883#0" />
+                <element signature="e#79891#80097#0" />
+                <element signature="e#80105#80303#0" />
+                <element signature="e#80311#80495#0" />
+                <element signature="e#80503#80686#0" />
+                <element signature="e#80694#80909#0" />
+                <element signature="e#80917#81116#0" />
+                <element signature="e#81124#81322#0" />
+                <element signature="e#81330#81517#0" />
+                <element signature="e#81525#81708#0" />
+                <element signature="e#81716#81901#0" />
+                <element signature="e#81909#82117#0" />
+                <element signature="e#82125#82337#0" />
+                <element signature="e#82345#82541#0" />
+                <element signature="e#82549#82731#0" />
+                <element signature="e#82739#82917#0" />
+                <element signature="e#82925#83101#0" />
+                <element signature="e#83109#83313#0" />
+                <element signature="e#83321#83548#0" />
+                <element signature="e#83556#83738#0" />
+                <element signature="e#83746#83932#0" />
+                <element signature="e#83940#84129#0" />
+                <element signature="e#84137#84328#0" />
+                <element signature="e#84336#84535#0" />
+                <element signature="e#84543#84719#0" />
+                <element signature="e#84727#84910#0" />
+                <element signature="e#84918#85096#0" />
+                <element signature="e#85104#85286#0" />
+                <element signature="e#85294#85484#0" />
+                <element signature="e#85492#85679#0" />
+                <element signature="e#85687#85890#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Homepage - MY.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
+      <file leaf-file-name="PDP-PLP-SeeMore.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret column="34033" selection-start-column="34033" selection-end-column="34033" />
+            <state relative-caret-position="315">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Homepage - MY.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="152" selection-start-line="22" selection-start-column="152" selection-end-line="23" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -50,52 +619,16 @@
         <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-Brand-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+              <caret line="21" column="66" selection-start-line="19" selection-start-column="4" selection-end-line="21" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PLP-EL-BrandCategory-Carousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js">
+      <file leaf-file-name="PDP-EL-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PDP-EL-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Homepage - MY.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PLP-FA-Brand-Carousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-Brand-Carousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PLP-FA-BrandCategory-Men-Carousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PLP-FA-BrandCategory-Women-Carousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="270">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -103,8 +636,44 @@
       <file leaf-file-name="PDP-EL-SeeMore.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="450">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PLP-HB-BrandCategory-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-HB-BrandCategory-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PLP-HB-Category-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-HB-Category-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PDP-HB-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PDP-HB-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PDP-HB-SeeMore.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PDP-HB-SeeMore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -136,6 +705,18 @@
       <find>currentRow</find>
       <find>section3</find>
       <find>section5_link</find>
+      <find>PLP-EL-Category-Carousel</find>
+      <find>PLP-HB-Category-Carousel</find>
+      <find>https://iprice.my/medical-supplies/ripple-mattresses/</find>
+      <find>https://iprice.my/chanel.makeup/lips/lipsticks</find>
+      <find>PLP-HB-BrandCategory-Carousel</find>
+      <find>https://iprice.my/makeup/wigs/</find>
+      <find>/makeup/wigs/</find>
+      <find>makeup/wigs/</find>
+      <find>makeup/wigs</find>
+      <find>https://iprice.my/victoria-secret/makeup/lips/lipsticks/</find>
+      <find>https://iprice.my/makeup/sets/</find>
+      <find>https://iprice.my/medical-supplies/medical-beds/</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -144,10 +725,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/convert.js" />
-        <option value="$PROJECT_DIR$/links.txt" />
-        <option value="$PROJECT_DIR$/change-host.sh" />
-        <option value="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/staging-mesure.sh" />
         <option value="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/convert1.js" />
         <option value="$PROJECT_DIR$/convert1.js" />
         <option value="$PROJECT_DIR$/result2.csv" />
@@ -180,16 +757,25 @@
         <option value="$PROJECT_DIR$/data/metaTags.json" />
         <option value="$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv" />
         <option value="$PROJECT_DIR$/parse-csv/lib/util.js" />
-        <option value="$PROJECT_DIR$/data/Homepage - MY.json" />
         <option value="$PROJECT_DIR$/crawling/index.js" />
-        <option value="$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js" />
-        <option value="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" />
         <option value="$PROJECT_DIR$/crawling/PLP-FA-Brand-Carousel.js" />
         <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js" />
         <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js" />
         <option value="$PROJECT_DIR$/crawling/PLP-EL-Brand-Carousel.js" />
         <option value="$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-EL-Brand-SeeMore.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-EL-Category-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-FA-Category-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PDP-EL-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-FA-Brand-SeeMore.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-HB-Category-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-HB-Brand-Carousel.js" />
         <option value="$PROJECT_DIR$/crawling/PDP-HB-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PDP-HB-SeeMore.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-HB-BrandCategory-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" />
+        <option value="$PROJECT_DIR$/data/Homepage - MY.json" />
       </list>
     </option>
   </component>
@@ -218,7 +804,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,11 +835,6 @@
             <path>
               <item name="toys" type="b2602c69:ProjectViewProjectNode" />
               <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="results" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toys" type="462c0819:PsiDirectoryNode" />
               <item name="spec" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -267,6 +847,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,18 +858,18 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/parse-csv/data" />
+      <recent name="$PROJECT_DIR$/crawling" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/results" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/parse-exel/lib" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/parse-csv/data" />
-      <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/results" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/parse-csv/lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -340,27 +921,28 @@
       <workItem from="1543914039333" duration="1860000" />
       <workItem from="1543929610529" duration="11617000" />
       <workItem from="1543943470219" duration="2629000" />
-      <workItem from="1543976010993" duration="7229000" />
+      <workItem from="1543976010993" duration="16629000" />
+      <workItem from="1544018465173" duration="4680000" />
+      <workItem from="1544025649858" duration="865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124230000" />
+    <option name="totallyTimeSpent" value="139175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="434" y="52" width="1483" height="1023" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2677006" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2677006" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003372" side_tool="true" weight="0.3255814" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3255814" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49966285" visible="true" weight="0.3255814" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -391,84 +973,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/convert1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section3_brand.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section3.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section5_brand.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section6.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section7.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section1_link.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="csv-text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section2.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="csv-text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section5.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section10.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="csv-text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section8.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="csv-text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="192" selection-start-line="8" selection-start-column="192" selection-end-line="8" selection-end-column="192" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/section4.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="csv-text-editor">
-        <state relative-caret-position="330">
-          <caret line="21" column="133" selection-start-line="21" selection-start-column="133" selection-end-line="21" selection-end-column="133" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/results/section4.csv" />
     <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
@@ -532,13 +1037,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/metaTags/id/metaTags.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="95" lean-forward="true" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/results/metaTags/id/metaTags.csv" />
     <entry file="file://$PROJECT_DIR$/spec/support/jasmine.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -553,13 +1052,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/metaTags.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="15090">
-          <caret line="1006" column="77" selection-start-line="1006" selection-start-column="77" selection-end-line="1006" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/results/metaTags.csv" />
     <entry file="file://$PROJECT_DIR$/parse-csv/data/metaTags.csv" />
     <entry file="file://$PROJECT_DIR$/parse-csv/lib/utilSpec.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -604,27 +1097,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section8.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/section7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/section8.js" />
+    <entry file="file://$PROJECT_DIR$/crawling/section7.js" />
     <entry file="file://$PROJECT_DIR$/crawling/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -632,60 +1106,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js">
+    <entry file="file://$PROJECT_DIR$/results/PDP-EL-SeeMore.csv" />
+    <entry file="file://$PROJECT_DIR$/results/PLP-EL-Brand-SeeMore.csv" />
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-Brand-SeeMore.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret column="34033" selection-start-column="34033" selection-end-column="34033" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-Brand-Carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        <state relative-caret-position="495">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        <state relative-caret-position="210">
+          <caret line="20" column="66" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="20" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -696,17 +1131,666 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/PDP-EL-SeeMore.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/PLP-EL-Category-Carousel.csv" />
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-Category-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-Category-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="20" column="54" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-Brand-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-HB-Brand-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawling/PDP-HB-Carousel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="285">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-HB-BrandCategory-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-HB-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-HB-Category-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-EL-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-Brand-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="66" selection-start-line="19" selection-start-column="4" selection-end-line="21" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="152" selection-start-line="22" selection-start-column="152" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="719" column="3" selection-start-line="719" selection-start-column="3" selection-end-line="719" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!block;n#Coupons-Store-Carousel#0;n#!!top" />
+            <element signature="e#235#2894#0" />
+            <element signature="e#243#399#0" />
+            <element signature="e#407#562#0" />
+            <element signature="e#570#725#0" />
+            <element signature="e#733#894#0" />
+            <element signature="e#902#1054#0" />
+            <element signature="e#1062#1214#0" />
+            <element signature="e#1222#1399#0" />
+            <element signature="e#1407#1568#0" />
+            <element signature="e#1576#1734#0" />
+            <element signature="e#1742#1894#0" />
+            <element signature="e#1902#2051#0" />
+            <element signature="e#2059#2223#0" />
+            <element signature="e#2231#2383#0" />
+            <element signature="e#2391#2538#0" />
+            <element signature="e#2546#2708#0" />
+            <element signature="e#2716#2888#0" />
+            <element signature="n#!!block;n#PLP-EL-BrandCategory-Carousel#0;n#!!top" />
+            <element signature="e#3038#7499#0" />
+            <element signature="e#3046#3280#0" />
+            <element signature="e#3288#3524#0" />
+            <element signature="e#3532#3762#0" />
+            <element signature="e#3770#4019#0" />
+            <element signature="e#4027#4261#0" />
+            <element signature="e#4269#4478#0" />
+            <element signature="e#4486#4705#0" />
+            <element signature="e#4713#4947#0" />
+            <element signature="e#4955#5190#0" />
+            <element signature="e#5198#5405#0" />
+            <element signature="e#5413#5632#0" />
+            <element signature="e#5640#5871#0" />
+            <element signature="e#5879#6100#0" />
+            <element signature="e#6108#6311#0" />
+            <element signature="e#6319#6564#0" />
+            <element signature="e#6572#6795#0" />
+            <element signature="e#6803#7039#0" />
+            <element signature="e#7047#7285#0" />
+            <element signature="e#7293#7493#0" />
+            <element signature="n#!!block;n#PLP-EL-Brand-Carousel#0;n#!!top" />
+            <element signature="e#7618#10824#0" />
+            <element signature="e#7626#7765#0" />
+            <element signature="e#7773#7913#0" />
+            <element signature="e#7921#8061#0" />
+            <element signature="e#8069#8203#0" />
+            <element signature="e#8211#8342#0" />
+            <element signature="e#8350#8484#0" />
+            <element signature="e#8492#8662#0" />
+            <element signature="e#8670#8806#0" />
+            <element signature="e#8814#8948#0" />
+            <element signature="e#8956#9120#0" />
+            <element signature="e#9128#9269#0" />
+            <element signature="e#9277#9432#0" />
+            <element signature="e#9440#9607#0" />
+            <element signature="e#9615#9752#0" />
+            <element signature="e#9760#9900#0" />
+            <element signature="e#9908#10072#0" />
+            <element signature="e#10080#10217#0" />
+            <element signature="e#10225#10359#0" />
+            <element signature="e#10367#10504#0" />
+            <element signature="e#10512#10652#0" />
+            <element signature="e#10660#10818#0" />
+            <element signature="n#!!block;n#PLP-EL-Category-Carousel#0;n#!!top" />
+            <element signature="e#10982#18136#0" />
+            <element signature="e#10990#12196#0" />
+            <element signature="e#11083#12188#0" />
+            <element signature="e#11095#11197#0" />
+            <element signature="e#11209#11319#0" />
+            <element signature="e#11331#11433#0" />
+            <element signature="e#11445#11549#0" />
+            <element signature="e#11561#11665#0" />
+            <element signature="e#11677#11790#0" />
+            <element signature="e#11802#11922#0" />
+            <element signature="e#11934#12054#0" />
+            <element signature="e#12066#12178#0" />
+            <element signature="e#12204#13117#0" />
+            <element signature="e#12311#13109#0" />
+            <element signature="e#12323#12440#0" />
+            <element signature="e#12452#12559#0" />
+            <element signature="e#12571#12688#0" />
+            <element signature="e#12700#12829#0" />
+            <element signature="e#12841#12958#0" />
+            <element signature="e#12970#13099#0" />
+            <element signature="e#13125#14171#0" />
+            <element signature="e#13214#14163#0" />
+            <element signature="e#13226#13333#0" />
+            <element signature="e#13345#13438#0" />
+            <element signature="e#13450#13545#0" />
+            <element signature="e#13557#13671#0" />
+            <element signature="e#13683#13793#0" />
+            <element signature="e#13805#13919#0" />
+            <element signature="e#13931#14028#0" />
+            <element signature="e#14040#14153#0" />
+            <element signature="e#14179#15421#0" />
+            <element signature="e#14282#15413#0" />
+            <element signature="e#14294#14402#0" />
+            <element signature="e#14414#14525#0" />
+            <element signature="e#14537#14652#0" />
+            <element signature="e#14664#14774#0" />
+            <element signature="e#14786#14893#0" />
+            <element signature="e#14905#15016#0" />
+            <element signature="e#15028#15147#0" />
+            <element signature="e#15159#15278#0" />
+            <element signature="e#15290#15403#0" />
+            <element signature="e#15429#16807#0" />
+            <element signature="e#15533#16799#0" />
+            <element signature="e#15545#15662#0" />
+            <element signature="e#15674#15779#0" />
+            <element signature="e#15791#15904#0" />
+            <element signature="e#15916#16017#0" />
+            <element signature="e#16029#16128#0" />
+            <element signature="e#16140#16247#0" />
+            <element signature="e#16259#16360#0" />
+            <element signature="e#16372#16501#0" />
+            <element signature="e#16513#16650#0" />
+            <element signature="e#16662#16789#0" />
+            <element signature="e#16815#18130#0" />
+            <element signature="e#16912#18122#0" />
+            <element signature="e#16924#17021#0" />
+            <element signature="e#17033#17148#0" />
+            <element signature="e#17160#17279#0" />
+            <element signature="e#17291#17412#0" />
+            <element signature="e#17424#17533#0" />
+            <element signature="e#17545#17650#0" />
+            <element signature="e#17662#17773#0" />
+            <element signature="e#17785#17888#0" />
+            <element signature="e#17900#17999#0" />
+            <element signature="e#18011#18112#0" />
+            <element signature="n#!!block;n#PDP-EL-Carousel#0;n#!!top" />
+            <element signature="e#18281#23388#0" />
+            <element signature="e#18289#18525#0" />
+            <element signature="e#18533#18783#0" />
+            <element signature="e#18791#19045#0" />
+            <element signature="e#19053#19289#0" />
+            <element signature="e#19297#19547#0" />
+            <element signature="e#19555#19807#0" />
+            <element signature="e#19815#20059#0" />
+            <element signature="e#20067#20321#0" />
+            <element signature="e#20329#20567#0" />
+            <element signature="e#20575#20813#0" />
+            <element signature="e#20821#21083#0" />
+            <element signature="e#21091#21349#0" />
+            <element signature="e#21357#21595#0" />
+            <element signature="e#21603#21804#0" />
+            <element signature="e#21812#22064#0" />
+            <element signature="e#22072#22338#0" />
+            <element signature="e#22346#22602#0" />
+            <element signature="e#22610#22862#0" />
+            <element signature="e#22870#23136#0" />
+            <element signature="e#23144#23382#0" />
+            <element signature="n#!!block;n#PDP-EL-SeeMore#0;n#!!top" />
+            <element signature="e#23478#27451#0" />
+            <element signature="e#23486#23666#0" />
+            <element signature="e#23674#23866#0" />
+            <element signature="e#23874#24074#0" />
+            <element signature="e#24082#24262#0" />
+            <element signature="e#24270#24450#0" />
+            <element signature="e#24458#24636#0" />
+            <element signature="e#24644#24822#0" />
+            <element signature="e#24830#25008#0" />
+            <element signature="e#25016#25214#0" />
+            <element signature="e#25222#25432#0" />
+            <element signature="e#25440#25642#0" />
+            <element signature="e#25650#25842#0" />
+            <element signature="e#25850#26032#0" />
+            <element signature="e#26040#26232#0" />
+            <element signature="e#26240#26420#0" />
+            <element signature="e#26428#26603#0" />
+            <element signature="e#26611#26821#0" />
+            <element signature="e#26829#27021#0" />
+            <element signature="e#27029#27237#0" />
+            <element signature="e#27245#27445#0" />
+            <element signature="n#!!block;n#PLP-FA-BrandCategory-Men-Carousel#0;n#!!top" />
+            <element signature="e#27803#33190#0" />
+            <element signature="e#27811#28118#0" />
+            <element signature="e#28126#28409#0" />
+            <element signature="e#28417#28727#0" />
+            <element signature="e#28735#29018#0" />
+            <element signature="e#29026#29154#0" />
+            <element signature="e#29162#29302#0" />
+            <element signature="e#29310#29438#0" />
+            <element signature="e#29446#29777#0" />
+            <element signature="e#29785#30068#0" />
+            <element signature="e#30076#30218#0" />
+            <element signature="e#30226#30364#0" />
+            <element signature="e#30372#30504#0" />
+            <element signature="e#30512#30638#0" />
+            <element signature="e#30646#30938#0" />
+            <element signature="e#30946#31229#0" />
+            <element signature="e#31237#31529#0" />
+            <element signature="e#31537#31684#0" />
+            <element signature="e#31692#31969#0" />
+            <element signature="e#31977#32290#0" />
+            <element signature="e#32298#32596#0" />
+            <element signature="e#32604#32893#0" />
+            <element signature="e#32901#33184#0" />
+            <element signature="n#!!block;n#PLP-FA-BrandCategory-Women-Carousel#0;n#!!top" />
+            <element signature="e#33547#39623#0" />
+            <element signature="e#33555#33864#0" />
+            <element signature="e#33872#34157#0" />
+            <element signature="e#34165#34477#0" />
+            <element signature="e#34485#34770#0" />
+            <element signature="e#34778#35069#0" />
+            <element signature="e#35077#35217#0" />
+            <element signature="e#35225#35353#0" />
+            <element signature="e#35361#35694#0" />
+            <element signature="e#35702#35987#0" />
+            <element signature="e#35995#36137#0" />
+            <element signature="e#36145#36283#0" />
+            <element signature="e#36291#36588#0" />
+            <element signature="e#36596#36884#0" />
+            <element signature="e#36892#37186#0" />
+            <element signature="e#37194#37479#0" />
+            <element signature="e#37487#37781#0" />
+            <element signature="e#37789#38107#0" />
+            <element signature="e#38115#38394#0" />
+            <element signature="e#38402#38717#0" />
+            <element signature="e#38725#39025#0" />
+            <element signature="e#39033#39324#0" />
+            <element signature="e#39332#39617#0" />
+            <element signature="n#!!block;n#PLP-FA-Brand-Carousel#0;n#!!top" />
+            <element signature="e#39721#43191#0" />
+            <element signature="e#39729#39878#0" />
+            <element signature="e#39886#40055#0" />
+            <element signature="e#40063#40218#0" />
+            <element signature="e#40226#40399#0" />
+            <element signature="e#40407#40574#0" />
+            <element signature="e#40582#40725#0" />
+            <element signature="e#40733#40903#0" />
+            <element signature="e#40911#41093#0" />
+            <element signature="e#41101#41241#0" />
+            <element signature="e#41249#41413#0" />
+            <element signature="e#41421#41588#0" />
+            <element signature="e#41596#41739#0" />
+            <element signature="e#41747#41932#0" />
+            <element signature="e#41940#42134#0" />
+            <element signature="e#42142#42282#0" />
+            <element signature="e#42290#42467#0" />
+            <element signature="e#42475#42648#0" />
+            <element signature="e#42656#42826#0" />
+            <element signature="e#42834#43022#0" />
+            <element signature="e#43030#43185#0" />
+            <element signature="n#!!block;n#PLP-FA-Category-Carousel#0;n#!!top" />
+            <element signature="e#43345#52506#0" />
+            <element signature="e#43353#45204#0" />
+            <element signature="e#43460#45196#0" />
+            <element signature="e#43472#43589#0" />
+            <element signature="e#43601#43712#0" />
+            <element signature="e#43724#43845#0" />
+            <element signature="e#43857#43978#0" />
+            <element signature="e#43990#44125#0" />
+            <element signature="e#44137#44250#0" />
+            <element signature="e#44262#44377#0" />
+            <element signature="e#44389#44502#0" />
+            <element signature="e#44514#44666#0" />
+            <element signature="e#44678#44797#0" />
+            <element signature="e#44809#44932#0" />
+            <element signature="e#44944#45073#0" />
+            <element signature="e#45085#45186#0" />
+            <element signature="e#45212#46465#0" />
+            <element signature="e#45312#46457#0" />
+            <element signature="e#45324#45434#0" />
+            <element signature="e#45446#45556#0" />
+            <element signature="e#45568#45688#0" />
+            <element signature="e#45700#45816#0" />
+            <element signature="e#45828#45940#0" />
+            <element signature="e#45952#46066#0" />
+            <element signature="e#46078#46192#0" />
+            <element signature="e#46204#46323#0" />
+            <element signature="e#46335#46447#0" />
+            <element signature="e#46473#48000#0" />
+            <element signature="e#46576#47992#0" />
+            <element signature="e#46588#46701#0" />
+            <element signature="e#46713#46834#0" />
+            <element signature="e#46846#46955#0" />
+            <element signature="e#46967#47078#0" />
+            <element signature="e#47090#47199#0" />
+            <element signature="e#47211#47332#0" />
+            <element signature="e#47344#47460#0" />
+            <element signature="e#47472#47591#0" />
+            <element signature="e#47603#47718#0" />
+            <element signature="e#47730#47851#0" />
+            <element signature="e#47863#47982#0" />
+            <element signature="e#48008#48991#0" />
+            <element signature="e#48105#48983#0" />
+            <element signature="e#48117#48223#0" />
+            <element signature="e#48235#48347#0" />
+            <element signature="e#48359#48469#0" />
+            <element signature="e#48481#48597#0" />
+            <element signature="e#48609#48717#0" />
+            <element signature="e#48729#48851#0" />
+            <element signature="e#48863#48973#0" />
+            <element signature="e#48999#50253#0" />
+            <element signature="e#49084#50245#0" />
+            <element signature="e#49096#49197#0" />
+            <element signature="e#49209#49306#0" />
+            <element signature="e#49318#49423#0" />
+            <element signature="e#49435#49546#0" />
+            <element signature="e#49558#49656#0" />
+            <element signature="e#49668#49782#0" />
+            <element signature="e#49794#49894#0" />
+            <element signature="e#49906#50009#0" />
+            <element signature="e#50021#50125#0" />
+            <element signature="e#50137#50235#0" />
+            <element signature="e#50261#51542#0" />
+            <element signature="e#50356#51534#0" />
+            <element signature="e#50368#50466#0" />
+            <element signature="e#50478#50584#0" />
+            <element signature="e#50596#50696#0" />
+            <element signature="e#50708#50814#0" />
+            <element signature="e#50826#50930#0" />
+            <element signature="e#50942#51048#0" />
+            <element signature="e#51060#51158#0" />
+            <element signature="e#51170#51274#0" />
+            <element signature="e#51286#51392#0" />
+            <element signature="e#51404#51524#0" />
+            <element signature="e#51550#52500#0" />
+            <element signature="e#51641#52492#0" />
+            <element signature="e#51653#51761#0" />
+            <element signature="e#51773#51877#0" />
+            <element signature="e#51889#51994#0" />
+            <element signature="e#52006#52114#0" />
+            <element signature="e#52126#52242#0" />
+            <element signature="e#52254#52364#0" />
+            <element signature="e#52376#52482#0" />
+            <element signature="n#!!block;n#PLP-HB-BrandCategory-Carousel#0;n#!!top" />
+            <element signature="e#52648#56771#0" />
+            <element signature="e#52656#52870#0" />
+            <element signature="e#52878#53130#0" />
+            <element signature="e#53138#53350#0" />
+            <element signature="e#53358#53574#0" />
+            <element signature="e#53582#53796#0" />
+            <element signature="e#53804#54013#0" />
+            <element signature="e#54021#54252#0" />
+            <element signature="e#54260#54481#0" />
+            <element signature="e#54489#54717#0" />
+            <element signature="e#54725#54939#0" />
+            <element signature="e#54947#55165#0" />
+            <element signature="e#55173#55409#0" />
+            <element signature="e#55417#55639#0" />
+            <element signature="e#55647#55859#0" />
+            <element signature="e#55867#56085#0" />
+            <element signature="e#56093#56313#0" />
+            <element signature="e#56321#56537#0" />
+            <element signature="e#56545#56765#0" />
+            <element signature="n#!!block;n#PLP-HB-Brand-Carousel#0;n#!!top" />
+            <element signature="e#56870#60158#0" />
+            <element signature="e#56878#57058#0" />
+            <element signature="e#57066#57226#0" />
+            <element signature="e#57234#57421#0" />
+            <element signature="e#57429#57574#0" />
+            <element signature="e#57582#57764#0" />
+            <element signature="e#57772#57917#0" />
+            <element signature="e#57925#58025#0" />
+            <element signature="e#58033#58208#0" />
+            <element signature="e#58216#58403#0" />
+            <element signature="e#58411#58568#0" />
+            <element signature="e#58576#58736#0" />
+            <element signature="e#58744#58904#0" />
+            <element signature="e#58912#59066#0" />
+            <element signature="e#59074#59156#0" />
+            <element signature="e#59164#59324#0" />
+            <element signature="e#59332#59498#0" />
+            <element signature="e#59506#59660#0" />
+            <element signature="e#59668#59828#0" />
+            <element signature="e#59836#59990#0" />
+            <element signature="e#59998#60152#0" />
+            <element signature="n#!!block;n#PLP-HB-Category-Carousel#0;n#!!top" />
+            <element signature="e#60320#70154#0" />
+            <element signature="e#60328#60902#0" />
+            <element signature="e#60423#60894#0" />
+            <element signature="e#60435#60541#0" />
+            <element signature="e#60553#60654#0" />
+            <element signature="e#60666#60771#0" />
+            <element signature="e#60783#60884#0" />
+            <element signature="e#60910#61373#0" />
+            <element signature="e#61001#61365#0" />
+            <element signature="e#61013#61113#0" />
+            <element signature="e#61125#61239#0" />
+            <element signature="e#61251#61355#0" />
+            <element signature="e#61381#62120#0" />
+            <element signature="e#61480#62112#0" />
+            <element signature="e#61492#61606#0" />
+            <element signature="e#61618#61730#0" />
+            <element signature="e#61742#61846#0" />
+            <element signature="e#61858#61966#0" />
+            <element signature="e#61978#62102#0" />
+            <element signature="e#62128#63260#0" />
+            <element signature="e#62217#63252#0" />
+            <element signature="e#62229#62328#0" />
+            <element signature="e#62340#62440#0" />
+            <element signature="e#62452#62566#0" />
+            <element signature="e#62578#62677#0" />
+            <element signature="e#62689#62782#0" />
+            <element signature="e#62794#62885#0" />
+            <element signature="e#62897#63010#0" />
+            <element signature="e#63022#63130#0" />
+            <element signature="e#63142#63242#0" />
+            <element signature="e#63268#63755#0" />
+            <element signature="e#63359#63747#0" />
+            <element signature="e#63371#63487#0" />
+            <element signature="e#63499#63611#0" />
+            <element signature="e#63623#63737#0" />
+            <element signature="e#63763#64486#0" />
+            <element signature="e#63858#64478#0" />
+            <element signature="e#63870#63977#0" />
+            <element signature="e#63989#64102#0" />
+            <element signature="e#64114#64223#0" />
+            <element signature="e#64235#64339#0" />
+            <element signature="e#64351#64468#0" />
+            <element signature="e#64494#66049#0" />
+            <element signature="e#64591#66041#0" />
+            <element signature="e#64603#64704#0" />
+            <element signature="e#64716#64823#0" />
+            <element signature="e#64835#64935#0" />
+            <element signature="e#64947#65050#0" />
+            <element signature="e#65062#65174#0" />
+            <element signature="e#65186#65297#0" />
+            <element signature="e#65309#65417#0" />
+            <element signature="e#65429#65539#0" />
+            <element signature="e#65551#65655#0" />
+            <element signature="e#65667#65771#0" />
+            <element signature="e#65783#65903#0" />
+            <element signature="e#65915#66031#0" />
+            <element signature="e#66057#67075#0" />
+            <element signature="e#66156#67067#0" />
+            <element signature="e#66168#66274#0" />
+            <element signature="e#66286#66402#0" />
+            <element signature="e#66414#66524#0" />
+            <element signature="e#66536#66654#0" />
+            <element signature="e#66666#66784#0" />
+            <element signature="e#66796#66921#0" />
+            <element signature="e#66933#67057#0" />
+            <element signature="e#67083#67982#0" />
+            <element signature="e#67192#67974#0" />
+            <element signature="e#67204#67335#0" />
+            <element signature="e#67347#67464#0" />
+            <element signature="e#67476#67591#0" />
+            <element signature="e#67603#67722#0" />
+            <element signature="e#67734#67841#0" />
+            <element signature="e#67853#67964#0" />
+            <element signature="e#67990#70148#0" />
+            <element signature="e#68099#70140#0" />
+            <element signature="e#68111#68226#0" />
+            <element signature="e#68238#68361#0" />
+            <element signature="e#68373#68496#0" />
+            <element signature="e#68508#68621#0" />
+            <element signature="e#68633#68756#0" />
+            <element signature="e#68768#68897#0" />
+            <element signature="e#68909#69028#0" />
+            <element signature="e#69040#69161#0" />
+            <element signature="e#69173#69292#0" />
+            <element signature="e#69304#69435#0" />
+            <element signature="e#69447#69586#0" />
+            <element signature="e#69598#69721#0" />
+            <element signature="e#69733#69858#0" />
+            <element signature="e#69870#69999#0" />
+            <element signature="e#70011#70130#0" />
+            <element signature="n#!!block;n#PDP-HB-Carousel#0;n#!!top" />
+            <element signature="e#70285#75907#0" />
+            <element signature="e#70293#70576#0" />
+            <element signature="e#70584#70866#0" />
+            <element signature="e#70874#71137#0" />
+            <element signature="e#71145#71418#0" />
+            <element signature="e#71426#71726#0" />
+            <element signature="e#71734#71995#0" />
+            <element signature="e#72003#72299#0" />
+            <element signature="e#72307#72578#0" />
+            <element signature="e#72586#72850#0" />
+            <element signature="e#72858#73118#0" />
+            <element signature="e#73126#73386#0" />
+            <element signature="e#73394#73664#0" />
+            <element signature="e#73672#73962#0" />
+            <element signature="e#73970#74249#0" />
+            <element signature="e#74257#74505#0" />
+            <element signature="e#74513#74792#0" />
+            <element signature="e#74800#75125#0" />
+            <element signature="e#75133#75399#0" />
+            <element signature="e#75407#75647#0" />
+            <element signature="e#75655#75901#0" />
+            <element signature="n#!!block;n#PDP-HB-SeeMore#0;n#!!top" />
+            <element signature="e#76066#78279#0" />
+            <element signature="e#76074#76278#0" />
+            <element signature="e#76286#76507#0" />
+            <element signature="e#76515#76711#0" />
+            <element signature="e#76719#76940#0" />
+            <element signature="e#76948#77132#0" />
+            <element signature="e#77140#77348#0" />
+            <element signature="e#77356#77596#0" />
+            <element signature="e#77604#77804#0" />
+            <element signature="e#77812#78033#0" />
+            <element signature="e#78041#78273#0" />
+            <element signature="n#!!block;n#PDP-PLP-SeeMore#0;n#!!top" />
+            <element signature="e#78447#85896#0" />
+            <element signature="e#78455#78653#0" />
+            <element signature="e#78661#78861#0" />
+            <element signature="e#78869#79053#0" />
+            <element signature="e#79061#79272#0" />
+            <element signature="e#79280#79484#0" />
+            <element signature="e#79492#79690#0" />
+            <element signature="e#79698#79883#0" />
+            <element signature="e#79891#80097#0" />
+            <element signature="e#80105#80303#0" />
+            <element signature="e#80311#80495#0" />
+            <element signature="e#80503#80686#0" />
+            <element signature="e#80694#80909#0" />
+            <element signature="e#80917#81116#0" />
+            <element signature="e#81124#81322#0" />
+            <element signature="e#81330#81517#0" />
+            <element signature="e#81525#81708#0" />
+            <element signature="e#81716#81901#0" />
+            <element signature="e#81909#82117#0" />
+            <element signature="e#82125#82337#0" />
+            <element signature="e#82345#82541#0" />
+            <element signature="e#82549#82731#0" />
+            <element signature="e#82739#82917#0" />
+            <element signature="e#82925#83101#0" />
+            <element signature="e#83109#83313#0" />
+            <element signature="e#83321#83548#0" />
+            <element signature="e#83556#83738#0" />
+            <element signature="e#83746#83932#0" />
+            <element signature="e#83940#84129#0" />
+            <element signature="e#84137#84328#0" />
+            <element signature="e#84336#84535#0" />
+            <element signature="e#84543#84719#0" />
+            <element signature="e#84727#84910#0" />
+            <element signature="e#84918#85096#0" />
+            <element signature="e#85104#85286#0" />
+            <element signature="e#85294#85484#0" />
+            <element signature="e#85492#85679#0" />
+            <element signature="e#85687#85890#0" />
+          </folding>
         </state>
       </provider>
     </entry>

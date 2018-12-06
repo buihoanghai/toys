@@ -11,20 +11,15 @@ let result = [];
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	for(let i = 0; i<homepage['PDP-HB-Carousel'].items.length;i++){
-		let item = homepage['PDP-HB-Carousel'].items[i];
+	for(let i = 0; i<homepage['PDP-HB-SeeMore'].items.length;i++){
+		let item = homepage['PDP-HB-SeeMore'].items[i];
 		await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
 			var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
 			let name = elems[elems.length-1].innerText.trim();
-			let price = document.querySelector('.green.f18.f25-l');
-			price = price? price.innerText.trim(): "";
-			let store = document.querySelectorAll('.offers-collection').length;
 			let imageUrl = document.querySelector('#product-gallery amp-img').getAttribute('src').trim();
 			let data = [];
 			data.push(name);
-			data.push(price);
-			data.push(store);
 			data.push(imageUrl);
 
 			return data;
@@ -37,7 +32,7 @@ let result = [];
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");
-	fs.writeFile("results/PDP-HB-Carousel.csv",csvContent, 'utf8', function(err) {
+	fs.writeFile("results/PDP-HB-SeeMore.csv",csvContent, 'utf8', function(err) {
 		if (err) {
 			console.log('Some error occured - file either not saved or corrupted file saved.');
 		} else {

@@ -15,24 +15,34 @@ let result = [];
 		let item = homepage['PDP-PLP-SeeMore'].items[i];
 		await page.goto(item.url);
 		const data = await page.evaluate(() => {
-			var name = document.querySelector("#b-c");
-			if(name){
-				name = name.innerText;
-			}
-			if(!name){
+			let name;
+			let imageUrl;
+			if(document.querySelector("#main-filter")){
+				//PLP
+				let image =document.querySelector('#shop amp-img');
+				imageUrl = image? image.getAttribute('src').trim() : "";
 				let brandName = document.querySelector('#clear_filters a span');
 
 				brandName = brandName ? brandName.innerText.trim() + " " : "";
 				let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap a');
 				name = brandName + breadcrumb[breadcrumb.length-1].innerText.trim();
+
+			}else{
+				//PDP
+				name = document.querySelector("#b-c");
+				name = name.innerText;
+				imageUrl = document.querySelector('#product-gallery amp-img').getAttribute('src').trim();
 			}
-			return name.trim();
+			let data = [];
+			data.push(name.trim());
+			data.push(imageUrl);
+			return data;
 		});
-		result.push(data.trim());
+		result.push(data);
 	}
 	var lineArray = [];
 	result.forEach(function (infoArray, index) {
-		var line = infoArray;
+		var line = infoArray.join("\t");
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");

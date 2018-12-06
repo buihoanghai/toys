@@ -11,8 +11,8 @@ let result = [];
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	for(let i = 0; i<homepage['PDP-HB-Carousel'].items.length;i++){
-		let item = homepage['PDP-HB-Carousel'].items[i];
+	for(let i = 0; i<homepage['PDP-EL-Carousel'].items.length;i++){
+		let item = homepage['PDP-EL-Carousel'].items[i];
 		await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
 			var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
@@ -37,7 +37,7 @@ let result = [];
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");
-	fs.writeFile("results/PDP-HB-Carousel.csv",csvContent, 'utf8', function(err) {
+	fs.writeFile("results/PDP-EL-Carousel.csv",csvContent, 'utf8', function(err) {
 		if (err) {
 			console.log('Some error occured - file either not saved or corrupted file saved.');
 		} else {

@@ -11,20 +11,17 @@ let result = [];
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	for(let i = 0; i<homepage['PDP-HB-Carousel'].items.length;i++){
-		let item = homepage['PDP-HB-Carousel'].items[i];
-		await page.goto(config.url + item.url);
+	for(let i = 0; i<homepage['PLP-HB-Brand-Carousel'].items.length;i++){
+		let item = homepage['PLP-HB-Brand-Carousel'].items[i];
+		await page.goto(item.url);
 		const data = await page.evaluate(() => {
-			var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
-			let name = elems[elems.length-1].innerText.trim();
-			let price = document.querySelector('.green.f18.f25-l');
-			price = price? price.innerText.trim(): "";
-			let store = document.querySelectorAll('.offers-collection').length;
-			let imageUrl = document.querySelector('#product-gallery amp-img').getAttribute('src').trim();
+			let brandName = document.querySelector('#clear_filters a span');
+			brandName = brandName.innerText.trim();
+			let image =document.querySelector('.db-l.ba.b--gray-light.mr3.dn.v-mid amp-img');
+
+			let imageUrl = image? image.getAttribute('src').trim() : "";
 			let data = [];
-			data.push(name);
-			data.push(price);
-			data.push(store);
+			data.push(brandName);
 			data.push(imageUrl);
 
 			return data;
@@ -37,7 +34,7 @@ let result = [];
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");
-	fs.writeFile("results/PDP-HB-Carousel.csv",csvContent, 'utf8', function(err) {
+	fs.writeFile("results/PLP-HB-Brand-Carousel.csv",csvContent, 'utf8', function(err) {
 		if (err) {
 			console.log('Some error occured - file either not saved or corrupted file saved.');
 		} else {
