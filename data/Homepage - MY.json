@@ -7,17 +7,17 @@
     "go-to-title": "All Stores",
     "items": [
       {
-        "name": "Lazada promo code",
+        "name": "Lazada",
         "image-url": "https://a.ipricegroup.com/store/lazada-my.jpg",
         "url": "https://iprice.my/coupons/lazada/"
       },
       {
-        "name": "Zalora promo code",
+        "name": "Zalora",
         "image-url": "https://a.ipricegroup.com/store/zalora-my.jpg",
         "url": "https://iprice.my/coupons/zalora"
       },
       {
-        "name": "Shopee MY promo code",
+        "name": "Shopee",
         "image-url": "https://a.ipricegroup.com/store/shopee-my.jpg",
         "url": "https://iprice.my/coupons/shopee"
       },
@@ -32,22 +32,22 @@
         "url": "https://iprice.my/coupons/kkday"
       },
       {
-        "name": "Klook promo code",
+        "name": "Klook",
         "image-url": "https://a.ipricegroup.com/store/klook-my.jpg",
         "url": "https://iprice.my/coupons/klook"
       },
       {
-        "name": "Malaysia Airlines promo",
+        "name": "Malaysia Airlines",
         "image-url": "https://a.ipricegroup.com/store/malaysia.jpg",
         "url": "https://iprice.my/coupons/malaysia-airlines/"
       },
       {
-        "name": "Promo grab delivery",
+        "name": "Grabfood",
         "image-url": "https://a.ipricegroup.com/store/grabfood-my.jpg",
         "url": "https://iprice.my/coupons/grabfood"
       },
       {
-        "name": "Expedia Malaysia",
+        "name": "Expedia",
         "image-url": "https://a.ipricegroup.com/store/expedia-my.jpg",
         "url": "https://iprice.my/coupons/expedia"
       },
@@ -57,12 +57,12 @@
         "url": "https://iprice.my/coupons/agoda"
       },
       {
-        "name": "Fave Voucher",
+        "name": "Fave",
         "image-url": "https://a.ipricegroup.com/store/fave-my.jpg",
         "url": "https://iprice.my/coupons/fave"
       },
       {
-        "name": "Coupon Traveloka",
+        "name": "Traveloka",
         "image-url": "https://a.ipricegroup.com/store/traveloka-my.jpg",
         "url": "https://iprice.my/coupons/traveloka"
       },
@@ -327,7 +327,6 @@
     "items": [
       {
         "name": "Computer",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Computer.png",
         "url": "https://iprice.my/computing",
         "items": [
           {
@@ -370,7 +369,6 @@
       },
       {
         "name": "Phones & Tablets",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Tablet_and_phone.png",
         "url": "https://iprice.my/phones-tablets/",
         "items": [
           {
@@ -401,7 +399,6 @@
       },
       {
         "name": "Gaming",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Games-72.png",
         "url": "https://iprice.my/gaming/",
         "items": [
           {
@@ -440,7 +437,6 @@
       },
       {
         "name": "Camera & Photo",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Camera-50.png",
         "url": "https://iprice.my/camera-photo/",
         "items": [
           {
@@ -483,7 +479,6 @@
       },
       {
         "name": "TV, Video & DVD",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Camera-50.png",
         "url": "https://iprice.my/tv-video-dvd/",
         "items": [
           {
@@ -530,7 +525,6 @@
       },
       {
         "name": "Appliances",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Baby.png",
         "url": "https://iprice.my/appliances/",
         "items": [
           {
@@ -1182,102 +1176,102 @@
     "type": "link",
     "items": [
       {
-        "name": "Sephora",
+        "brand-name": "Sephora",
         "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/sephora.jpg",
         "url": "/sephora/"
       },
       {
-        "name": "Charles & Keith",
+        "brand-name": "Charles & Keith",
         "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/charles-keith.jpg",
         "url": "/charles-keith/"
       },
       {
-        "name": "adidas",
+        "brand-name": "adidas",
         "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/adidas.png",
         "url": "/adidas/"
       },
       {
-        "name": "Uniqlo",
+        "brand-name": "Uniqlo",
         "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/uniqlo.jpg",
         "url": "/uniqlo/"
       },
       {
-        "name": "Nike",
+        "brand-name": "Nike",
         "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/nike.jpg",
         "url": "/nike/"
       },
       {
-        "name": "Vincci",
+        "brand-name": "Vincci",
         "image-url": "https://a.ipricegroup.com/media/Zach__2_/vincci.png",
         "url": "/vincci/"
       },
       {
-        "name": "BONIA",
+        "brand-name": "BONIA",
         "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/bonia.jpg",
         "url": "/bonia/"
       },
       {
-        "name": "Longchamp",
+        "brand-name": "Longchamp",
         "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/longchamp.jpg",
         "url": "/longchamp/"
       },
       {
-        "name": "FILA",
+        "brand-name": "FILA",
         "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/fila.jpg",
         "url": "/fila/"
       },
       {
-        "name": "H&M",
+        "brand-name": "H&M",
         "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/h-m.jpg",
         "url": "/h-m/"
       },
       {
-        "name": "spao",
+        "brand-name": "spao",
         "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/spao.jpg",
         "url": "/spao/"
       },
       {
-        "name": "Coach",
+        "brand-name": "Coach",
         "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/coach.jpg",
         "url": "/coach/"
       },
       {
-        "name": "Carlo Rino",
+        "brand-name": "Carlo Rino",
         "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/carlo-rino.jpg",
         "url": "/carlo-rino/"
       },
       {
-        "name": "The Body Shop",
+        "brand-name": "The Body Shop",
         "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/the-body-shop.jpg",
         "url": "/the-body-shop/"
       },
       {
-        "name": "Zara",
+        "brand-name": "Zara",
         "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/zara.jpg",
         "url": "/zara/"
       },
       {
-        "name": "Victoria's Secret",
+        "brand-name": "Victoria's Secret",
         "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/brand/victorias-secret.jpg",
         "url": "/victorias-secret/"
       },
       {
-        "name": "Swatch",
+        "brand-name": "Swatch",
         "image-url": "https://iprice-production-assets.s3.ap-southeast-1.amazonaws.com/brand/swatch.jpg",
         "url": "/swatch/"
       },
       {
-        "name": "G2000",
+        "brand-name": "G2000",
         "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/g2000.jpg",
         "url": "/g2000/"
       },
       {
-        "name": "Barry Smith",
+        "brand-name": "Barry Smith",
         "image-url": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/brand/barry-smith.jpg",
         "url": "/barry-smith/"
       },
       {
-        "name": "Fossil",
+        "brand-name": "Fossil",
         "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/Zach__2_/fossil.png",
         "url": "/fossil/"
       }
@@ -1290,15 +1284,14 @@
     "items": [
       {
         "name": "Womens' Clothing",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Women_Fashion-79.png",
         "url": "https://iprice.my/clothing/women/",
         "items": [
           {
-            "name": "Dresses",
+            "name": "Dresses for Women",
             "url": "https://iprice.my/clothing/women/dresses/"
           },
           {
-            "name": "Tops",
+            "name": "Tops for Women",
             "url": "https://iprice.my/clothing/women/tops/"
           },
           {
@@ -1314,31 +1307,31 @@
             "url": "https://iprice.my/clothing/traditional/baju-kurung/moderns/"
           },
           {
-            "name": "Jeans",
+            "name": "Jeans for Women",
             "url": "https://iprice.my/clothing/women/jeans/"
           },
           {
-            "name": "Skirts",
+            "name": "Skirts for Women",
             "url": "https://iprice.my/clothing/women/skirts/"
           },
           {
-            "name": "Pants",
+            "name": "Pants for Women",
             "url": "https://iprice.my/clothing/women/pants/"
           },
           {
-            "name": "Evening Dress Malaysia Online",
+            "name": "Evening Dress Malaysia Online for Women",
             "url": "https://iprice.my/clothing/women/dresses/evening-gown/"
           },
           {
-            "name": "Swimwear",
+            "name": "Swimwear for Women",
             "url": "https://iprice.my/clothing/women/swimwear/"
           },
           {
-            "name": "Sportswear",
+            "name": "Sportswear for Women",
             "url": "https://iprice.my/clothing/women/sportswear/"
           },
           {
-            "name": "Lingerie",
+            "name": "Lingerie for Women",
             "url": "https://iprice.my/clothing/women/underwear/lingerie/"
           },
           {
@@ -1349,70 +1342,68 @@
       },
       {
         "name": "Womens' shoes",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Heels.png",
         "url": "https://iprice.my/shoes/women",
         "items": [
           {
-            "name": "Boots",
+            "name": "Boots for Women",
             "url": "https://iprice.my/shoes/women/boots/"
           },
           {
-            "name": "Flats",
+            "name": "Flats for Women",
             "url": "https://iprice.my/shoes/women/flats/"
           },
           {
-            "name": "High Heels",
+            "name": "High Heels for Women",
             "url": "https://iprice.my/shoes/women/high-heels/"
           },
           {
-            "name": "Sneakers",
+            "name": "Sneakers for Women",
             "url": "https://iprice.my/shoes/women/sneakers/"
           },
           {
-            "name": "Sports",
+            "name": "Sports for Women",
             "url": "https://iprice.my/shoes/women/sports/"
           },
           {
-            "name": "Boat Shoes",
+            "name": "Boat Shoes for Women",
             "url": "https://iprice.my/shoes/women/boat/"
           },
           {
-            "name": "Sandals",
+            "name": "Sandals for Women",
             "url": "https://iprice.my/shoes/women/sandals/"
           },
           {
-            "name": "Brogue Shoes",
+            "name": "Brogue Shoes for Women",
             "url": "https://iprice.my/shoes/women/brogues/"
           },
           {
-            "name": "Wedges",
+            "name": "Wedges for Women",
             "url": "https://iprice.my/shoes/women/wedges/"
           }
         ]
       },
       {
         "name": "Mens' clothing",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Heels.png",
         "url": "https://iprice.my/clothing/men/",
         "items": [
           {
-            "name": "Jackets",
+            "name": "Jackets for Men",
             "url": "https://iprice.my/clothing/men/jackets/"
           },
           {
-            "name": "Formal Wear",
+            "name": "Formal Wear for Men",
             "url": "https://iprice.my/clothing/men/formal-wear/"
           },
           {
-            "name": "Jeans",
+            "name": "Jeans for Men",
             "url": "https://iprice.my/clothing/men/jeans/"
           },
           {
-            "name": "Shirts",
+            "name": "Shirts for Men",
             "url": "https://iprice.my/clothing/men/shirts/"
           },
           {
-            "name": "Pants",
+            "name": "Pants for Men",
             "url": "https://iprice.my/clothing/men/pants/"
           },
           {
@@ -1420,65 +1411,63 @@
             "url": "https://iprice.my/clothing/traditional/baju-melayu/"
           },
           {
-            "name": "Short Pants",
+            "name": "Short Pants for Men",
             "url": "https://iprice.my/clothing/men/shorts/"
           },
           {
-            "name": "Sportswear",
+            "name": "Sportswear for Men",
             "url": "https://iprice.my/clothing/men/sportswear/"
           },
           {
-            "name": "T-Shirts",
+            "name": "T-Shirts for Men",
             "url": "https://iprice.my/clothing/men/t-shirts/"
           },
           {
-            "name": "Polo Shirts",
+            "name": "Polo Shirts for Men",
             "url": "https://iprice.my/clothing/men/polo-shirts/"
           },
           {
-            "name": "Sunglasses",
+            "name": "Sunglasses for Men",
             "url": "https://iprice.my/clothing/men/sunglasses/"
           }
         ]
       },
       {
         "name": "Mens' shoes",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Heels.png",
         "url": "https://iprice.my/shoes/men/",
         "items": [
           {
-            "name": "Boots",
+            "name": "Boots for Men",
             "url": "https://iprice.my/shoes/men/boots/"
           },
           {
-            "name": "Sneakers",
+            "name": "Sneakers for Men",
             "url": "https://iprice.my/shoes/men/sneakers/"
           },
           {
-            "name": "Loafers",
+            "name": "Loafers for Men",
             "url": "https://iprice.my/shoes/men/loafers/"
           },
           {
-            "name": "Flip Flops",
+            "name": "Flip Flops for Men",
             "url": "https://iprice.my/shoes/men/flip-flops/"
           },
           {
-            "name": "Sports",
+            "name": "Sports for Men",
             "url": "https://iprice.my/shoes/men/sports/"
           },
           {
-            "name": "Running Shoes",
+            "name": "Running Shoes for Men",
             "url": "https://iprice.my/shoes/men/sports/running"
           },
           {
-            "name": "Sandals",
+            "name": "Sandals for Men",
             "url": "https://iprice.my/shoes/men/sandals/"
           }
         ]
       },
       {
         "name": "Bags",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Womens_Bag.png",
         "url": "https://iprice.my/bags/",
         "items": [
           {
@@ -1502,7 +1491,7 @@
             "url": "https://iprice.my/bags/sling/"
           },
           {
-            "name": "Handbag",
+            "name": "Handbag for Women",
             "url": "https://iprice.my/bags/women/handbags/"
           },
           {
@@ -1525,7 +1514,6 @@
       },
       {
         "name": "Jewellery",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Babys_Clothes.png",
         "url": "https://iprice.my/jewellery/",
         "items": [
           {
@@ -1572,15 +1560,14 @@
       },
       {
         "name": "Watches",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Babys_Clothes_2.png",
         "url": "https://iprice.my/watches/",
         "items": [
           {
-            "name": "Watches",
+            "name": "Watches for Women",
             "url": "https://iprice.my/watches/women/"
           },
           {
-            "name": "Watches",
+            "name": "Watches for Men",
             "url": "https://iprice.my/watches/men/"
           },
           {
@@ -1727,100 +1714,100 @@
     "type": "link",
     "items": [
       {
-        "name": "Bath & Body Works",
+        "brand-name": "Bath & Body Works",
         "image-url": "https://a.ipricegroup.com/brand/bath-body-works.jpg",
         "url": "https://iprice.my/bath-body-works/"
       },
       {
-        "name": "Jo Malone",
+        "brand-name": "Jo Malone",
         "image-url": "https://a.ipricegroup.com/brand/jo-malone.jpg",
         "url": "https://iprice.my/jo-malone/"
       },
       {
-        "name": "ALHA ALFA COSMETIC",
+        "brand-name": "ALHA ALFA COSMETIC",
         "image-url": "https://a.ipricegroup.com/brand/alha-alfa-cosmetic.jpg",
         "url": "https://iprice.my/alha-alfa-cosmetic/"
       },
       {
-        "name": "MUJI",
+        "brand-name": "MUJI",
         "image-url": "https://a.ipricegroup.com/brand/muji.jpg",
         "url": "https://iprice.my/muji/"
       },
       {
-        "name": "Victoria's Secret",
+        "brand-name": "Victoria's Secret",
         "image-url": "https://a.ipricegroup.com/brand/victorias-secret.jpg",
         "url": "https://iprice.my/victorias-secret/"
       },
       {
-        "name": "LUSH",
+        "brand-name": "LUSH",
         "image-url": "https://a.ipricegroup.com/brand/lush.jpg",
         "url": "https://iprice.my/lush/"
       },
       {
-        "name": "Nars Cosmetics",
+        "brand-name": "Nars Cosmetics",
         "url": "https://iprice.my/nars-cosmetics/"
       },
       {
-        "name": "JOHNSON SUISSE",
+        "brand-name": "JOHNSON SUISSE",
         "image-url": "https://a.ipricegroup.com/brand/johnson-suisse.jpg",
         "url": "https://iprice.my/johnson-suisse/"
       },
       {
-        "name": "Yves Saint Laurent",
+        "brand-name": "Yves Saint Laurent",
         "image-url": "https://a.ipricegroup.com/brand/yves-saint-laurent.jpg",
         "url": "https://iprice.my/yves-saint-laurent/"
       },
       {
-        "name": "SK-II",
+        "brand-name": "SK-II",
         "image-url": "https://a.ipricegroup.com/media/Zach__2_/sk-ii.png",
         "url": "https://iprice.my/sk-ii/"
       },
       {
-        "name": "Montblanc",
+        "brand-name": "Montblanc",
         "image-url": "https://a.ipricegroup.com/brand/montblanc.jpg",
         "url": "https://iprice.my/montblanc/"
       },
       {
-        "name": "colourpop",
+        "brand-name": "colourpop",
         "image-url": "https://a.ipricegroup.com/brand/colourpop.jpg",
         "url": "https://iprice.my/colourpop/"
       },
       {
-        "name": "Dior",
+        "brand-name": "Dior",
         "image-url": "https://a.ipricegroup.com/media/Zach__2_/dior.png",
         "url": "https://iprice.my/dior/"
       },
       {
-        "name": "Atomy",
+        "brand-name": "Atomy",
         "url": "https://iprice.my/atomy/"
       },
       {
-        "name": "Tiffany Co",
+        "brand-name": "Tiffany Co",
         "image-url": "https://a.ipricegroup.com/media/tiffany.png",
         "url": "https://iprice.my/tiffany-co/"
       },
       {
-        "name": "Bobbi Brown",
+        "brand-name": "Bobbi Brown",
         "image-url": "https://a.ipricegroup.com/brand/bobbi-brown.jpg",
         "url": "https://iprice.my/bobbi-brown/"
       },
       {
-        "name": "Bioaqua",
+        "brand-name": "Bioaqua",
         "image-url": "https://a.ipricegroup.com/brand/bioaqua.jpg",
         "url": "https://iprice.my/bioaqua/"
       },
       {
-        "name": "Chanel",
+        "brand-name": "Chanel",
         "image-url": "https://a.ipricegroup.com/media/Zach__2_/chanel.png",
         "url": "https://iprice.my/chanel/"
       },
       {
-        "name": "watsons",
+        "brand-name": "watsons",
         "image-url": "https://a.ipricegroup.com/brand/watsons.jpg",
         "url": "https://iprice.my/watsons/"
       },
       {
-        "name": "Sephora",
+        "brand-name": "Sephora",
         "image-url": "https://a.ipricegroup.com/brand/sephora.jpg",
         "url": "https://iprice.my/sephora/"
       }
@@ -1833,7 +1820,6 @@
     "items": [
       {
         "name": "Skin Care",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Beauty_-_Blush_on.png",
         "url": "https://iprice.my/skin-care/",
         "items": [
           {
@@ -1856,7 +1842,6 @@
       },
       {
         "name": "Eyecare",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Beauty_-_Brush_and_Cream.png",
         "url": "https://iprice.my/eyecare/",
         "items": [
           {
@@ -1875,7 +1860,6 @@
       },
       {
         "name": "Dental Care",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Christmas_Presents.png",
         "url": "https://iprice.my/dental-care/",
         "items": [
           {
@@ -1902,7 +1886,6 @@
       },
       {
         "name": "Makeup",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Christmas_tree.png",
         "url": "https://iprice.my/makeup/",
         "items": [
           {
@@ -1945,7 +1928,6 @@
       },
       {
         "name": "Perfume",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Games_Lego.png",
         "url": "https://iprice.my/perfume/",
         "items": [
           {
@@ -1964,7 +1946,6 @@
       },
       {
         "name": "Hair Care",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_New_Car.png",
         "url": "https://iprice.my/hair-care/",
         "items": [
           {
@@ -1991,7 +1972,6 @@
       },
       {
         "name": "Bath & Body",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Old_Car.png",
         "url": "https://iprice.my/bath-body/",
         "items": [
           {
@@ -2046,7 +2026,6 @@
       },
       {
         "name": "Supplements",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Plant.png",
         "url": "https://iprice.my/supplements/",
         "items": [
           {
@@ -2081,7 +2060,6 @@
       },
       {
         "name": "Shaving Supplies",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Magnifying_Glass.png",
         "url": "https://iprice.my/shaving-supplies/",
         "items": [
           {
@@ -2112,7 +2090,6 @@
       },
       {
         "name": "Medical Supplies",
-        "image-url": "https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon/Icons_set_Santa.png",
         "url": "https://iprice.my/medical-supplies/",
         "items": [
           {

@@ -6,8 +6,8 @@ function process() {
 	var file = "parse-csv/data/metaTags.csv";
 	fs.readFile(file, 'utf8', function (err, data) {
 		var json = util.CSVToArray(data);
+        json = json.slice(1, json.length);
 		json = util.buildMetaTag(json);
-		json = json.slice(1, json.length);
 		json.unshift(["L0", "Page Type", "Type Template", "Value Template","Key"]);
 		// console.log(json[1653]);
 		fs.writeFile("data/metaTags.json", JSON.stringify(json), function (err) {

@@ -236,15 +236,16 @@ function buildMetaTag(arr) {
 		item[1] = data[1];
 		item[2] = data[2];
 		if(isExist(item[4],unchangedHeader) || item[0]==="default" || item[1]==="default"){
-			item[0]="please-not-change";
-			item[1]="please-not-change";
-			item[2]="please-not-change";
+			item[0]="z-please-not-change";
+			item[1]="z-please-not-change";
+			item[2]="z-please-not-change";
 			unchanged.push(item);
 			return;
 		}
 		result.push(item);
 	});
 	result = result.concat(unchanged);
+    result = headingReplaceH1(result);
 
 	return result;
 }
@@ -264,6 +265,29 @@ function buildCol(str){
 	return result;
 }
 
+function sortFinal(arr){
+    return _.sortBy(arr, [0], [1]);
+}
+
+function headingReplaceH1(array){
+	var result = [];
+	for (var i = 0; i < array.length; i++) {
+		if (array[i][3].indexOf("[[heading]]") !== -1 && array[i][4].indexOf("h1") !== -1 && array[i][0] !== "z-please-not-change") {
+			var key = array[i][4].replace("h1", "heading");
+            for (var j = 0; j < array.length; j++) {
+				if (array[j][4] == key) {
+                    var str = array[i][3].replace("[[heading]]", array[j][3]);
+					array[i][3] = str;
+                    break;
+				}
+			}
+		}
+        result.push(array[i]);
+	}
+    result = sortFinal(result);
+	return result;
+}
+
 function isHeader(str){
 
 	return HEADERS.includes(str);
@@ -273,6 +297,7 @@ const Util = {
 	arrayToJson: arrayToJson,
 	buildMetaTag: buildMetaTag,
 	sortArr: sortArr,
-	buildCol: buildCol
+	buildCol: buildCol,
+    headingReplaceH1: headingReplaceH1
 };
 module.exports = Util;
