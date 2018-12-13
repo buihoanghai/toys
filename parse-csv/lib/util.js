@@ -1,7 +1,35 @@
 const _ = require('lodash');
 
-const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "name", "url", "price", "store-count", "image-url", "brand-name", "label"];
+const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "items1", "name", "url", "price", "store-count", "image-url", "brand-name", "label", "store-name", "main-url"];
 
+const ORDER = ["brand" , "series", "model", "category", "gender", "color"];
+
+
+function sortArr(arr, order){
+	var result = [];
+	for(var i = 0;i< arr.length;i++){
+		let item = {
+			text: arr[i],
+			point:calPoint(arr[i], order)
+		};
+		result.push(item);
+	}
+	result = _.sortBy(result,"point");
+	var result1= [];
+	_.each(result,  item=>{
+		result1.push(item.text);
+	});
+	return result1;
+
+}
+function calPoint(str, order) {
+	for (var i = 0; i < order.length; i++) {
+		if (str === order[i])
+			return i;
+	}
+	return -1;
+}
+// "plp.electronics.default_gender_category_title"
 function CSVToArray( strData, strDelimiter ){
 	// Check to see if the delimiter is defined. If not,
 	// then default to comma.
@@ -88,25 +116,47 @@ function arrayToJson(table) {
 	var result = {};
 	var heads = new Array(20);
 	var items;
+	var items1;
 	var item;
+	var item1;
 	var currentRow;
+	var addItem1, addItem;
+	var indexColTemp1 = 999;
 	_.each(table, (row, indexRow) => {
-		console.log("row", indexRow);
-		if(items){
-			if(Object.keys(item).length){
-				items.push(item);
+		// console.log("row", indexRow);
+		if (items1) {
+			if (Object.keys(item1).length) {
+				items1.push(_.clone(item1));
+				item1 = {};
 			}
 		}
+		if (items) {
+			if (Object.keys(item).length) {
+				items.push(_.clone(item));
+				item = {};
+				item1 = {};
+			}
+		}
+
 		_.each(row, (cell, indexCol) => {
 			cell = cell.trim ? cell.trim() : "";
 			if (isHeader(cell)) {
 				heads[indexCol] = cell;
-				console.log("header", cell);
-				switch (cell){
+				// console.log("header", cell);
+				switch (cell) {
 					case "items":
 						items = [];
 						item = {};
-						currentRow["items"]= items;
+						currentRow["items"] = items;
+						addItem = true;
+						addItem1 = false;
+						break;
+					case "items1":
+						indexColTemp1 = indexCol;
+						items1 = [];
+						item1 = {};
+						item["items"] = items1;
+						addItem1 = true;
 						break;
 					default:
 
@@ -114,17 +164,34 @@ function arrayToJson(table) {
 
 			} else {
 				if (cell) {
-					console.log("cell", heads[indexCol], indexCol, cell);
-					switch (heads[indexCol]){
+					// console.log("cell", heads[indexCol], indexCol, cell);
+					switch (heads[indexCol]) {
 						case "section":
 							result[cell] = currentRow = {};
 							items = undefined;
+							items1 = undefined;
 							item = undefined;
+							item1 = undefined;
+							addItem1 = false;
+							indexColTemp1 = 999;
+							break;
+						case "items":
+							items1 = undefined;
+							item1 = undefined;
+							addItem1 = false;
 							break;
 						default:
-							if(item){
-								item[heads[indexCol]] = cell;
-							}else {
+							if (item) {
+								if (item1) {
+									if (indexColTemp1 <= indexCol) {
+										item1[heads[indexCol]] = cell;
+									} else {
+										item[heads[indexCol]] = cell;
+									}
+								} else {
+									item[heads[indexCol]] = cell;
+								}
+							} else {
 								currentRow[heads[indexCol]] = cell;
 							}
 					}
@@ -135,12 +202,102 @@ function arrayToJson(table) {
 	});
 	return result;
 }
+const removeHeader = ["discount","og","blog"];
+const unchangedHeader = ["heading","store", "color", "search"];
+function isExist(str, headers){
+	for(var i = 0;i<headers.length;i++){
+		if(str.indexOf(headers[i]) !== -1){
+			return true;
+		}
+	}
+	return false;
+}
+function buildMetaTag(arr) {
+	let result = [];
+	let unchanged = [];
+	_.each(arr, item => {
+		if(isExist(item[4],removeHeader)){
+			return;
+		}
+
+		let cols = item[4].trim().split("_");
+		let t = [];
+		t.push(cols[0]);
+		let unsorted = cols.splice(1, cols.length - 2);
+		// console.log(unsorted.join());
+		let sorted = sortArr(unsorted, ORDER);
+		_.each(sorted, i => {
+			t.push(i);
+		});
+		t.push(cols[cols.length - 1]);
+		item[4] = t.join("_");
+		let data = buildCol(item[4]);
+		item[0] = data[0];
+		item[1] = data[1];
+		item[2] = data[2];
+		if(isExist(item[4],unchangedHeader) || item[0]==="default" || item[1]==="default"){
+			item[0]="z-please-not-change";
+			item[1]="z-please-not-change";
+			item[2]="z-please-not-change";
+			unchanged.push(item);
+			return;
+		}
+		result.push(item);
+	});
+	result = result.concat(unchanged);
+    result = headingReplaceH1(result);
+
+	return result;
+}
+function buildCol(str){
+	let result = [];
+	// "plp.sports-outdoor.default_discount_brand_series_model_meta"
+	var items = str.split(".");
+	var items1 = str.split("_");
+	let unsorted = items1.splice(1, items1.length - 2);
+	result.push(items[1]);
+	if(items[0]==="pdp"){
+		result.push("pdp");
+	}else{
+		result.push(unsorted.join("_"));
+	}
+	result.push(items1[items1.length -1]);
+	return result;
+}
+
+function sortFinal(arr){
+    return _.sortBy(arr, [0], [1]);
+}
+
+function headingReplaceH1(array){
+	var result = [];
+	for (var i = 0; i < array.length; i++) {
+		if (array[i][3].indexOf("[[heading]]") !== -1 && array[i][4].indexOf("h1") !== -1 && array[i][0] !== "z-please-not-change") {
+			var key = array[i][4].replace("h1", "heading");
+            for (var j = 0; j < array.length; j++) {
+				if (array[j][4] == key) {
+                    var str = array[i][3].replace("[[heading]]", array[j][3]);
+					array[i][3] = str;
+                    break;
+				}
+			}
+		}
+        result.push(array[i]);
+	}
+    result = sortFinal(result);
+	return result;
+}
+
 function isHeader(str){
 
 	return HEADERS.includes(str);
 }
 const Util = {
 	CSVToArray : CSVToArray,
-	arrayToJson: arrayToJson
+	arrayToJson: arrayToJson,
+	buildMetaTag: buildMetaTag,
+	sortArr: sortArr,
+	buildCol: buildCol,
+    headingReplaceH1: headingReplaceH1
 };
 module.exports = Util;
