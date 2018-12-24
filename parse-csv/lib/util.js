@@ -1,5 +1,6 @@
 const _ = require('lodash');
-
+var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+var http = new XMLHttpRequest();
 const HEADERS = ["section", "type", "title", "go-to-url", "go-to-title", "items", "items1", "name", "url", "price", "store-count", "image-url", "brand-name", "label", "store-name", "main-url"];
 
 const ORDER = ["brand" , "series", "model", "category", "gender", "color"];
@@ -268,7 +269,32 @@ function buildCol(str){
 function sortFinal(arr){
     return _.sortBy(arr, [0], [1]);
 }
-
+function UrlExists(url) {
+	http.open('HEAD', url, false);
+	http.send();
+	if (http.status === 404) {
+		console.log("404");
+		return false;
+	}
+	console.log(http.status);
+	//  do something
+	return true;
+}
+function buildInternationalArr(arr){
+	var result = [];
+	for (var i = 1; i < arr.length; i++) {
+		let url = arr[i][0];
+		 let item=[];
+		 item.push(url);
+		 item.push(true);
+		// item.push(UrlExists(url));
+		if(UrlExists(url))
+		{
+			result.push(item);
+		}
+	}
+	return result;
+}
 function headingReplaceH1(array){
 	var result = [];
 	for (var i = 0; i < array.length; i++) {
@@ -298,6 +324,7 @@ const Util = {
 	buildMetaTag: buildMetaTag,
 	sortArr: sortArr,
 	buildCol: buildCol,
-    headingReplaceH1: headingReplaceH1
+    headingReplaceH1: headingReplaceH1,
+	buildInternationalArr: buildInternationalArr
 };
 module.exports = Util;
