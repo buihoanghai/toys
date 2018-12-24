@@ -6,8 +6,10 @@
   "author": "haibui <hoanghaibui2003@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "globule": "^1.2.1",
     "lodash": "^4.17.10",
-    "puppeteer": "^1.6.2"
+    "puppeteer": "^1.6.2",
+    "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
     "jasmine": "^3.3.0"
