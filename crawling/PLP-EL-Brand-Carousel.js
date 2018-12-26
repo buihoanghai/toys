@@ -13,7 +13,8 @@ let result = [];
 	const page = await browser.newPage();
 	for(let i = 0; i<homepage['PLP-EL-Brand-Carousel'].items.length;i++){
 		let item = homepage['PLP-EL-Brand-Carousel'].items[i];
-		await page.goto(config.url + item.url);
+		await page.goto(item.url);
+		// await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
 			let brandName = document.querySelector('#clear_filters a span');
 			brandName = brandName.innerText.trim();

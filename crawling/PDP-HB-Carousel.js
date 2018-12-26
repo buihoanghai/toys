@@ -13,7 +13,8 @@ let result = [];
 	const page = await browser.newPage();
 	for(let i = 0; i<homepage['PDP-HB-Carousel'].items.length;i++){
 		let item = homepage['PDP-HB-Carousel'].items[i];
-		await page.goto(config.url + item.url);
+		await page.goto(item.url);
+		// await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
 			var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
 			let name = elems[elems.length-1].innerText.trim();

@@ -13,10 +13,10 @@ let result = [];
 	const page = await browser.newPage();
 	for(let i = 0; i<homepage['PLP-FA-Brand-Carousel'].items.length;i++){
 		let item = homepage['PLP-FA-Brand-Carousel'].items[i];
-		await page.goto(config.url + item.url);
+		await page.goto(item.url);
 		const data = await page.evaluate(() => {
-			let brandName = document.querySelector('#clear_filters a span');
-			brandName = brandName.innerText.trim();
+			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
+			let brandName =  breadcrumb[breadcrumb.length - 1].innerText.trim();
 			let image =document.querySelector('.db-l.ba.b--gray-light.mr3.dn.v-mid amp-img');
 			let imageUrl = image? image.getAttribute('src').trim() : "";
 			let data = [];

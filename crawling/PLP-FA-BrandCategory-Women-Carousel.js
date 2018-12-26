@@ -15,13 +15,13 @@ let url;
 	for(let i = 0; i<homepage['PLP-FA-BrandCategory-Women-Carousel'].items.length;i++){
 		let item = homepage['PLP-FA-BrandCategory-Women-Carousel'].items[i];
 		url = item['main-url'];
-		await page.goto(config.url + url);
+		await page.goto(url+"?show-filter=1");
 		const data = await page.evaluate(() => {
-			let brandName = document.querySelector('#clear_filters a span');
+			let brandName = document.querySelector('a[data-vars-cia="click_brand_filter_label"] span');
 			brandName = brandName.innerText.trim();
 			let isWoman = document.querySelector('[data-vars-lb="Women"]');
 
-			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap a');
+			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
 			let name = breadcrumb[breadcrumb.length - 1].innerText.trim();
 			let data = [];
 			data.push(!!isWoman);
