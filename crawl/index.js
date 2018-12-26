@@ -1,4 +1,5 @@
-const crawl = require("../lib/crawl");
+const crawl = require("../lib/crawlGoogle");
+const crawlImage = require("../lib/crawlGoogleImage");
 const crawlWiki = require("../lib/crawlWiki");
 const parseData = require("../lib/parseData");
 const saveFile = require("../lib/saveFile");
@@ -32,8 +33,11 @@ function process() {
 					processedData.wikiURL = data[1];
 					processedData.googleURL = googleURL;
 					crawlWiki.crawl(processedData.wikiURL).then((res) => {
-						processedData.wikiDoc = res;
-						saveFile.save("google/" + keyword + ".json", JSON.stringify(processedData));
+						processedData.wikiDoc = res.replace(/\[[0-9]?[0-9]\]/g,"");
+						crawlImage.crawl(googleURL+"&tbm=isch").then(res=>{
+							processedData.listImages = res;
+							saveFile.save("google/" + keyword + ".json", JSON.stringify(processedData));
+						});
 						// translate.go("Hello world").then(data=>{
 						// 	processedData.wikiDocVN = data;
 						// 	saveFile.save("google/" + keyword + ".json", JSON.stringify(processedData));
@@ -43,7 +47,6 @@ function process() {
 				deferers.push(deferer);
 				Promise.all(deferers).then(() => {
 					if (unableFillDataKeywords.length!==0) {
-						isSaveUnableFile = true;
 						saveFile.save("google/unable-fill-data-keywords.json", JSON.stringify(unableFillDataKeywords));
 					}
 				});
