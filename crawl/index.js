@@ -1,5 +1,7 @@
 const crawl = require("../lib/crawlGoogle");
 const crawlImage = require("../lib/crawlGoogleImage");
+const downloadImage = require("../lib/downloadImage");
+const html = require("../lib/html");
 const crawlWiki = require("../lib/crawlWiki");
 const parseData = require("../lib/parseData");
 const saveFile = require("../lib/saveFile");
@@ -9,12 +11,13 @@ const DELAY = 5000;
 function process() {
 	let unableFillDataKeywords = [];
 	let deferers = [];
-	var file = "data/google-keywords.csv";
+	const file = "data/google-keywords.csv";
 	fs.readFile(file, 'utf8', function (err, data) {
-		var arr = csv.CSVToArray(data);
-		var offset = 0;
+		let arr = csv.CSVToArray(data);
+		let offset = 0;
 		arr.map(function(item){
 			setTimeout(function(){
+				console.log(item);
 				if (!item[0]) {
 					return;
 				}
@@ -29,13 +32,14 @@ function process() {
 						console.error("Can not find data for this keyword:", keyword);
 						return;
 					}
-					var processedData = parseData.parse(data[0]);
+					let processedData = parseData.parse(data[0]);
 					processedData.wikiURL = data[1];
 					processedData.googleURL = googleURL;
 					crawlWiki.crawl(processedData.wikiURL).then((res) => {
-						processedData.wikiDoc = res.replace(/\[[0-9]?[0-9]\]/g,"");
+						processedData.wikiDoc = html.parseHTML(res);
 						crawlImage.crawl(googleURL+"&tbm=isch").then(res=>{
 							processedData.listImages = res;
+							// downloadImage.downloadAll(res,keyword);
 							saveFile.save("google/" + keyword + ".json", JSON.stringify(processedData));
 						});
 						// translate.go("Hello world").then(data=>{
