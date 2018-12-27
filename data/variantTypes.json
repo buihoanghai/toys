@@ -1,0 +1,288 @@
+{
+  "cong-dung" : {
+    "children" : {
+      "lam-dep" : {
+        "name" : "Làm đẹp",
+        "order" : 0
+      },
+      "thuc-pham" : {
+        "name" : "Thực phẩm",
+        "order" : 1
+      }
+    },
+    "name" : "Công Dụng"
+  },
+  "dan-xuat" : {
+    "children" : {
+      "dau-dua" : {
+        "name" : "Dầu Dừa",
+        "order" : 2
+      },
+      "dau-huong-duong" : {
+        "name" : "Dầu Hướng Dương",
+        "order" : 0
+      },
+      "dau-oliu" : {
+        "name" : "Dầu Oliu",
+        "order" : 1
+      }
+    },
+    "name" : "Dẫn Xuất",
+    "order" : 1
+  },
+  "dung-tich" : {
+    "children" : {
+      "1-lit" : {
+        "name" : "1 lít",
+        "order" : 7
+      },
+      "100-ml" : {
+        "name" : "100ml",
+        "order" : 2
+      },
+      "120-ml" : {
+        "name" : "120ml",
+        "order" : 3
+      },
+      "2-lit" : {
+        "name" : "2 lít",
+        "order" : 8
+      },
+      "20-ml" : {
+        "name" : "20ml",
+        "order" : 0
+      },
+      "200-ml" : {
+        "name" : "200ml",
+        "order" : 4
+      },
+      "250-ml" : {
+        "name" : "250ml",
+        "order" : 5
+      },
+      "50-ml" : {
+        "name" : "50ml",
+        "order" : 1
+      },
+      "500-ml" : {
+        "name" : "500ml",
+        "order" : 6
+      }
+    },
+    "name" : "Dung Tích",
+    "order" : 0
+  },
+  "kieu-su-dung" : {
+    "children" : {
+      "dang-bop" : {
+        "name" : "Dạng bóp",
+        "order" : 1
+      },
+      "dang-nhan" : {
+        "name" : "Dạng nhấn",
+        "order" : 0
+      }
+    },
+    "name" : "Kiểu sử dụng"
+  },
+  "loai" : {
+    "children" : {
+      "bo-booth-7" : {
+        "name" : "Bơ Booth 7",
+        "order" : 0
+      },
+      "bup" : {
+        "name" : "Búp",
+        "order" : 0
+      },
+      "dac-biet" : {
+        "name" : "Đặc Biệt",
+        "order" : 1
+      },
+      "dau-bap-non" : {
+        "name" : "Đậu bắp non",
+        "order" : 0
+      },
+      "la-chanh" : {
+        "name" : "lá chanh",
+        "order" : 2
+      },
+      "la-dua" : {
+        "name" : "Lá dứa",
+        "order" : 1
+      },
+      "mang-manh-tong" : {
+        "name" : "Măng Mạnh Tông",
+        "order" : 0
+      },
+      "no" : {
+        "name" : "Nở",
+        "order" : 1
+      },
+      "pate-gan-ga" : {
+        "name" : "Pate gan gà",
+        "order" : 0
+      },
+      "sieu-cay" : {
+        "name" : "Siêu cay",
+        "order" : 1
+      },
+      "sua" : {
+        "name" : "Sữa",
+        "order" : 0
+      },
+      "sua-bo-tuoi" : {
+        "name" : "Sữa Bò Tươi",
+        "order" : 0
+      },
+      "sua-hot-ga" : {
+        "name" : "Sữa hột gà",
+        "order" : 1
+      },
+      "sua-la-dua" : {
+        "name" : "Sữa Lá dứa",
+        "order" : 2
+      },
+      "thuong" : {
+        "name" : "Loại thường",
+        "order" : 0
+      },
+      "trung-cut-bac-thao" : {
+        "name" : "Trứng Cút Bắc Thảo",
+        "order" : 0
+      },
+      "trung-ga-ai-cap" : {
+        "name" : "Trứng gà ai cập",
+        "order" : 0
+      },
+      "trung-ga-tha-vuon" : {
+        "name" : "Trứng gà thả vườn",
+        "order" : 2
+      },
+      "truyen-thong" : {
+        "name" : "Truyền Thống",
+        "order" : 0
+      }
+    },
+    "dateCreated" : "2018-08-23T09:48:06.888Z",
+    "dateModified" : "2018-12-27T15:57:15.254Z",
+    "id" : "loai",
+    "name" : "Loại"
+  },
+  "so-luong" : {
+    "children" : {
+      "1-cai" : {
+        "name" : "1 Cái",
+        "order" : 0
+      },
+      "1-cap" : {
+        "name" : "1 Cặp",
+        "order" : 1
+      },
+      "1-chuc" : {
+        "name" : "1 chục",
+        "order" : 0
+      },
+      "1-hop" : {
+        "name" : "1 hộp",
+        "order" : 0
+      },
+      "10-bich" : {
+        "name" : "10 bịch",
+        "order" : 1
+      },
+      "15-bich" : {
+        "name" : "15 bịch",
+        "order" : 2
+      },
+      "2-cap" : {
+        "name" : "2 Cặp",
+        "order" : 2
+      },
+      "2-chuc" : {
+        "name" : "2 chục",
+        "order" : 1
+      },
+      "2-hop" : {
+        "name" : "2 hộp",
+        "order" : 1
+      },
+      "20-bich" : {
+        "name" : "20 bịch",
+        "order" : 3
+      },
+      "3-chuc" : {
+        "name" : "3 chục",
+        "order" : 2
+      },
+      "3-hop" : {
+        "name" : "3 hộp",
+        "order" : 2
+      },
+      "4-chuc" : {
+        "name" : "4 chục",
+        "order" : 3
+      },
+      "5-bich" : {
+        "name" : "5 bịch",
+        "order" : 0
+      },
+      "5-chuc" : {
+        "name" : "5 chục",
+        "order" : 4
+      }
+    },
+    "dateCreated" : "2018-09-25T16:20:48.670Z",
+    "dateModified" : "2018-12-27T15:59:27.520Z",
+    "id" : "so-luong",
+    "name" : "Số lượng"
+  },
+  "trong-luong" : {
+    "children" : {
+      "1-kg" : {
+        "name" : "1kg",
+        "order" : 5
+      },
+      "100-g" : {
+        "name" : "100g",
+        "order" : 0
+      },
+      "2-kg" : {
+        "name" : "2kg",
+        "order" : 6
+      },
+      "200-g" : {
+        "name" : "200g",
+        "order" : 1
+      },
+      "250-g" : {
+        "name" : "250g",
+        "order" : 2
+      },
+      "3-kg" : {
+        "name" : "3kg",
+        "order" : 7
+      },
+      "300-g" : {
+        "name" : "300g",
+        "order" : 3
+      },
+      "4-kg" : {
+        "name" : "4kg",
+        "order" : 8
+      },
+      "5-kg" : {
+        "name" : "5kg",
+        "order" : 9
+      },
+      "500-g" : {
+        "name" : "500g",
+        "order" : 4
+      }
+    },
+    "dateCreated" : "2018-09-19T17:21:38.942Z",
+    "dateModified" : "2018-09-27T14:56:49.098Z",
+    "id" : "trong-luong",
+    "name" : "Trọng lượng"
+  }
+}
