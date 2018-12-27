@@ -18,6 +18,9 @@ let result = [];
 			await page.goto(item.url);
 			const data = await page.evaluate(() => {
 				var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
+				if(!elems[elems.length-1]){
+					return "";
+				}
 				return elems[elems.length-1].innerText.trim();
 			});
 			result.push(data);

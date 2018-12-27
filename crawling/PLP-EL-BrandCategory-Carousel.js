@@ -16,8 +16,14 @@ let result = [];
 		await page.goto(item.url);
 		const data = await page.evaluate(() => {
 			let brandName = document.querySelector('#clear_filters a span');
+			if(!brandName){
+				return [];
+			}
 			brandName = brandName.innerText.trim();
-			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap a');
+			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
+			if(!breadcrumb[breadcrumb.length-1]){
+				return [];
+			}
 			let name = breadcrumb[breadcrumb.length-1].innerText.trim();
 			let image =document.querySelector('.m-i amp-img');
 

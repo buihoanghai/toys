@@ -16,6 +16,8 @@ let result = [];
 		await page.goto(item.url);
 		const data = await page.evaluate(() => {
 			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
+			if(!breadcrumb[breadcrumb.length - 1])
+				return [];
 			let brandName =  breadcrumb[breadcrumb.length - 1].innerText.trim();
 			let image =document.querySelector('.db-l.ba.b--gray-light.mr3.dn.v-mid amp-img');
 			let imageUrl = image? image.getAttribute('src').trim() : "";

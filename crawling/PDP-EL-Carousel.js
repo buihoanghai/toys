@@ -17,6 +17,9 @@ let result = [];
 		// await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
 			var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
+			if(!elems[elems.length-1]){
+				return [];
+			}
 			let name = elems[elems.length-1].innerText.trim();
 			let price = document.querySelector('.green.f18.f25-l');
 			price = price? price.innerText.trim(): "";
