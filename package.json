@@ -11,7 +11,7 @@
     "lodash": "^4.17.10",
     "puppeteer": "^1.6.2",
     "got": "^9.5.0",
-    "querystring": "^0.2.0"
+    "querystring": "^0.2.0",
     "request": "^2.88.0",
     "xmlhttprequest": "^1.8.0"
   },

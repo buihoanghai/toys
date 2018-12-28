@@ -162,6 +162,10 @@
       "truyen-thong" : {
         "name" : "Truyền Thống",
         "order" : 0
+      },
+      "xuat-khau" : {
+        "name" : "Xuất Khẩu",
+        "order" : 0
       }
     },
     "dateCreated" : "2018-08-23T09:48:06.888Z",
