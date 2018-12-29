@@ -1,6 +1,7 @@
 {
-  "spec_dir": "parse-csv/**/",
+  "spec_dir": "",
   "spec_files": [
-    "**/*[sS]pec.js"
+    "parse-csv/**/*[sS]pec.js",
+    "translate/**/*[sS]pec.js"
   ]
 }
