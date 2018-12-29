@@ -1,44 +1,47 @@
 const puppeteer = require('puppeteer');
-const homepage = require("../data/Homepage - MY");
-const config = require("../config/config");
-const _ = require('lodash');
-const fs = require('fs');
-var result = [];
-(async () => {
+
+const URL = "https://ticket.tickethotline.com.my/";
+
+async function reloadPage() {
+	document.location.reload();
+	await sleep(10000);
+	let items = document.querySelector('.center.red.white-text');
+	console.log("Tim text");
+	if (items) {
+		console.log("chua co ve");
+		reloadPage();
+	} else {
+		if(document.querySelector('body').innerText.length<100){
+			reloadPage();
+		} else {
+			document.location.href="https://www.youtube.com/watch?v=cWwEzknAbgc&list=RDMMcWwEzknAbgc&start_radio=1";
+		}
+	}
+}
+
+const sleep = (time) => {
+	return new Promise(function(resolve) {
+		setTimeout(resolve, time)
+	});
+}
+
+async function crawl(url) {
 	const browser = await puppeteer.launch({
 		headless: false,
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	await page.goto("https://ticket.tickethotline.com.my/");
-
-	const result = await page.evaluate(() => {
-		reload();
-		async function reload() {
-			document.location.reload();
-			await delay(10000);
-			let items = document.querySelector('.center.red.white-text');
-			console.log("Tim text");
-			if (items) {
-				console.log("chua co ve");
-				reload();
-			} else {
-				if(document.querySelector('body').innerText.length<100){
-					reload();
-				}else{
-					document.location.href="https://www.youtube.com/watch?v=cWwEzknAbgc&list=RDMMcWwEzknAbgc&start_radio=1";
-				}
-			}
-			function delay(time) {
-				return new Promise(function(resolve) {
-					setTimeout(resolve, time)
-				});
-			}
-		}
-
-
+	await page.goto(url);
+	await page.evaluate(() => {
+		reloadPage()
+			.then()
+			.catch(console.error)
 	});
 
 	//await browser.close();
+}
 
-})();
+
+crawl(URL)
+	.then()
+	.catch(console.error);
