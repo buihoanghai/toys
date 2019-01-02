@@ -22,7 +22,7 @@ let url;
 				return [];
 			}
 			brandName = brandName.innerText.trim();
-			let isMan = document.querySelector('[data-vars-lb="Pria"]');
+			let isMan = document.querySelector('[data-vars-lb="ผู้ชาย"]');
 
 			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
 			if(!breadcrumb[breadcrumb.length - 1]){

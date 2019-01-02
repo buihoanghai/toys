@@ -17,7 +17,7 @@ let result = [];
 		const data = await page.evaluate(() => {
 			let name;
 			let imageUrl;
-			let image = document.querySelector('.has-offer-text amp-img');
+			let image = document.querySelector('.store-logo-border amp-img');
 			imageUrl = image ? image.getAttribute('src').trim() : "";
 			if (imageUrl){
 				let breadcrumb = document.querySelectorAll('.dn.dib-l.f12 span');

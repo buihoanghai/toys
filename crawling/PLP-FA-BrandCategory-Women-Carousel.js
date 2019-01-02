@@ -22,7 +22,7 @@ let url;
 				return [];
 			}
 			brandName = brandName.innerText.trim();
-			let isWoman = document.querySelector('[data-vars-lb="Wanita"]');
+			let isWoman = document.querySelector('[data-vars-lb="ผู้หญิง"]');
 
 			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
 			if(!breadcrumb[breadcrumb.length - 1]){
