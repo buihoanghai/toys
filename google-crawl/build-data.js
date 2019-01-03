@@ -2,6 +2,7 @@ const _ = require('lodash');
 const fs = require('fs');
 const globule = require('globule');
 const product = require("../lib/product");
+const variantImage = require("../lib/variantImage");
 const variant = require("../lib/variant");
 const shortDescription = require("../lib/shortDescription");
 const saveFile = require("../lib/saveFile");
@@ -16,6 +17,7 @@ function process(){
 			let prod = product.create(json);
 			products.push(prod);
 			let vars = variant.create(prod.id, prod.variants);
+			vars = variantImage.generate(prod.id,vars);
 			shortDescription.generateForVariants(vars, prod.name);
 			_.each(vars, v => {
 				variants.push(v);
