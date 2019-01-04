@@ -6,11 +6,13 @@ const variantImage = require("../lib/variantImage");
 const variant = require("../lib/variant");
 const shortDescription = require("../lib/shortDescription");
 const saveFile = require("../lib/saveFile");
+const dir = require('../lib/dir');
 const path = "google/*/*.json";
 function process(){
 	let files = globule.find(path);
 	let products = [];
 	let variants = [];
+	dir.make("ifarmer/img/");
 	_.each(files, async file => {
 		await fs.readFile(file, 'utf8', function (err, data) {
 			let json = JSON.parse(data);
@@ -18,7 +20,8 @@ function process(){
 			products.push(prod);
 			let vars = variant.create(prod.id, prod.variants);
 			vars = variantImage.generate(prod.id,vars);
-			shortDescription.generateForVariants(vars, prod.name);
+			variantImage.addImageForContent(prod);
+			shortDescription.generateForVariants(vars, prod.name,json);
 			_.each(vars, v => {
 				variants.push(v);
 			});

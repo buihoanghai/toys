@@ -9,12 +9,12 @@ const parseData = require("../lib/parseData");
 const saveFile = require("../lib/saveFile");
 const csv = require("../lib/csv");
 const fs = require('fs');
-const DELAY = 5000;
+const DELAY = 20000;
 
 function process() {
     let unableFillDataKeywords = [];
     let deferers = [];
-    const file = "data/google-keywords.csv";
+    const file = "google-crawl/google-keywords.csv";
     fs.readFile(file, 'utf8', function (err, data) {
         let arr = csv.CSVToArray(data);
         let offset = 0;
@@ -43,19 +43,27 @@ function process() {
                     processedData.title = processedData.name;
                     processedData.wikiURL = data[1];
                     processedData.googleURL = googleURL;
-                    crawlWiki.crawl(processedData.wikiURL).then((res) => {
-                        processedData.wikiDoc = html.parseHTML(res);
-                        crawlImage.crawl(googleURL + "&tbm=isch").then(res => {
-                            console.log(res.length);
-                            processedData.listImages = res;
-                            downloadImage.downloadAll(res, processedData.id);
+                    crawlImage.crawl(googleURL + "&tbm=isch").then(res => {
+                        console.log(res.length);
+                        processedData.listImages = res;
+                        downloadImage.downloadAll(res, processedData.id);
+                        if(!processedData.wikiURL){
                             saveFile.save("google/" + processedData.id + "/" + processedData.id + ".json", JSON.stringify(processedData));
-                        });
-                        // translate.go("Hello world").then(data=>{
-                        // 	processedData.wikiDocVN = data;
-                        // 	saveFile.save("google/" + keyword + ".json", JSON.stringify(processedData));
-                        // });
+                        }else{
+                            crawlWiki.crawl(processedData.wikiURL).then((res) => {
+                                console.log(res);
+                                processedData.wikiDoc = html.parseHTML(res);
+                                saveFile.save("google/" + processedData.id + "/" + processedData.id + ".json", JSON.stringify(processedData));
+                                // translate.go("Hello world").then(data=>{
+                                // 	processedData.wikiDocVN = data;
+                                // 	saveFile.save("google/" + keyword + ".json", JSON.stringify(processedData));
+                                // });
+                            });
+                        }
+
+
                     });
+
                 });
                 deferers.push(deferer);
                 Promise.all(deferers).then(() => {
@@ -63,8 +71,8 @@ function process() {
                         saveFile.save("google/unable-fill-data-keywords.json", JSON.stringify(unableFillDataKeywords));
                     }
                 });
-            }, DELAY + offset);
-            offset += DELAY;
+            }, DELAY * offset);
+            offset ++;
         });
     });
 
