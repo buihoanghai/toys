@@ -79,7 +79,7 @@ PLP-EL-Category-Carousel,section11,product-carousel,,,,items,,,,,,,,
 ,,,,,,,,,Máy tính bảng - Tablet,https://iprice.vn/dien-thoai-may-tinh-bang/may-tinh-bang/,,,,
 ,,,,,,,,,Đồng hồ thông minh,https://iprice.vn/dien-thoai-may-tinh-bang/dong-ho-thong-minh/,,,,
 ,,,,,,,,,Tai nghe bluetooth,https://iprice.vn/dien-thoai-may-tinh-bang/tai-nghe-bluetooth/,,,,
-,,,,,,,,,Điện thoại,https://iprice.vn/san-pham-sap-ra-mat/dien-thoai-thong-minh/,,,,
+,,,,,,,,,Điện thoại sắp ra mắt,https://iprice.vn/san-pham-sap-ra-mat/dien-thoai-thong-minh/,,,,
 ,,,,,,Chơi game,https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/Icon_v2/Gaming.png,https://iprice.vn/choi-game/,items1,,,,,
 ,,,,,,,,,name,url,,,,
 ,,,,,,,,,Máy Playstation,https://iprice.vn/choi-game/may-playstation/,,,,
@@ -165,7 +165,7 @@ PDP-EL-SeeMore,section1_link,link,,,,items,,,,,,,,
 ,,,,,,OPPO F5,https://p.ipricegroup.com/uploaded_90d907041e2cc8b8d20e59c8282ee5ef.jpg,https://iprice.vn/gia-ban/oppo-f5/,,,,,,
 ,,,,,,Xiaomi Redmi Note 4,https://p.ipricegroup.com/uploaded_140b3da9ff5a2e11c93c3860b608fae1.jpg,https://iprice.vn/gia-ban/xiaomi-redmi-note-4/,,,,,,
 PLP-FA-BrandCategory-Men-Carousel,section4,fashion-panel,Thời trang Nam,https://iprice.vn/quan-ao/nam/,,image-url,,label,type,,,,,
-,,,,,,https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/VN_menfashion-min.jpg,,1234,category-carousel,items,,,,
+,,,,,,https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/VN_men-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
 ,,,,,,,,,TRUE,Nike,Giày thể thao,https://iprice.vn/nike/giay-dep/nam/the-thao/,https://p.ipricegroup.com/2e5fcfa0ea9ffc17b49a088d5006575ae700fb77_0.jpg,https://iprice.vn/nike/giay-dep/the-thao/
 ,,,,,,,,,TRUE,Adidas,Quần áo,https://iprice.vn/adidas/quan-ao/nam/,https://p.ipricegroup.com/0cdbe01f1f5db288e0c1e8df0e448fe47b121d7b_0.jpg,https://iprice.vn/adidas/quan-ao/
@@ -188,7 +188,7 @@ PLP-FA-BrandCategory-Men-Carousel,section4,fashion-panel,Thời trang Nam,https:
 ,,,,,,,,,FALSE,Việt Tiến,Quần áo,,,https://iprice.vn/viet-tien/quan-ao/
 ,,,,,,,,,TRUE,SKMEI,Đồng hồ,https://iprice.vn/skmei/dong-ho/nam/,https://p.ipricegroup.com/1fc056c50a98143785a2513be306407a646acd27_0.jpg,https://iprice.vn/skmei/dong-ho/
 PLP-FA-BrandCategory-Women-Carousel,section5,fashion-panel,Thời trang Nữ,https://iprice.vn/quan-ao/nu/,,image-url,url,label,type,,,,,
-,,,,,,https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/VN_womenfashion-min.jpg,,1234,category-carousel,items,,,,
+,,,,,,https://d1vfs9f7h1rfk4.cloudfront.net/media/homepage/VN_women-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
 ,,,,,,,,,TRUE,Nike,Giày thể thao,https://iprice.vn/nike/giay-dep/nu/the-thao/,https://p.ipricegroup.com/350b80e2620c603b4519843bc9b8bc0891d4e544_0.jpg,
 ,,,,,,,,,TRUE,Adidas,Quần áo,https://iprice.vn/adidas/quan-ao/nu/,https://p.ipricegroup.com/c652b09cfbf5f013987148091e658fa90da2b36a_0.jpg,
