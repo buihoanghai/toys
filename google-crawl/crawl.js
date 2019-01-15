@@ -9,11 +9,11 @@ const parseData = require("../lib/parseData");
 const saveFile = require("../lib/saveFile");
 const csv = require("../lib/csv");
 const fs = require('fs');
-const DELAY = 20000;
+const DELAY = 12000;
 
 function process() {
     let unableFillDataKeywords = [];
-    let deferers = [];
+    let defereds = [];
     const file = "google-crawl/google-keywords.csv";
     fs.readFile(file, 'utf8', function (err, data) {
         let arr = csv.CSVToArray(data);
@@ -65,8 +65,8 @@ function process() {
                     });
 
                 });
-                deferers.push(deferer);
-                Promise.all(deferers).then(() => {
+                defereds.push(deferer);
+                Promise.all(defereds).then(() => {
                     if (unableFillDataKeywords.length !== 0) {
                         saveFile.save("google/unable-fill-data-keywords.json", JSON.stringify(unableFillDataKeywords));
                     }
