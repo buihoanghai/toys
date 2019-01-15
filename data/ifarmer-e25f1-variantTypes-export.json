@@ -10,7 +10,11 @@
         "order" : 1
       }
     },
-    "name" : "Công Dụng"
+    "dateCreated" : "2019-01-12T15:30:51.071Z",
+    "dateModified" : "2019-01-12T15:30:51.071Z",
+    "id" : "cong-dung",
+    "name" : "Công Dụng",
+    "order" : "1"
   },
   "dan-xuat" : {
     "children" : {
@@ -117,6 +121,10 @@
         "name" : "Chậu Vừa",
         "order" : 1
       },
+      "chay" : {
+        "name" : "Chay",
+        "order" : 0
+      },
       "chung-tet" : {
         "name" : "Chưng Tết",
         "order" : 0
@@ -129,9 +137,21 @@
         "name" : "Đậu bắp non",
         "order" : 0
       },
+      "ga-ben-tre" : {
+        "name" : "Gà Bến Tre",
+        "order" : 1
+      },
+      "ga-tha-vuon" : {
+        "name" : "Gà Thả Vườn",
+        "order" : 0
+      },
       "hat-tet" : {
         "name" : "Hạt Tết",
         "order" : 0
+      },
+      "la-cam" : {
+        "name" : "Lá Cẩm",
+        "order" : 6
       },
       "la-chanh" : {
         "name" : "lá chanh",
@@ -141,6 +161,10 @@
         "name" : "Lá dứa",
         "order" : 1
       },
+      "man" : {
+        "name" : "Mặn",
+        "order" : 1
+      },
       "mang-manh-tong" : {
         "name" : "Măng Mạnh Tông",
         "order" : 0
@@ -148,6 +172,26 @@
       "mut-tet" : {
         "name" : "Mứt Tết",
         "order" : 0
+      },
+      "nhan-chuoi" : {
+        "name" : "Nhân Chuối",
+        "order" : 2
+      },
+      "nhan-dau-dua" : {
+        "name" : "Nhân Đậu Dứa",
+        "order" : 3
+      },
+      "nhan-dau-xanh" : {
+        "name" : "Nhân Đậu Xanh",
+        "order" : 3
+      },
+      "nhan-dua" : {
+        "name" : "Nhân Dừa",
+        "order" : 0
+      },
+      "nhan-me-den" : {
+        "name" : "Nhân Mè Đen",
+        "order" : 2
       },
       "no" : {
         "name" : "Nở",
@@ -203,44 +247,75 @@
       }
     },
     "dateCreated" : "2018-08-23T09:48:06.888Z",
-    "dateModified" : "2019-01-06T15:55:45.182Z",
+    "dateModified" : "2019-01-15T16:34:21.572Z",
     "id" : "loai",
-    "name" : "Loại",
-    "order" : 0
+    "name" : "Loại"
   },
   "so-luong" : {
     "children" : {
       "1-cai" : {
+        "default" : true,
+        "discount" : 0,
         "name" : "1 Cái",
-        "order" : 0
+        "order" : 0,
+        "value" : 1
       },
       "1-cap" : {
+        "discount" : 3,
         "name" : "1 Cặp",
-        "order" : 1
+        "order" : 1,
+        "value" : 2
       },
       "1-chuc" : {
+        "default" : true,
+        "discount" : 0,
         "name" : "1 chục",
-        "order" : 0
+        "order" : 0,
+        "value" : 1
+      },
+      "1-con" : {
+        "default" : true,
+        "discount" : 0,
+        "name" : "1 Con",
+        "order" : 0,
+        "value" : 1
+      },
+      "1-don" : {
+        "default" : true,
+        "discount" : 0,
+        "name" : "1 Đòn",
+        "order" : 0,
+        "value" : 1
       },
       "1-hop" : {
+        "default" : true,
+        "discount" : 0,
         "name" : "1 hộp",
-        "order" : 0
+        "order" : 0,
+        "value" : 1
       },
       "10-bich" : {
+        "default" : true,
+        "discount" : 0,
         "name" : "10 bịch",
-        "order" : 1
+        "order" : 1,
+        "value" : 1
       },
       "15-bich" : {
         "name" : "15 bịch",
         "order" : 2
       },
       "2-cap" : {
+        "discount" : 5,
         "name" : "2 Cặp",
-        "order" : 2
+        "order" : 2,
+        "value" : 4
       },
       "2-chuc" : {
+        "discount" : 2,
         "name" : "2 chục",
-        "order" : 1
+        "order" : 1,
+        "value" : 2
       },
       "2-hop" : {
         "name" : "2 hộp",
@@ -251,28 +326,34 @@
         "order" : 3
       },
       "3-chuc" : {
+        "discount" : 3,
         "name" : "3 chục",
-        "order" : 2
+        "order" : 2,
+        "value" : 3
       },
       "3-hop" : {
         "name" : "3 hộp",
         "order" : 2
       },
       "4-chuc" : {
+        "discount" : 4,
         "name" : "4 chục",
-        "order" : 3
+        "order" : 3,
+        "value" : 4
       },
       "5-bich" : {
         "name" : "5 bịch",
         "order" : 0
       },
       "5-chuc" : {
+        "discount" : 5,
         "name" : "5 chục",
-        "order" : 4
+        "order" : 4,
+        "value" : 5
       }
     },
     "dateCreated" : "2018-09-25T16:20:48.670Z",
-    "dateModified" : "2018-12-27T15:59:27.520Z",
+    "dateModified" : "2019-01-15T16:36:13.687Z",
     "id" : "so-luong",
     "name" : "Số lượng"
   },
@@ -322,6 +403,7 @@
     "dateCreated" : "2018-09-19T17:21:38.942Z",
     "dateModified" : "2018-09-27T14:56:49.098Z",
     "id" : "trong-luong",
-    "name" : "Trọng lượng"
+    "name" : "Trọng lượng",
+    "order" : 0
   }
 }
