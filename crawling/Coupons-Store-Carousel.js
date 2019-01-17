@@ -13,7 +13,7 @@ let result = [];
 	const page = await browser.newPage();
 	for (var i = 0; i < homepage['Coupons-Store-Carousel'].items.length; i++) {
 		let item = homepage['Coupons-Store-Carousel'].items[i];
-		await page.goto(item.url);
+		if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 		const data = await page.evaluate(() => {
 			let name;
 			let imageUrl;

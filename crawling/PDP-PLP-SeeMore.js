@@ -13,7 +13,7 @@ let result = [];
 	const page = await browser.newPage();
 	for (var i = 0; i < homepage['PDP-PLP-SeeMore'].items.length; i++) {
 		let item = homepage['PDP-PLP-SeeMore'].items[i];
-		await page.goto(item.url);
+		if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 		const data = await page.evaluate(() => {
 			let name;
 			let imageUrl;
@@ -21,6 +21,11 @@ let result = [];
 			imageUrl = image ? image.getAttribute('src').trim() : "";
 			if (imageUrl){
 				let breadcrumb = document.querySelectorAll('.dn.dib-l.f12 span');
+				if(!breadcrumb[breadcrumb.length - 1]){
+					return [];
+				}
+
+
 				name = breadcrumb[breadcrumb.length - 1].innerText.trim();
 			}
 				else{
@@ -33,11 +38,17 @@ let result = [];
 
 					brandName = brandName ? brandName.innerText.trim() + " " : "";
 					let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
+					if(!breadcrumb[breadcrumb.length - 1]){
+						return [];
+					}
 					name = brandName + breadcrumb[breadcrumb.length - 1].innerText.trim();
 
 				} else {
 					//PDP
 					name = document.querySelector("#b-c");
+					if(!name){
+						return [];
+					}
 					name = name.innerText;
 					imageUrl = document.querySelector('#product-gallery amp-img').getAttribute('src').trim();
 				}

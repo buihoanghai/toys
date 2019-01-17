@@ -13,7 +13,7 @@ let result = [];
 	const page = await browser.newPage();
 	for(let i = 0; i<homepage['PLP-EL-BrandCategory-Carousel'].items.length;i++){
 		let item = homepage['PLP-EL-BrandCategory-Carousel'].items[i];
-		await page.goto(item.url);
+		if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 		const data = await page.evaluate(() => {
 			let brandName = document.querySelector('#clear_filters a span');
 			if(!brandName){
@@ -25,7 +25,7 @@ let result = [];
 				return [];
 			}
 			let name = breadcrumb[breadcrumb.length-1].innerText.trim();
-			let image =document.querySelector('.m-i amp-img');
+			let image =document.querySelector('.listing amp-img');
 
 			let imageUrl = image? image.getAttribute('src').trim() : "";
 			let data = [];

@@ -15,7 +15,7 @@ let result = [];
 	for(let i = 0; i< items.length;i++) {
 		for (let j = 0; j < items[i].items.length; j++) {
 			let item = items[i].items[j];
-			await page.goto(item.url);
+			if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 			const data = await page.evaluate(() => {
 				var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
 				if(!elems[elems.length-1]){

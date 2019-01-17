@@ -2,7 +2,7 @@ const _ = require('lodash');
 const util = require('./lib/util');
 const fs = require('fs');
 function process() {
-	var file = "parse-csv/data/homepage/Homepage - TH1.csv";
+	var file = "parse-csv/data/homepage/Homepage - MY1.csv";
 	fs.readFile(file, 'utf8', function (err, data) {
 		var json = util.CSVToArray(data);
 		var arr = util.arrayToJson(json);
