@@ -5,9 +5,14 @@ const products = require('../lib/model/Products');
 const variants = require('../lib/model/Variants');
 const uploadImage = require('../lib/uploadImage');
 
-function process(){
+function run(){
 	products.saveProducts(prods);
 	variants.saveVariants(vars);
-	uploadImage.getFiles("ifarmer/img/*/*.*");
+	uploadImage.uploadFiles("ifarmer/img/*/*.*").then(()=>{
+		process.exit();
+	}).catch((e)=>{
+		console.log(e);
+		process.exit(1)
+	});
 }
-process();
+run();
