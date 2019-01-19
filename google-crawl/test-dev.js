@@ -1,6 +1,6 @@
 const ifarmer= require("../lib/model/Ifarmer");
 function main() {
-	ifarmer.pushDevToTest().then(()=>{
+	ifarmer.pushTestToDev().then(()=>{
 		process.exit();
   });
 }

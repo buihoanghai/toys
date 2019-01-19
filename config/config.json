@@ -1,9 +1,10 @@
 ﻿{
-  "variantTypes": "loai|ga-ben-tre|ga-tha-vuon||so-luong|1-con|1-cap|2-cap",
+  "variantTypes": "loai|chay|man||so-luong|1-cai|1-cap|2-cap",
+  "variantTypesGa": "loai|ga-ben-tre|ga-tha-vuon||so-luong|1-con|1-cap|2-cap",
   "variantTypes-hat-tet": "loai|hat-tet||trong-luong|200-g|300-g|500-g|2-kg|3-kg|4-kg|1-kg",
   "variantTypes-mut-tet": "loai|mut-tet||trong-luong|200-g|300-g|500-g|2-kg|1-kg",
   "variantTypes-cay-canh": "kieng|tet||loai|chau-nho|chau-lon|chau-vua",
-  "category": "gia-cam",
+  "category": "banh",
   "phone": "091 832 7819",
   "country": "MY",
   "url": "https://iprice.my",
