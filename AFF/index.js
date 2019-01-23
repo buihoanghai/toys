@@ -37,7 +37,6 @@ async function crawl(url) {
 			.then()
 			.catch(console.error)
 	});
-
 	//await browser.close();
 }
 

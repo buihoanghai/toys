@@ -13,9 +13,13 @@ let result = [];
 	const page = await browser.newPage();
 	for(let i = 0; i<homepage['PDP-EL-SeeMore'].items.length;i++){
 		let item = homepage['PDP-EL-SeeMore'].items[i];
-		await page.goto(config.url + item.url);
+		if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
+		// await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
 			var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
+			if(!elems[elems.length-1]){
+				return [];
+			}
 			let name = elems[elems.length-1].innerText.trim();
 			let imageUrl = document.querySelector('#product-gallery amp-img').getAttribute('src').trim();
 			let data = [];

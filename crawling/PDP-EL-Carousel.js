@@ -11,14 +11,21 @@ let result = [];
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	for(let i = 0; i<homepage['PDP-EL-Carousel'].items.length;i++){
+	for (let i = 0; i < homepage['PDP-EL-Carousel'].items.length; i++) {
 		let item = homepage['PDP-EL-Carousel'].items[i];
-		await page.goto(config.url + item.url);
+		if (item.url.indexOf("iprice") === -1) {
+			item.url = config.url + item.url;
+		}
+		await page.goto(item.url);
+		// await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
 			var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
-			let name = elems[elems.length-1].innerText.trim();
+			if (!elems[elems.length - 1]) {
+				return [];
+			}
+			let name = elems[elems.length - 1].innerText.trim();
 			let price = document.querySelector('.green.f18.f25-l');
-			price = price? price.innerText.trim(): "";
+			price = price ? price.innerText.trim() : "";
 			let store = document.querySelectorAll('.offers-collection').length;
 			let imageUrl = document.querySelector('#product-gallery amp-img').getAttribute('src').trim();
 			let data = [];
@@ -37,7 +44,7 @@ let result = [];
 		lineArray.push(line);
 	});
 	var csvContent = lineArray.join("\n");
-	fs.writeFile("results/PDP-EL-Carousel.csv",csvContent, 'utf8', function(err) {
+	fs.writeFile("results/PDP-EL-Carousel.csv", csvContent, 'utf8', function (err) {
 		if (err) {
 			console.log('Some error occured - file either not saved or corrupted file saved.');
 		} else {

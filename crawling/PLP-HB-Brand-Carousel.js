@@ -4,6 +4,9 @@ const config = require("../config/config");
 const _ = require('lodash');
 const fs = require('fs');
 let result = [];
+// PLP-HB-Brand-Carousel.js:17:27
+// /PLP-FA-BrandCategory-Men-Carousel.js:19:27
+// Coupons-Store-Carousel.js:17:27
 
 (async () => {
 	const browser = await puppeteer.launch({
@@ -13,10 +16,10 @@ let result = [];
 	const page = await browser.newPage();
 	for(let i = 0; i<homepage['PLP-HB-Brand-Carousel'].items.length;i++){
 		let item = homepage['PLP-HB-Brand-Carousel'].items[i];
-		await page.goto(item.url);
+		if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 		const data = await page.evaluate(() => {
-			let brandName = document.querySelector('#clear_filters a span');
-			brandName = brandName.innerText.trim();
+			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
+			let brandName =  breadcrumb[breadcrumb.length - 1].innerText.trim();
 			let image =document.querySelector('.db-l.ba.b--gray-light.mr3.dn.v-mid amp-img');
 
 			let imageUrl = image? image.getAttribute('src').trim() : "";
