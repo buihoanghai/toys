@@ -6,3 +6,5 @@ ifarmer
 ifarmer-image
 cropped
 backup/
+google-href-lang/data/*
+google-href-lang/results
