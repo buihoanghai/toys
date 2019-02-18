@@ -17,6 +17,7 @@ async function process() {
 	variant = await libVar.then(res => {
 		return res;
 	});
+	dir.make("ifarmer/");
 	dir.make("ifarmer/img/");
 	_.each(files, async file => {
 		await fs.readFile(file, 'utf8', function (err, data) {
