@@ -3,7 +3,7 @@ const csv = require("../lib/csv");
 const keywordGen = require("../lib/keyword");
 const crawlGoogleSnippet = require("../lib/crawlGoogleSnippet");
 const fs = require('fs');
-const DELAY = 20000;
+const DELAY = 1000;
 
 function process() {
 	const file = "google-snippet/keywords.csv";
