@@ -9,7 +9,11 @@ const saveFile = require("../lib/saveFile");
 const dir = require('../lib/dir');
 const path = "google/*/*.json";
 let variant;
-
+const sleep = (time) => {
+	return new Promise(function (resolve) {
+		setTimeout(resolve, time)
+	});
+}
 async function process() {
 	let files = globule.find(path);
 	let products = [];
@@ -19,7 +23,8 @@ async function process() {
 	});
 	dir.make("ifarmer/");
 	dir.make("ifarmer/img/");
-	_.each(files, async file => {
+	for (let i = 0; i < files.length; i++) {
+		let file = files[i];
 		await fs.readFile(file, 'utf8', function (err, data) {
 			let json = JSON.parse(data);
 			let prod = product.create(json);
@@ -33,7 +38,8 @@ async function process() {
 				variants.push(v);
 			});
 		});
-	});
+		await sleep(20);
+	}
 	setTimeout(() => {
 		saveFile.save("ifarmer/products.json", JSON.stringify(products));
 		saveFile.save("ifarmer/variants.json", JSON.stringify(variants));
