@@ -27,6 +27,15 @@ function process() {
 					return;
 				}
 				let keyword = keywordGen.keywordSearch(item[0]);
+				let price, variant;
+				if (!isNaN(item[1])) {
+					price = parseInt(item[1]);
+				} else {
+					variant = item[1];
+				}
+				if (item[2]) {
+					price = parseInt(item[2]);
+				}
 				let googleURL = "https://www.google.com.vn/search?q=" + keyword;
 				let deferer = crawl.crawl(googleURL).then((data) => {
 					if (!data) {
@@ -39,9 +48,14 @@ function process() {
 					}
 					let processedData = parseData.parse(data[0]);
 					processedData.name = item[0];
+					if (price) {
+						processedData.price = price;
+					}
 					processedData.id = keywordGen.create(processedData.name);
 					dir.make("google/" + processedData.id);
-					processedData.variants = item[1];
+					if(variant){
+						processedData.variants = variant;
+					}
 					processedData.title = processedData.name;
 					processedData.wikiURL = data[1];
 					processedData.googleURL = googleURL;

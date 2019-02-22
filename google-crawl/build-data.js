@@ -30,7 +30,7 @@ async function process() {
 			let prod = product.create(json);
 			products.push(prod);
 
-			let vars = variant.create(prod.id, prod.variants);
+			let vars = variant.create(prod.id, prod.variants, prod.price);
 			vars = variantImage.generate(prod.id, vars);
 			variantImage.addImageForContent(prod);
 			shortDescription.generateForVariants(vars, prod.name, json);
