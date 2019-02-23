@@ -1,5 +1,5 @@
 ﻿{
-  "variantTypes": "hang|song|xuat-khau|tuoi||trong-luong|1-kg|2-kg",
+  "variantTypes": "hang|song|xuat-khau||trong-luong|1-kg|2-kg|5-kg",
   "variantTypesCaBien": "hang|xuat-khau|dong-lanh|tuoi||trong-luong|2-kg|1-kg",
   "variantTypesCu": "loai|xuat-khau|dac-biet||trong-luong|2-kg|5-kg|1-kg",
   "variantTypes-hat": "loai|xuat-khau|dac-biet||trong-luong|2-kg|5-kg|1-kg",
@@ -8,7 +8,7 @@
   "variantTypes-hat-tet": "loai|hat-tet||trong-luong|200-g|300-g|500-g|2-kg|3-kg|4-kg|1-kg",
   "variantTypes-mut-tet": "loai|mut-tet||trong-luong|200-g|300-g|500-g|2-kg|1-kg",
   "variantTypes-cay-canh": "kieng|tet||loai|chau-nho|chau-lon|chau-vua",
-  "category": "ca-song",
+  "category": "tom-cua-oc-muc",
   "phone": "091 832 7819",
   "country": "MY",
   "url": "https://iprice.my",
