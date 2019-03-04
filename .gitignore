@@ -1,7 +1,7 @@
 node_modules/
 .idea/
 google/
-credentials/
+credentials/server.js
 ifarmer
 ifarmer-image
 cropped
