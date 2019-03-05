@@ -1,12 +1,12 @@
 node_modules/
 .idea/
 google/
-credentials/server.js
+credentials/
 ifarmer
 ifarmer-image
 cropped
 backup/
-google-href-lang/data/*
+google-href-lang/data/
 google-href-lang/results
 articles/data/
 articles/result/

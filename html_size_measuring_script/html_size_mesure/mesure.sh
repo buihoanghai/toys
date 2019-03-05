@@ -7,5 +7,7 @@ do
 	curl --compressed -so  /dev/null $link -w '%{size_download}'
 	printf "	"
 	curl -so /dev/null $link -w '%{size_download}'
+	printf "	"
+	curl --compressed -so  /dev/null $link -w '%{time_total}'
 	echo ""
 done
