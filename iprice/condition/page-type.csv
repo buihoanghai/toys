@@ -1,0 +1,40 @@
+CC,Website,Keytext in URL,Type of page,iPrice Product
+MY,technave.com,Price-in-Malaysia,PDP,PDP
+MY,technave.com,offers,Promo,Coupons
+MY,technave.com,/article,Article,Trends
+MY,technave.com,news,Article,Trends
+MY,technave.com,review,Article,Trends
+MY,technave.com,tag,Tags,Not set
+MY,technave.com,/index.php?,Search,Not set
+MY,technave.com,Price-Malaysia,Listing,PLP
+MY,technave.com,/gadgets/,Article,Trends
+MY,technave.com,/gadget/,Article,Trends
+MY,technave.com,/telco/,Listing,PLP
+MY,technave.com,/,Homepage,Homepage
+MY,www.hermo.my,/mall/,PDP,PDP
+MY,www.hermo.my,/brand,Listing-brand,PLP
+MY,www.hermo.my,/deals,Promo,Coupons
+MY,www.hermo.my,/search?,Search,Not set
+MY,www.hermo.my,/?sort,Sort,Not set
+MY,www.hermo.my,/,Homepage,Homepage
+MY,www.hermo.my,excluded above,Listing,PLP
+MY,www.sephora.my,/brands,Listing-brand,PLP
+MY,www.sephora.my,/categories,Listing-category,PLP
+MY,www.sephora.my,/pages,Buyer guide,Trends
+MY,www.sephora.my,/products,PDP,PDP
+MY,www.sephora.my,/sale,Promo,Coupons
+MY,www.sephora.my,/,Homepage,Homepage
+MY,www.sephora.my,excluded above,Listing,PLP
+MY,www.zalora.com.my,.html,PDP,PDP
+MY,www.zalora.com.my,/,Homepage,Homepage
+MY,www.zalora.com.my,excluded above,Listing,PLP
+MY,www.lazada.com.my,.html,PDP,PDP
+MY,www.lazada.com.my,/shop,Merchant,Not set
+MY,www.lazada.com.my,/voucher,Voucher,Coupons
+MY,www.lazada.com.my,/catalog/?q=,Search,Not set
+MY,www.lazada.com.my,/,Homepage,Homepage
+MY,iprice.my,/trends,Article,Trends
+MY,iprice.my,/compare/,PDP,PDP
+MY,iprice.my,/coupons/,Coupons,Coupons
+MY,iprice.my,/,Homepage,Homepage
+MY,iprice.my,excluded above,Listing,PLP
