@@ -6,7 +6,8 @@ const pageTypeFile = "./iprice/condition/page-type.csv";
 const path = "./iprice/data/*.csv";
 
 async function main() {
-	let pageTypes = await csv.getArrDataFromCSV(pageTypeFile);
+	console.time("Process");
+	let pageTypes = await csv.getArrDataLowerCaseFromCSV(pageTypeFile);
 	console.log(pageTypes.length);
 	let files = globule.find(path);
 	for (let i = 0; i < files.length; i++) {
@@ -15,6 +16,7 @@ async function main() {
 		let processedArr = categorizePageType(data, pageTypes);
 		saveFile.saveCSVFile(file.replace("data", "result"), processedArr);
 	}
+	console.timeEnd("Process");
 }
 
 function categorizePageType(arr, pageTypes) {
@@ -40,9 +42,9 @@ function getTypePage(str, arr) {
 	if (result === "Homepage" && !isHomePage(str)) {
 		result = "PLP";
 	}
-	if (result === "Homepage") {
-		// console.log(str, result);
-	}
+	// if (result === "Homepage") {
+	// 	// console.log(str, result);
+	// }
 	return result;
 }
 
@@ -54,12 +56,15 @@ function isMatchPattern(str, patern1, patern2) {
 	if (!str || !patern2 || !patern1) {
 		return false;
 	}
-	str = str.toLowerCase();
-	patern1 = patern1.toLowerCase();
-	patern2 = patern2.toLowerCase();
-	var expression = `(${patern1}${patern2})`;
-	var rx = new RegExp(expression, 'g');
-	return !!str.match(rx);
+	// str = str.toLowerCase();
+	// patern1 = patern1.toLowerCase();
+	// patern2 = patern2.toLowerCase();
+	// var rx = new RegExp(expression, 'i');
+	// return !!str.match(rx);
+	// var expression = `(${patern1}${patern2})`;
+	// var stri = `${patern1}${patern2}`;
+	var stri = patern1 + patern2;
+	return str.indexOf(stri) > 0;
 }
 
 main();
