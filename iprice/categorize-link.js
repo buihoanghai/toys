@@ -12,7 +12,9 @@ async function main() {
 	let files = globule.find(path);
 	for (let i = 0; i < files.length; i++) {
 		let file = files[i];
+		console.time("LoadFile");
 		let data = await csv.getArrDataFromCSV(file);
+		console.timeEnd("LoadFile");
 		let processedArr = categorizePageType(data, pageTypes);
 		saveFile.saveCSVFile(file.replace("data", "result"), processedArr);
 	}
