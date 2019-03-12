@@ -2,23 +2,30 @@ const _ = require('lodash');
 const globule = require('globule');
 const saveFile = require("../lib/saveFile");
 const csv = require("../lib/csv");
-const pageTypeFile = "./iprice/condition/page-type.csv";
+const pageTypeFile = "./iprice/condition/page-type1.csv";
 const path = "./iprice/data/*.csv";
+let pageTypes;
 
 async function main() {
 	console.time("Process");
-	let pageTypes = await csv.getArrDataLowerCaseFromCSV(pageTypeFile);
+	pageTypes = await csv.getArrDataLowerCaseFromCSV(pageTypeFile);
 	console.log(pageTypes.length);
 	let files = globule.find(path);
 	for (let i = 0; i < files.length; i++) {
 		let file = files[i];
-		console.time("LoadFile");
-		let data = await csv.getArrDataFromCSV(file);
-		console.timeEnd("LoadFile");
-		let processedArr = categorizePageType(data, pageTypes);
-		saveFile.saveCSVFile(file.replace("data", "result"), processedArr);
+		let data = await csv.getArrDataFromLargeCSV(file, buildFile);
 	}
 	console.timeEnd("Process");
+}
+
+async function buildFile(data, file, s) {
+	console.log("build file", data.length, file);
+	let processedArr = categorizePageType(data, pageTypes);
+	// await saveFile.updateCSVFile("./iprice/result", processedArr);
+	await saveFile.updateCSVFile(file.replace("data","result"), processedArr);
+	console.log("resume");
+	s.resume();
+
 }
 
 function categorizePageType(arr, pageTypes) {
@@ -26,9 +33,14 @@ function categorizePageType(arr, pageTypes) {
 	for (let i = 0; i < arr.length; i++) {
 		let item = arr[i];
 		let data = _.cloneDeep(item);
+		if (!data) {
+			console.log("test", i);
+		}
 		let url = data[5];
-		data[14] = getTypePage(url, pageTypes);
-		result.push(data);
+		if (data.length) {
+			data.unshift(getTypePage(url, pageTypes));
+			result.push(data);
+		}
 	}
 	return result;
 }
@@ -41,13 +53,24 @@ function getTypePage(str, arr) {
 			return false;
 		}
 	});
-	if (result === "Homepage" && !isHomePage(str)) {
-		result = "PLP";
+	if (result === "Homepage" || result === "homepage") {
+		if (!isHomePage(str)) {
+			if (isPDP(str)) {
+				result = "PDP";
+			} else {
+				result = "PLP";
+			}
+		}
+
 	}
 	// if (result === "Homepage") {
 	// 	// console.log(str, result);
 	// }
 	return result;
+}
+
+function isPDP(str) {
+	return str.indexOf(".html") >= 0;
 }
 
 function isHomePage(str) {
