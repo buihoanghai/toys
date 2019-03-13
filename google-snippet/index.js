@@ -22,11 +22,11 @@ function getCountrySearch(cc) {
 		case "ID":
 			return "https://www.google.co.id/search?q=";
 	}
-	return  "https://www.google.co.id/search?q=";
+	return "https://www.google.co.id/search?q=";
 }
 
 function process() {
-	const file = "google-snippet/paaaage-type.csv";
+	const file = "google-snippet/kw-v2.csv";
 	fs.readFile(file, 'utf16le', function (err, data) {
 		let arr = csv.CSVToArray(data);
 		let offset = 0;
@@ -43,7 +43,7 @@ function process() {
 				let keyword = keywordGen.keywordSearch(item[1]);
 				let url = googleURL + keyword;
 				let deferer = crawlGoogleSnippet.crawl(url).then((data) => {
-					saveFile.updateFile("google-snippet/result1.csv", item[1] + "," + data.join(", "));
+					saveFile.updateFile("google-snippet/result-kw-v2.csv", item[1] + "," + data.join(", "));
 				});
 
 			}, DELAY * offset);
