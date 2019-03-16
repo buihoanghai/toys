@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cat qa1.txt | while read link
+cat production.txt | while read link
 
 do
 	# printf "$link	"
