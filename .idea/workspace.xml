@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/lib/util.js" line="279" mnemonic="2" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse-csv/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PLP-EL-Category-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-Category-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PLP-EL-BrandCategory-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PDP-PLP-SeeMore.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Homepage - MY.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse-csv/data/homepage/Homepage - MY.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="210">
+              <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Coupons-Store-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PLP-FA-BrandCategory-Men-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PLP-FA-BrandCategory-Women-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PDP-HB-SeeMore.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PDP-HB-SeeMore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>process.exit`</find>
+      <find>console.log(~</find>
+      <find>getF</find>
+      <find>checkFile</find>
+      <find>UrlExists</find>
+      <find>rice</find>
+      <find>d</find>
+      <find>pri</find>
+      <find>ca-loc-bon</find>
+      <find>default</find>
+      <find>ca-bien</find>
+      <find>defaultVar</find>
+      <find>def</find>
+      <find>#rich</find>
+      <find>0000</find>
+      <find>.&quot;</find>
+      <find>&quot;body&quot;</find>
+      <find>iprice.co.id</find>
+      <find>/article</find>
+      <find>/gadgets</find>
+      <find>/shop</find>
+      <find>test</find>
+      <find>console</find>
+      <find>Homepage</find>
+      <find>www.price.com.hk</find>
+      <find>GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552064400&amp;Signature=4uGBYe5CVJXQ084uaLX68XIEEPMB9hbayj5zQgGMlWdQgZ%2FVsMXIwslTlQmc3r8nptOFbzmCBAMWEqCqroH7Q3hqx%2Fs%2Bf0QyrLy%2BUhpODiPiJqaZLHdoLxZrSbuN1gEdH25%2BY1O9l1Fsz0NpMY5l3Oh%2B7kLvqJblPJ9ZDlQbWcaQusejsNUJAHF7TPKSmRdbyQHrGlNf0hqniLrbHsmahfr5lN2Zv2mWwfT%2FAFMRN0OPwOIur30sQACso7KdwgljXSGzieFuKox0ChuuGh2u0%2B4vmdOnynMaV9xt5ypQTt8L6wy2l%2Fa6htQr62CH1Bb7Xqb1Dn0MW9VKPsbhSsT4RA%3D%3D</find>
+      <find>GoogleAccessI</find>
+      <find>amp-img</find>
+      <find>&lt;amp-img</find>
+      <find>trim</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>if(item.url.indexOf(&quot;iprice&quot;) === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);</replace>
+      <replace>'.listing amp-img'</replace>
+      <replace>ca-song</replace>
+      <replace>defaultProduct</replace>
+      <replace>&quot;content&quot;</replace>
+      <replace>iprice-id.iprice.mx</replace>
+      <replace>alt=media&amp;token=6008e893-c74b-4bf0-be37-c1de0495202e</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="crawling" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/product.js" />
+        <option value="$PROJECT_DIR$/google-crawl/build-data.js" />
+        <option value="$PROJECT_DIR$/lib/crawlGoogle.js" />
+        <option value="$PROJECT_DIR$/lib/crawlGoogleImage.js" />
+        <option value="$PROJECT_DIR$/google/ba-khia/ba-khia.json" />
+        <option value="$PROJECT_DIR$/lib/variant.js" />
+        <option value="$PROJECT_DIR$/lib/crawlWiki.js" />
+        <option value="$PROJECT_DIR$/google/thit-heo/thit-heo.json" />
+        <option value="$PROJECT_DIR$/ifarmer/variants.json" />
+        <option value="$PROJECT_DIR$/ifarmer/products.json" />
+        <option value="$PROJECT_DIR$/lib/shortDescription.js" />
+        <option value="$PROJECT_DIR$/lib/doc.js" />
+        <option value="$PROJECT_DIR$/articles/build-data.js" />
+        <option value="$PROJECT_DIR$/lib/util.js" />
+        <option value="$PROJECT_DIR$/lib/keyword.js" />
+        <option value="$PROJECT_DIR$/lib/articles.js" />
+        <option value="$PROJECT_DIR$/credentials/server1.js" />
+        <option value="$PROJECT_DIR$/credentials/server.js" />
+        <option value="$PROJECT_DIR$/articles/upload.js" />
+        <option value="$PROJECT_DIR$/lib/model/Articles.js" />
+        <option value="$PROJECT_DIR$/articles/result/articles.json" />
+        <option value="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/mesure.sh" />
+        <option value="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/links.txt" />
+        <option value="$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/link1.txt" />
+        <option value="$PROJECT_DIR$/iprice/categozation-link.js" />
+        <option value="$PROJECT_DIR$/iprice/condition/page-type.csv" />
+        <option value="$PROJECT_DIR$/google-snippet/result1.csv" />
+        <option value="$PROJECT_DIR$/google-crawl/crop-image.js" />
+        <option value="$PROJECT_DIR$/iprice/condition/page-type1.csv" />
+        <option value="$PROJECT_DIR$/iprice/categorize-link.js" />
+        <option value="$PROJECT_DIR$/html_size_mesure/qa1.txt" />
+        <option value="$PROJECT_DIR$/html_size_mesure/qa2.txt" />
+        <option value="$PROJECT_DIR$/backup/ifarmer/data1552400672102.txt" />
+        <option value="$PROJECT_DIR$/lib/crawlGoogleSnippet.js" />
+        <option value="$PROJECT_DIR$/html_size_mesure/mesure.sh" />
+        <option value="$PROJECT_DIR$/google-crawl/google-keywords.csv" />
+        <option value="$PROJECT_DIR$/config/config.json" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.html" />
+        <option value="$PROJECT_DIR$/lib/csv.js" />
+        <option value="$PROJECT_DIR$/google-snippet/index.js" />
+        <option value="$PROJECT_DIR$/parse-csv/index.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-HB-Brand-Carousel.js" />
+        <option value="$PROJECT_DIR$/lib/saveFile.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-HB-BrandCategory-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PDP-HB-SeeMore.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-EL-Category-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" />
+        <option value="$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="216" />
+    <option name="y" value="27" />
+    <option name="width" value="1688" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+              <item name="iprice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="shor&#9;FILE&#9;file:///home/haibui/projects/toys/lib/shortDescription.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Angular2HTML" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/parse-csv/data" />
+      <recent name="$PROJECT_DIR$/google/kho-ca-tren-bau" />
+      <recent name="$PROJECT_DIR$/iprice/condition" />
+      <recent name="$PROJECT_DIR$/backup" />
+      <recent name="$PROJECT_DIR$/ifarmer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/parse-csv/data/homepage" />
+      <recent name="$PROJECT_DIR$/parse-csv/data" />
+      <recent name="$PROJECT_DIR$/parse-csv" />
+      <recent name="$PROJECT_DIR$/google-snippet" />
+      <recent name="$PROJECT_DIR$/html_size_mesure" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="" />
+      <created>1540282784729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540282784729</updated>
+      <workItem from="1540282786053" duration="6650000" />
+      <workItem from="1540376481455" duration="1223000" />
+      <workItem from="1540437392312" duration="3665000" />
+      <workItem from="1542264825381" duration="3742000" />
+      <workItem from="1542292320390" duration="9091000" />
+      <workItem from="1542432835374" duration="1667000" />
+      <workItem from="1542461321532" duration="4150000" />
+      <workItem from="1542531772249" duration="90000" />
+      <workItem from="1545660608337" duration="6165000" />
+      <workItem from="1545686968455" duration="16671000" />
+      <workItem from="1545719503107" duration="2586000" />
+      <workItem from="1545731890623" duration="10497000" />
+      <workItem from="1545802150439" duration="12287000" />
+      <workItem from="1545833899844" duration="9119000" />
+      <workItem from="1545864011365" duration="4374000" />
+      <workItem from="1545876936599" duration="12120000" />
+      <workItem from="1545919209439" duration="13115000" />
+      <workItem from="1545952346921" duration="5569000" />
+      <workItem from="1545962646133" duration="11799000" />
+      <workItem from="1545978459746" duration="37000" />
+      <workItem from="1546841253247" duration="7089000" />
+      <workItem from="1546870352626" duration="745000" />
+      <workItem from="1546914105405" duration="12248000" />
+      <workItem from="1546936912027" duration="636000" />
+      <workItem from="1547001376455" duration="2548000" />
+      <workItem from="1547042179658" duration="2192000" />
+      <workItem from="1547216373851" duration="5030000" />
+      <workItem from="1547274362546" duration="1200000" />
+      <workItem from="1547301714040" duration="3351000" />
+      <workItem from="1547350171779" duration="240000" />
+      <workItem from="1547558828762" duration="1540000" />
+      <workItem from="1547563896322" duration="8639000" />
+      <workItem from="1547597370207" duration="616000" />
+      <workItem from="1547605451634" duration="20000" />
+      <workItem from="1547625797012" duration="651000" />
+      <workItem from="1547645677718" duration="1450000" />
+      <workItem from="1547691167048" duration="62000" />
+      <workItem from="1547695649141" duration="6353000" />
+      <workItem from="1547736533797" duration="1535000" />
+      <workItem from="1547872505512" duration="13564000" />
+      <workItem from="1547908378257" duration="5794000" />
+      <workItem from="1547997208340" duration="10203000" />
+      <workItem from="1548174157864" duration="64000" />
+      <workItem from="1548216116837" duration="5158000" />
+      <workItem from="1548227762096" duration="5565000" />
+      <workItem from="1548295786298" duration="4711000" />
+      <workItem from="1548342965162" duration="4858000" />
+      <workItem from="1548382377914" duration="3434000" />
+      <workItem from="1548521731714" duration="1265000" />
+      <workItem from="1548568014779" duration="650000" />
+      <workItem from="1548604449790" duration="648000" />
+      <workItem from="1548642898020" duration="3475000" />
+      <workItem from="1548776250240" duration="1232000" />
+      <workItem from="1548827407634" duration="2988000" />
+      <workItem from="1549852766483" duration="12000" />
+      <workItem from="1549875162447" duration="1369000" />
+      <workItem from="1549938024959" duration="601000" />
+      <workItem from="1550078365728" duration="1269000" />
+      <workItem from="1550104486776" duration="14000" />
+      <workItem from="1550113139267" duration="2676000" />
+      <workItem from="1550201100476" duration="1839000" />
+      <workItem from="1550241901503" duration="3348000" />
+      <workItem from="1550331025237" duration="749000" />
+      <workItem from="1550380795620" duration="1154000" />
+      <workItem from="1550393013145" duration="2278000" />
+      <workItem from="1550413574776" duration="6078000" />
+      <workItem from="1550473638302" duration="99000" />
+      <workItem from="1550498785103" duration="5131000" />
+      <workItem from="1550565214751" duration="2005000" />
+      <workItem from="1550589909510" duration="3466000" />
+      <workItem from="1550594608038" duration="69000" />
+      <workItem from="1550629833460" duration="76000" />
+      <workItem from="1550674384782" duration="3304000" />
+      <workItem from="1550756754050" duration="8110000" />
+      <workItem from="1550802446529" duration="46000" />
+      <workItem from="1550849192106" duration="7473000" />
+      <workItem from="1550915706098" duration="1360000" />
+      <workItem from="1550935563041" duration="2593000" />
+      <workItem from="1550978208139" duration="2719000" />
+      <workItem from="1550990768904" duration="1516000" />
+      <workItem from="1551104655448" duration="5618000" />
+      <workItem from="1551147696344" duration="1629000" />
+      <workItem from="1551193769809" duration="3651000" />
+      <workItem from="1551233805276" duration="698000" />
+      <workItem from="1551280041073" duration="2996000" />
+      <workItem from="1551320765957" duration="642000" />
+      <workItem from="1551450065848" duration="2284000" />
+      <workItem from="1551520763325" duration="606000" />
+      <workItem from="1551538861724" duration="6680000" />
+      <workItem from="1551595003213" duration="1781000" />
+      <workItem from="1551623204169" duration="8233000" />
+      <workItem from="1551685557480" duration="3480000" />
+      <workItem from="1551708655889" duration="5882000" />
+      <workItem from="1551757881683" duration="12240000" />
+      <workItem from="1551796996290" duration="814000" />
+      <workItem from="1551840326730" duration="8730000" />
+      <workItem from="1551880202268" duration="2594000" />
+      <workItem from="1551951492938" duration="279000" />
+      <workItem from="1551968747840" duration="1299000" />
+      <workItem from="1552025662209" duration="1625000" />
+      <workItem from="1552315969817" duration="10708000" />
+      <workItem from="1552350294085" duration="2728000" />
+      <workItem from="1552357334952" duration="1264000" />
+      <workItem from="1552378249836" duration="3605000" />
+      <workItem from="1552400644833" duration="1159000" />
+      <workItem from="1552450355115" duration="803000" />
+      <workItem from="1552487559451" duration="1999000" />
+      <workItem from="1552545789405" duration="1490000" />
+      <workItem from="1552659576115" duration="24000" />
+      <workItem from="1552662731281" duration="610000" />
+      <workItem from="1552706432377" duration="599000" />
+      <workItem from="1552744456552" duration="3670000" />
+      <workItem from="1552962215508" duration="16532000" />
+      <workItem from="1553049088624" duration="997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="431699000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="216" y="27" width="1688" height="1032" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31338862" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5095207" side_tool="true" weight="0.37665462" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49047932" visible="true" weight="0.35307017" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32767624" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26273787" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3267544" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/crawlWiki.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/variant.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/variant.js</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/crawlGoogleImage.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/iprice/result/ahrefs_allcc.csv" />
+    <entry file="file://$PROJECT_DIR$/iprice/condition/page-type.csv">
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iprice/categorize-link.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-snippet/keywords.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-161">
+          <caret selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_mesure/staging.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_mesure/convert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_mesure/qa1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup/ifarmer/data1552400672102.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret column="380867" selection-start-column="380867" selection-end-column="381031" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-snippet/paaaage-type.csv">
+      <provider editor-type-id="csv-text-editor" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-snippet/kw-v2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_mesure/qa2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/link1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_measuring_script/html_size_mesure/mesure.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/crawlGoogleSnippet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="4" selection-start-column="2" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/shortDescription.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/variant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_mesure/production.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_mesure/qa-mesure.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_mesure/staging-mesure.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1" column="78969" selection-start-line="1" selection-start-column="78909" selection-end-line="1" selection-end-column="78969" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_size_mesure/mesure.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iprice/condition/page-type1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="216">
+          <caret line="136" column="19" selection-start-line="136" selection-start-column="3" selection-end-line="136" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-crawl/google-keywords.csv">
+      <provider editor-type-id="csv-text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-snippet/kw-sample-id-v3.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-snippet/kw sample id v3.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/csv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="154" column="23" selection-start-line="154" selection-start-column="2" selection-end-line="154" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-EL-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/homepage.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1290">
+          <caret line="141" column="6" selection-start-line="141" selection-start-column="6" selection-end-line="141" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/results/Homepage.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-EL-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-HB-Brand-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-snippet/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/saveFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-snippet/result-kw-sample-id-v3.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-HB-BrandCategory-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/PDP-HB-SeeMore.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/Homepage - MY.csv">
+      <provider editor-type-id="csv-text-editor" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-HB-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-Category-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/homepage/Homepage - MY.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

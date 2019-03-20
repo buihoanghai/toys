@@ -3,6 +3,9 @@ node_modules/
 google/
 credentials/
 ifarmer
+iprice/data
+iprice/result
+results
 ifarmer-image
 cropped
 backup/
