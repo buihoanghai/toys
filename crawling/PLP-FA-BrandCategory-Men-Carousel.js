@@ -26,7 +26,15 @@ let url;
 			}
 			brandName = brandName.innerText.trim();
 			let isMan = document.querySelector('[data-vars-lb="Men"]');
-
+			if(!isMan){
+				isMan = document.querySelector('[data-vars-lb="Nam"]');
+			}
+			if(!isMan){
+				isMan = document.querySelector('[data-vars-lb="Pria"]');
+			}
+			if(!isMan){
+				isMan = document.querySelector('[data-vars-lb="ผู้ชาย"]');
+			}
 			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
 			if(!breadcrumb[breadcrumb.length - 1]){
 				return [];

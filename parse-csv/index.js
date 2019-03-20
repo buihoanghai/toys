@@ -2,11 +2,11 @@ const _ = require('lodash');
 const util = require('./lib/util');
 const fs = require('fs');
 function process() {
-	var file = "parse-csv/data/homepage/Homepage - TH1.csv";
+	var file = "parse-csv/data/homepage/Homepage - MY1.csv";
 	fs.readFile(file, 'utf8', function (err, data) {
 		var json = util.CSVToArray(data);
 		var arr = util.arrayToJson(json);
-		fs.writeFile("parse-csv/results/Homepage.json", JSON.stringify(arr), function(err) {
+		fs.writeFile("data/Homepage - MY.json", JSON.stringify(arr), function(err) {
 			if (err) {
 				console.log('Some error occured - file either not saved or corrupted file saved.');
 			} else {

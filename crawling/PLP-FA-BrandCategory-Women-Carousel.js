@@ -26,7 +26,15 @@ let url;
 			}
 			brandName = brandName.innerText.trim();
 			let isWoman = document.querySelector('[data-vars-lb="Women"]');
-
+			if(!isWoman){
+				isWoman = document.querySelector('[data-vars-lb="Nữ"]');
+			}
+			if(!isWoman){
+				isWoman = document.querySelector('[data-vars-lb="Wanita"]');
+			}
+			if(!isWoman){
+				isWoman = document.querySelector('[data-vars-lb="ผู้หญิง"]');
+			}
 			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
 			if (!breadcrumb[breadcrumb.length - 1]) {
 				return [];
