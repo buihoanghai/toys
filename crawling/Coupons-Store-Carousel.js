@@ -20,6 +20,9 @@ let result = [];
 			let image = document.querySelector('.has-offer-text amp-img');
 			imageUrl = image ? image.getAttribute('src').trim() : "";
 			let breadcrumb = document.querySelectorAll('.dn.dib-l.f12 span');
+			if(!breadcrumb[breadcrumb.length - 1]){
+				return [];
+			}
 			name = breadcrumb[breadcrumb.length - 1].innerText.trim();
 			let data = [];
 			data.push(name.trim());

@@ -4,7 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/lib/util.js" line="279" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="" />
+    <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PLP-EL-BrandCategory-Carousel.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PLP-EL-BrandCategory-Carousel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="405">
+              <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -44,8 +49,8 @@
       <file leaf-file-name="PDP-PLP-SeeMore.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="379">
+              <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -54,16 +59,16 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Coupons-Store-Carousel.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Coupons-Store-Carousel.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="345">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -71,17 +76,22 @@
       <file leaf-file-name="PLP-FA-BrandCategory-Men-Carousel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+            <state relative-caret-position="285">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PLP-FA-Category-Carousel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-Category-Carousel.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="PLP-FA-BrandCategory-Women-Carousel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="330">
+              <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -202,13 +212,13 @@
         <option value="$PROJECT_DIR$/crawling/PLP-HB-Brand-Carousel.js" />
         <option value="$PROJECT_DIR$/lib/saveFile.js" />
         <option value="$PROJECT_DIR$/crawling/PLP-HB-BrandCategory-Carousel.js" />
-        <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js" />
-        <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js" />
         <option value="$PROJECT_DIR$/crawling/PDP-HB-SeeMore.js" />
         <option value="$PROJECT_DIR$/crawling/PLP-EL-Category-Carousel.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js" />
+        <option value="$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js" />
         <option value="$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js" />
         <option value="$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -250,6 +260,11 @@
             <path>
               <item name="toys" type="b2602c69:ProjectViewProjectNode" />
               <item name="toys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+              <item name="crawling" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="toys" type="b2602c69:ProjectViewProjectNode" />
@@ -422,11 +437,12 @@
       <workItem from="1552744456552" duration="3670000" />
       <workItem from="1552962215508" duration="16532000" />
       <workItem from="1553049088624" duration="997000" />
+      <workItem from="1553050460863" duration="202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="431776000" />
+    <option name="totallyTimeSpent" value="431978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="216" y="27" width="1688" height="1032" extended-state="0" />
@@ -441,48 +457,36 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49047932" visible="true" weight="0.42872807" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49047932" visible="true" weight="0.35416666" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31338862" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5095207" side_tool="true" weight="0.37665462" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32767624" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49047932" visible="true" weight="0.35307017" />
-      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26273787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3267544" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -522,7 +526,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iprice/result/ahrefs_allcc.csv" />
     <entry file="file://$PROJECT_DIR$/iprice/condition/page-type.csv">
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="198">
@@ -803,20 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/results/PDP-HB-SeeMore.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
@@ -845,32 +834,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/data/homepage/Homepage - MY.csv" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawling/PLP-EL-BrandCategory-Carousel.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Women-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-BrandCategory-Men-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PLP-FA-Category-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/PDP-PLP-SeeMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawling/Coupons-Store-Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>

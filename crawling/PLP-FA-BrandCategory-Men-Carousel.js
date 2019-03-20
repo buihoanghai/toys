@@ -20,7 +20,7 @@ let url;
 		}
 		await page.goto(url+"?show-filter=1");
 		const data = await page.evaluate(() => {
-			let brandName = document.querySelector('a[data-vars-cia="click_brand_filter_label"] span');
+			let brandName = document.querySelector('a[data-vars-cgt="click_brand_filter_label"] span');
 			if(!brandName){
 				return [];
 			}
