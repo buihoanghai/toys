@@ -2,14 +2,14 @@ const _ = require('lodash');
 const globule = require('globule');
 const saveFile = require("../lib/saveFile");
 const csv = require("../lib/csv");
-const pageTypeFile = "./iprice/condition/page-type1.csv";
+const pageTypeFile = "./iprice/condition/Page Type 2.csv";
 const path = "./iprice/data/*.csv";
 let pageTypes;
 
 async function main() {
 	console.time("Process");
 	pageTypes = await csv.getArrDataLowerCaseFromCSV(pageTypeFile);
-	console.log(pageTypes.length);
+	console.log("pageTypes", pageTypes.length);
 	let files = globule.find(path);
 	for (let i = 0; i < files.length; i++) {
 		let file = files[i];
@@ -22,7 +22,7 @@ async function buildFile(data, file, s) {
 	console.log("build file", data.length, file);
 	let processedArr = categorizePageType(data, pageTypes);
 	// await saveFile.updateCSVFile("./iprice/result", processedArr);
-	await saveFile.updateCSVFile(file.replace("data","result"), processedArr);
+	await saveFile.updateCSVFile(file.replace("data", "result"), processedArr);
 	console.log("resume");
 	s.resume();
 

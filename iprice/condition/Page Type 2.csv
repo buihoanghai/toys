@@ -1,0 +1,193 @@
+﻿CC,Website,Keytext in URL,Type of page
+MY,technave.com,Price-in-Malaysia,PDP
+MY,technave.com,offers,Promo
+MY,technave.com,/article,Article
+MY,technave.com,news,Article
+MY,technave.com,review,Article
+MY,technave.com,tag,Tags
+MY,technave.com,/index.php?,Search
+MY,technave.com,Price-Malaysia,Listing
+MY,technave.com,/gadgets/,Article
+MY,technave.com,/gadget/,Article
+MY,technave.com,/telco/,Listing
+MY,technave.com,/,Homepage
+MY,www.hermo.my,/mall/,PDP
+MY,www.hermo.my,/brand,Listing-brand
+MY,www.hermo.my,/deals,Promo
+MY,www.hermo.my,/search?,Search
+MY,www.hermo.my,/?sort,Sort
+MY,www.hermo.my,/,Homepage
+MY,www.hermo.my,excluded above,Listing
+MY,www.sephora.my,/brands,Listing-brand
+MY,www.sephora.my,/categories,Listing-category
+MY,www.sephora.my,/pages,Buyer guide
+MY,www.sephora.my,/products,PDP
+MY,www.sephora.my,/sale,Promo
+MY,www.sephora.my,/,Homepage
+MY,www.sephora.my,excluded above,Listing
+MY,www.zalora.com.my,.html,PDP
+MY,www.zalora.com.my,/,Homepage
+MY,www.zalora.com.my,excluded above,Listing
+MY,www.lazada.com.my,.html,PDP
+MY,www.lazada.com.my,/shop,Merchant
+MY,www.lazada.com.my,/voucher,Voucher
+MY,www.lazada.com.my,/catalog/?q=,Search
+MY,www.lazada.com.my,/,Homepage
+MY,iprice.my,/trends,Article
+MY,iprice.my,/compare/,PDP
+MY,iprice.my,/coupons/,Coupons
+MY,iprice.my,/,Homepage
+MY,iprice.my,excluded above,Listing
+PH,ph.priceprice.com,/merchants/,Merchant
+PH,ph.priceprice.com,/sellers/,Merchant
+PH,ph.priceprice.com,/forum/,Forum
+PH,ph.priceprice.com,/news/,Article
+PH,ph.priceprice.com,/reviews/,PDP-review
+PH,ph.priceprice.com,/specs/,PDP-specs
+PH,ph.priceprice.com,/?,Listing
+PH,ph.priceprice.com,/,Homepage
+PH,iprice.ph,/trends,Article
+PH,iprice.ph,/compare/,PDP
+PH,iprice.ph,/coupons/,Coupons
+PH,iprice.ph,/,Homepage
+PH,iprice.ph,excluded above,Listing
+SG,www.pricepanda.com.sg,/shop/,Merchant
+SG,www.pricepanda.com.sg,productlistingpage.aspx,Listing
+SG,www.pricepanda.com.sg,/products-,Tags
+SG,www.pricepanda.com.sg,.html,PDP
+SG,www.pricepanda.com.sg,/,Homepage
+SG,iprice.sg,/trends,Article
+SG,iprice.sg,/compare/,PDP
+SG,iprice.sg,/coupons/,Coupons
+SG,iprice.sg,/,Homepage
+SG,iprice.sg,excluded above,Listing
+SG,ipricethailand.com,/เทรนด/,Article
+SG,ipricethailand.com,/ราคา/,PDP
+SG,ipricethailand.com,/coupons/,Coupons
+SG,ipricethailand.com,/,Homepage
+SG,ipricethailand.com,excluded above,Listing
+SG,www.qoo10.sg,/item/,PDP
+SG,www.qoo10.sg,/shop/,Merchant
+SG,www.qoo10.sg,/gmkt.inc/,Deal & Event
+SG,www.qoo10.sg,/s/,Search
+SG,www.qoo10.sg,/,Homepage
+SG,www.qoo10.sg,excluded above,Listing
+TH,www.priceza.com,/merchant,Merchant
+TH,www.priceza.com,/promotion,Coupons
+TH,www.priceza.com,/s/,Search
+TH,www.priceza.com,/guide/,Article
+TH,www.priceza.com,/compare/,Compare
+TH,www.priceza.com,/brand/,Listing
+TH,www.priceza.com,/b/,Listing
+TH,www.priceza.com,/c/,Listing
+TH,www.priceza.com,/k/,Listing
+TH,www.priceza.com,/p/,PDP
+TH,www.siamphone.com,/price,Merchant
+TH,www.siamphone.com,/article,Article
+TH,www.siamphone.com,/news/,Article
+TH,www.siamphone.com,/review/,Article
+TH,www.siamphone.com,/search/,Search
+TH,www.siamphone.com,.html,PDP
+TH,www.siamphone.com,excluded above,Listing
+VN,websosanh.vn,/cua-hang/,Merchant
+VN,websosanh.vn,/meo-vat/,Article
+VN,websosanh.vn,/tai-chinh/,Article
+VN,websosanh.vn,/review/,Article
+VN,websosanh.vn,/so-sanh.htm,PDP
+VN,websosanh.vn,/chi-tiet.htm,PDP
+VN,websosanh.vn,/cat-,Listing
+VN,websosanh.vn,/s/,Search
+VN,websosanh.vn,/,Homepage
+VN,iprice.vn,/trends/,Article
+VN,iprice.vn,/gia-ban/,PDP
+VN,iprice.vn,/coupons/,Coupons
+VN,iprice.vn,/search/,Search
+VN,iprice.vn,/,Homepage
+VN,www.thegioididong.com,/bao-hanh,Service Center
+VN,www.thegioididong.com,/may-doi-tra/,Secondhand
+VN,www.thegioididong.com,/tin-tuc,Article
+VN,www.thegioididong.com,/sim-so-dep,Simcare
+VN,www.thegioididong.com,/hoi-dap,FQA
+VN,www.thegioididong.com,vs-,Compare
+VN,www.thegioididong.com,/dtdd/,PDP
+VN,www.thegioididong.com,dtdd-,Listing
+VN,www.thegioididong.com,/,Homepage
+ID,www.pricebook.co.id,/shop/,Merchant
+ID,www.pricebook.co.id,/article/,Article
+ID,www.pricebook.co.id,/forum/,Forum
+ID,www.pricebook.co.id,/compare/,Compare
+ID,www.pricebook.co.id,/PD_,PDP
+ID,www.pricebook.co.id,/,Homepage
+ID,iprice.co.id,/trend/,Article
+ID,iprice.co.id,/harga/,PDP
+ID,iprice.co.id,/coupons/,Coupons
+ID,iprice.co.id,/,Homepage
+ID,id.priceprice.com,/merchants/,Merchant
+ID,id.priceprice.com,/sellers/,Merchant
+ID,id.priceprice.com,/forum/,Forum
+ID,id.priceprice.com,/news/,Article
+ID,id.priceprice.com,/reviews/,PDP-review
+ID,id.priceprice.com,/specs/,PDP-specs
+ID,id.priceprice.com,/?,Listing
+ID,id.priceprice.com,/,Homepage
+TH,www.lazada.co.th,.html,PDP
+TH,www.lazada.co.th,/shop,Merchant
+TH,www.lazada.co.th,/voucher,Voucher
+TH,www.lazada.co.th,/catalog/?q=,Search
+TH,www.lazada.co.th,/,Homepage
+PH,www.lazada.com.ph,.html,PDP
+PH,www.lazada.com.ph,/shop,Merchant
+PH,www.lazada.com.ph,/voucher,Voucher
+PH,www.lazada.com.ph,/catalog/?q=,Search
+PH,www.lazada.com.ph,/,Homepage
+HK,www.price.com.hk,shop.php,Merchant
+HK,www.price.com.hk,/news,Article
+HK,www.price.com.hk,&ct=review,PDP-review
+HK,www.price.com.hk,&ct=news,PDP-article
+HK,www.price.com.hk,&ct=trade,PDP-used
+HK,www.price.com.hk,/search.php,Search
+HK,www.price.com.hk,/product.php,PDP
+HK,www.price.com.hk,/ec-product-detail.php,PDP
+HK,www.price.com.hk,/trade_item.php,PDP
+HK,www.price.com.hk,/category.php,Listing
+HK,www.price.com.hk,/zone.php,Listing
+HK,www.price.com.hk,/ec-product-list.php,Listing
+HK,www.price.com.hk,/trade_index.php,Listing
+HK,www.price.com.hk,/group.php,Listing
+HK,www.price.com.hk,/compare.php,Compare
+HK,www.price.com.hk,/,Homepage
+HK,iprice.hk,/trends,Article
+HK,iprice.hk,/compare/,PDP
+HK,iprice.hk,/coupons/,Coupons
+HK,iprice.hk,/,Homepage
+HK,iprice.hk,excluded above,Listing
+SG,www.lazada.sg,.html,PDP
+SG,www.lazada.sg,/shop,Merchant
+SG,www.lazada.sg,/voucher,Voucher
+SG,www.lazada.sg,/catalog/?q=,Search
+SG,www.lazada.sg,/,Homepage
+TH,www.looksi.com,.html,PDP
+TH,www.looksi.com,/blog,Article
+TH,www.looksi.com,excluded above,Listing
+SG,www.zalora.sg,.html,PDP
+SG,www.zalora.sg,/,Homepage
+SG,www.zalora.sg,excluded above,Listing
+PH,www.zalora.com.ph,.html,PDP
+PH,www.zalora.com.ph,/,Homepage
+PH,www.zalora.com.ph,excluded above,Listing
+VN,www.robins.vn,.html,PDP
+VN,www.robins.vn,/,Homepage
+VN,www.robins.vn,excluded above,Listing
+PH,beautymnl.com,/bloom/,Article
+PH,beautymnl.com,/section/,Article
+PH,beautymnl.com,/brands,Listing-brand
+PH,beautymnl.com,/products,PDP
+PH,beautymnl.com,/s/,Search
+PH,beautymnl.com,/t/,Listing-category
+HK,zh.zalora.com.hk,.html,PDP
+HK,zh.zalora.com.hk,/,Homepage
+HK,zh.zalora.com.hk,excluded above,Listing
+VN,www.sendo.vn,/,Homepage
+VN,www.sendo.vn,/shop/,Merchant
+VN,www.sendo.vn,.html,PDP
+VN,www.sendo.vn,excluded above,PLP
