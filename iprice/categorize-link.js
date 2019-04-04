@@ -2,7 +2,7 @@ const _ = require('lodash');
 const globule = require('globule');
 const saveFile = require("../lib/saveFile");
 const csv = require("../lib/csv");
-const pageTypeFile = "./iprice/condition/Page Type 2.csv";
+const pageTypeFile = "./iprice/condition/Page Type (2).csv";
 const path = "./iprice/data/*.csv";
 let pageTypes;
 
@@ -70,6 +70,9 @@ function getTypePage(str, arr) {
 }
 
 function isPDP(str) {
+	if (str.indexOf("priceprice.com") >= 0 && str.indexOf("/?") === -1) {
+		return true;
+	}
 	return str.indexOf(".html") >= 0;
 }
 

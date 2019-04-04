@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc9b4ca3-eceb-45ae-b653-378aa5479833" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/iprice/condition/Page Type 2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seo/ahref-csv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seo/data/ahref-2019-03-21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iprice/condition/Page Type (2).csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Homepage - MY.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Homepage - MY.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iprice/categorize-link.js" beforeDir="false" afterPath="$PROJECT_DIR$/iprice/categorize-link.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/csv.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/csv.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - HK1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - HK1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - ID1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - ID1.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - MY1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - MY1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - PH1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - PH1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - SG1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - SG1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - TH1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - TH1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - VN1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parse-csv/data/homepage/Homepage - VN1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/results/homepage/Homepage - HK1.csv.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/results/homepage/Homepage - ID1.csv.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/results/homepage/Homepage - MY1.csv.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/results/homepage/Homepage - PH1.csv.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/results/homepage/Homepage - SG1.csv.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/results/homepage/Homepage - TH1.csv.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse-csv/results/homepage/Homepage - VN1.csv.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,20 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ahref-csv.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/seo/ahref-csv.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ahrefs_allcc.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iprice/data/ahrefs_allcc.csv">
-          <provider selected="true" editor-type-id="LargeFileEditor" />
-        </entry>
-      </file>
       <file leaf-file-name="csv.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/csv.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="categorize-link.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="categorize-link.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/iprice/categorize-link.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="3" />
+            <state relative-caret-position="435">
+              <caret line="74" column="3" lean-forward="true" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -70,7 +41,7 @@
       <file leaf-file-name="Page Type 2.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iprice/condition/Page Type 2.csv">
           <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="74">
+            <state relative-caret-position="2175">
               <caret line="145" column="28" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="28" />
             </state>
           </provider>
@@ -86,19 +57,49 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="htmlSpec.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="htmlSpec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/htmlSpec.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-type.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iprice/condition/page-type.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
+      <file leaf-file-name="Homepage - MY1.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse-csv/data/homepage/Homepage - MY1.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="156" selection-start-line="25" selection-start-column="156" selection-end-line="25" selection-end-column="156" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-type1.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iprice/condition/page-type1.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse-csv/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Homepage - MY.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret column="1991" selection-start-column="1991" selection-end-column="1991" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Page Type (2).csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iprice/condition/Page Type (2).csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="241">
+              <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -164,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/crawlGoogle.js" />
         <option value="$PROJECT_DIR$/lib/crawlGoogleImage.js" />
         <option value="$PROJECT_DIR$/google/ba-khia/ba-khia.json" />
         <option value="$PROJECT_DIR$/lib/variant.js" />
@@ -214,6 +214,7 @@
         <option value="$PROJECT_DIR$/parse-csv/index.js" />
         <option value="$PROJECT_DIR$/seo/ahref-csv.js" />
         <option value="$PROJECT_DIR$/lib/csv.js" />
+        <option value="$PROJECT_DIR$/iprice/condition/Page Type (2).csv" />
         <option value="$PROJECT_DIR$/iprice/categorize-link.js" />
       </list>
     </option>
@@ -239,9 +240,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="226" />
-    <option name="y" value="48" />
+    <option name="y" value="49" />
     <option name="width" value="1688" />
-    <option name="height" value="1032" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -249,6 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,24 +278,13 @@
             <path>
               <item name="toys" type="b2602c69:ProjectViewProjectNode" />
               <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="seo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toys" type="462c0819:PsiDirectoryNode" />
-              <item name="seo" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="iprice" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,9 +298,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/iprice/condition" />
+      <recent name="$PROJECT_DIR$/parse-csv/data/homepage" />
       <recent name="$PROJECT_DIR$/iprice/data" />
       <recent name="$PROJECT_DIR$/seo/data" />
-      <recent name="$PROJECT_DIR$/parse-csv/data/homepage" />
       <recent name="$PROJECT_DIR$/parse-csv/data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -460,17 +451,19 @@
       <workItem from="1553099451736" duration="3632000" />
       <workItem from="1553144036469" duration="4112000" />
       <workItem from="1553174205844" duration="623000" />
+      <workItem from="1553480658370" duration="1965000" />
+      <workItem from="1553752909452" duration="633000" />
+      <workItem from="1554261716713" duration="2700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="449021000" />
+    <option name="totallyTimeSpent" value="454319000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="226" y="48" width="1688" height="1032" extended-state="0" />
-    <editor active="true" />
+    <frame x="226" y="49" width="1688" height="1031" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31338862" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31338862" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5095207" side_tool="true" weight="0.37665462" />
@@ -479,7 +472,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49047932" weight="0.46448088" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49047932" visible="true" weight="0.37650934" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
@@ -496,19 +489,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26273787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3267544" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -548,13 +541,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/parse-csv/lib/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1290">
-          <caret line="141" column="6" selection-start-line="141" selection-start-column="6" selection-end-line="141" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/results/Homepage.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -629,9 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/parse-csv/data/homepage/Homepage - PH1.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
@@ -694,20 +677,6 @@
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="-285">
           <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/data/homepage/Homepage - MY1.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="435">
-          <caret line="25" column="156" lean-forward="true" selection-start-line="25" selection-start-column="156" selection-end-line="25" selection-end-column="156" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse-csv/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -809,16 +778,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iprice/categorize-link.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/iprice/condition/Page Type 2.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="74">
+        <state relative-caret-position="2175">
           <caret line="145" column="28" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="28" />
         </state>
       </provider>
@@ -830,7 +792,46 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/htmlSpec.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/data/homepage/Homepage - MY1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="156" selection-start-line="25" selection-start-column="156" selection-end-line="25" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-csv/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Homepage - MY.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret column="1991" selection-start-column="1991" selection-end-column="1991" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iprice/condition/Page Type (2).csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="241">
+          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iprice/categorize-link.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="74" column="3" lean-forward="true" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

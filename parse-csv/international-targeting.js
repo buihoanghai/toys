@@ -2,7 +2,7 @@ const _ = require('lodash');
 const util = require('./lib/util');
 const fs = require('fs');
 var globule = require('globule');
-var path = "parse-csv/data/international-targeting/ph.csv";
+var path = "parse-csv/data/international-targeting/errorlinks.csv";
 function process() {
 	 let files = globule.find(path);
 	_.each(files, file =>{
