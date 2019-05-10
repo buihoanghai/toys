@@ -5,7 +5,7 @@ const globule = require('globule');
 
 function main() {
 	dir.make("cropped");
-	let files = globule.find("google/**/*.jpeg");
+	let files = globule.find("google/**/*.jpg");
 	_.each(files, async file => {
 		image.crop(file);
 	});

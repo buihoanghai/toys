@@ -1,5 +1,7 @@
 ﻿{
-  "variantTypes": "hang|nha|xuat-khau||trong-luong|2-kg|500-g|1-kg",
+  "variantTypes": "hang|organic|nha|xuat-khau||trong-luong|1-kg|2-kg",
+  "variantTypesRauThomRauNem": "hang|nha|xuat-khau||trong-luong|1-kg|500-g|100-g",
+  "variantTypesRau": "hang|nha|xuat-khau||trong-luong|2-kg|500-g|1-kg",
   "variantTypesCaBien": "hang|xuat-khau|dong-lanh|tuoi||trong-luong|2-kg|1-kg",
   "variantTypesCu": "loai|xuat-khau|dac-biet||trong-luong|2-kg|5-kg|1-kg",
   "variantTypes-hat": "loai|xuat-khau|dac-biet||trong-luong|2-kg|5-kg|1-kg",
