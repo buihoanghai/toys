@@ -18,6 +18,8 @@ let result = [];
 			if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 			const data = await page.evaluate(() => {
 				var elem = document.querySelector("#b-c+span");
+				if(!elem)
+					return "";
 				return elem.innerText.trim();
 			});
 			result.push(data);

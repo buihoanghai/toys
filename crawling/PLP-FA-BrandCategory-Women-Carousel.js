@@ -36,32 +36,21 @@ let url;
 				isWoman = document.querySelector('[data-vars-lb="ผู้หญิง"]');
 			}
 			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
-			if (!breadcrumb[breadcrumb.length - 1]) {
+			if(!breadcrumb[breadcrumb.length - 1]){
 				return [];
 			}
 			let name = breadcrumb[breadcrumb.length - 1].innerText.trim();
 			let data = [];
-			data.push(!!isWoman);
 			data.push(brandName);
 			data.push(name);
-			if (!!isWoman) {
-				data.push(isWoman.href.replace("?show-filter=1", ""));
-			}
-
+			data.push(location.href.replace("?show-filter=1", ""));
+			let image = document.querySelector('.listing amp-img');
+			let imageUrl = image ? image.getAttribute('src').trim() : "";
+			data.push(imageUrl);
 			return data;
 		});
-		if (data[0]) {
-			await page.goto(data[3]);
-			const img = await page.evaluate(() => {
-				let image = document.querySelector('.listing amp-img');
-				let imageUrl = image ? image.getAttribute('src').trim() : "";
-				return imageUrl;
-			});
-			data.push(img);
-		} else {
-			data.push("");
-			data.push("");
-		}
+
+
 		result.push(data);
 	}
 	var lineArray = [];

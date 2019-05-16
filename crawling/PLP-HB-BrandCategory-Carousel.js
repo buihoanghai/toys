@@ -16,6 +16,9 @@ let result = [];
 		if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 		const data = await page.evaluate(() => {
 			let brandName = document.querySelector('#clear_filters a span');
+			if(!brandName){
+				return [];
+			}
 			brandName = brandName.innerText.trim();
 			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
 			let name = breadcrumb[breadcrumb.length-1].innerText.trim();
