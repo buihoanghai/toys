@@ -27,7 +27,7 @@ PLP-EL-BrandCategory-Carousel,section3,catagory-carousel,เปรียบเ�
 ,,,,,,Acer,โน๊ตบุ๊ค,https://p.ipricegroup.com/uploaded_599a25a03cfae9714fa9a18fa9e3e467.jpg,https://ipricethailand.com/acer/อปกรณคอมพวเตอร/โนตบค/,,,,,
 ,,,,,,Epson,ปริ้นเตอร์,https://p.ipricegroup.com/uploaded_ed478e01e51a603ba3eead427c16184b.jpg,https://ipricethailand.com/epson/อปกรณคอมพวเตอร/เครองปรน/,,,,,
 ,,,,,,Huawei,โทรศัพท์,https://p.ipricegroup.com/uploaded_e6b2118ed08c041c592dc2ea1cc156c0.jpg,https://ipricethailand.com/huawei/โทรศพทและแทบเลต/สมารทโฟน/,,,,,
-,,,,,,Xiaomi,โทรศัพท์,https://p.ipricegroup.com/uploaded_e553892afe433bccd0c1e8a67d7444a0.jpg,https://ipricethailand.com/xiaomi/โทรศพทและแทบเลต/สมารทโฟน/,,,,,
+,,,,,,Xiaomi,โทรศัพท์,https://p.ipricegroup.com/uploaded_6d3c6959075c190e95d66e37ac525ebb.jpg,https://ipricethailand.com/xiaomi/โทรศพทและแทบเลต/สมารทโฟน/,,,,,
 ,,,,,,Logitech,เมาส์,https://p.ipricegroup.com/25154368_0.jpg,https://ipricethailand.com/logitech/อปกรณคอมพวเตอร/อปกรณเสรม/เมาส/,,,,,
 ,,,,,,GARMIN,Smartwatch,https://p.ipricegroup.com/30343190_0.jpg,https://ipricethailand.com/garmin/โทรศพทและแทบเลต/smartwatch/,,,,,
 ,,,,,,Arduino,อุปกรณ์คอมพิวเตอร์,https://p.ipricegroup.com/d46b915c1c0550006bb82e0dfd2197cd970d90cb_0.jpg,https://ipricethailand.com/arduino/อปกรณคอมพวเตอร/,,,,,
@@ -58,8 +58,8 @@ PLP-EL-Brand-Carousel,section3_brand,catagory-carousel-no-text,,,,items,,,,,,,,
 ,,,,,,Hitachi,https://a.ipricegroup.com/brand/hitachi.jpg,https://ipricethailand.com/hitachi/,,,,,,
 ,,,,,,GoPro,https://a.ipricegroup.com/brand/gopro.jpg,https://ipricethailand.com/gopro/,,,,,,
 ,,,,,,Xiaomi,https://a.ipricegroup.com/brand/xiaomi.jpg,https://ipricethailand.com/xiaomi/,,,,,,
-,,,,,,Panasonic,https://a.ipricegroup.com/media/Zach__2_/panasonic.png,https://ipricethailand.com/panasonic/,,,,,,
-,,,,,,TP-LINK,https://a.ipricegroup.com/brand/tp-link.jpg,https://ipricethailand.com/tp-link/,,,,,,
+,,,,,,,,https://ipricethailand.com/panasonic/,,,,,,
+,,,,,,,,https://ipricethailand.com/tp-link/,,,,,,
 ,,,,,,,https://a.ipricegroup.com/media/homepage/TH_allbrands.jpg,https://ipricethailand.com/brands/,,,,,,
 ,,,,,,,,,,,,,,
 PLP-EL-Category-Carousel,section11,product-carousel,,,,items,,,,,,,,
@@ -92,6 +92,7 @@ PLP-EL-Category-Carousel,section11,product-carousel,,,,items,,,,,,,,
 ,,,,,,,,,Controller สำหรับเกมส์,https://ipricethailand.com/เครองเลนเกมส/controller/,,,,
 ,,,,,,,,,เครื่องเล่นเกมส์ Nintendo,https://ipricethailand.com/เครองเลนเกมส/nintendo/,,,,
 ,,,,,,,,,อุปกรณ์เสริมเกมส์คอมพิวเตอร์,https://ipricethailand.com/เครองเลนเกมส/อปกรณเสรม/,,,,
+,,,,,,,,,,https://ipricethailand.com/เครองเลนเกมส/มอถอ/,,,,
 ,,,,,,,,,เกมส์คอนโซลอื่นๆ,https://ipricethailand.com/เครองเลนเกมส/เกมสคอนโซลอนๆ/,,,,
 ,,,,,,กล้องถ่ายรูปและรูปภาพ,https://a.ipricegroup.com/media/homepage/Icon_v2/Cameras.png,https://ipricethailand.com/กลองถายรปและรปภาพ/,items1,,,,,
 ,,,,,,,,,name,url,,,,
@@ -174,39 +175,39 @@ PDP-EL-SeeMore,section1_link,link,,,,items,,,,,,,,
 PLP-FA-BrandCategory-Men-Carousel,section4,fashion-panel,แฟชั่นยอดฮิตสำหรับผู้ชาย,https://ipricethailand.com/เครองแตงกาย/ผชาย/,,image-url,,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/TH_men-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,TRUE,Casio,นาฬิกาข้อมือ,https://ipricethailand.com/casio/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/,https://p.ipricegroup.com/02cf6912e025d458fd6fb2887ecafeaa8871b233_0.jpg,https://ipricethailand.com/casio/นาฬกาขอมอ/
-,,,,,,,,,TRUE,Nike,สำหรับวิ่ง,https://ipricethailand.com/nike/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%81%E0%B8%AC%E0%B8%B2/%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%A7%E0%B8%87/,https://p.ipricegroup.com/90de0242851359c6911ad2402588f5d181b6134b_0.jpg,https://ipricethailand.com/nike/รองเทา/กฬา/สำหรบวง/
-,,,,,,,,,TRUE,Longines,นาฬิกาข้อมือ,https://ipricethailand.com/longines/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/,https://p.ipricegroup.com/b59391ee79958d0240b76ee2c292eeaa1936ee5a_0.jpg,https://ipricethailand.com/longines/นาฬกาขอมอ/
-,,,,,,,,,TRUE,Adidas,สำหรับวิ่ง,https://ipricethailand.com/adidas/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%81%E0%B8%AC%E0%B8%B2/%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%A7%E0%B8%87/,https://p.ipricegroup.com/449e51439945005583e36047cdc8e9f49314561e_0.jpg,https://ipricethailand.com/adidas/รองเทา/กฬา/สำหรบวง/
-,,,,,,,,,TRUE,PUMA,รองเท้าผ้าใบ,https://ipricethailand.com/puma/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2%E0%B8%9C%E0%B8%B2%E0%B9%83%E0%B8%9A/,https://p.ipricegroup.com/b75efa1aa20869cef067fe29d1f8a171cd3c80cd_0.jpg,https://ipricethailand.com/puma/รองเทา/รองเทาผาใบ/
-,,,,,,,,,TRUE,Adidas,รองเท้า,https://ipricethailand.com/adidas/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/,https://p.ipricegroup.com/47dbd324ec31c767637d6bdd8cc655a9e059af5c_0.jpg,https://ipricethailand.com/adidas/รองเทา/
-,,,,,,,,,TRUE,Patek Philippe,นาฬิกาข้อมือ,https://ipricethailand.com/patek-philippe/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/,https://p.ipricegroup.com/a1eaa5f8200000e02aae0e6d35ce58383dd5d87b_0.jpg,https://ipricethailand.com/patek-philippe/นาฬกาขอมอ/
-,,,,,,,,,TRUE,Rolex,นาฬิกาข้อมือ,https://ipricethailand.com/rolex/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/,https://p.ipricegroup.com/b604056dd6e08f30519bd1fc0da14b1bad13ab71_0.jpg,https://ipricethailand.com/rolex/นาฬกาขอมอ/
-,,,,,,,,,TRUE,TOM FORD,สูท,https://ipricethailand.com/tom-ford/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B8%8A%E0%B8%94%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E/%E0%B8%AA%E0%B8%97/,https://p.ipricegroup.com/d0265a85d6225f19e6bba8939e78c11977916a8a_0.jpg,https://ipricethailand.com/tom-ford/เครองแตงกาย/ชดสภาพ/สท/
-,,,,,,,,,TRUE,Lacoste,รองเท้า,https://ipricethailand.com/lacoste/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/,https://p.ipricegroup.com/fa0106c6fc04562a373564fce2f71a074904b18e_0.jpg,https://ipricethailand.com/lacoste/รองเทา/
-,,,,,,,,,TRUE,Wrangler,เสื้อ,https://ipricethailand.com/wrangler/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B9%80%E0%B8%AA%E0%B8%AD/,https://p.ipricegroup.com/0eb7ab21fa8920acb21b79f27dd1c45225a995ad_0.jpg,https://ipricethailand.com/wrangler/เครองแตงกาย/เสอ/
-,,,,,,,,,TRUE,Dickies,เสื้อยืด,https://ipricethailand.com/dickies/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B9%80%E0%B8%AA%E0%B8%AD%E0%B8%A2%E0%B8%94/,https://p.ipricegroup.com/ba3c8b0985c23db9de5bb1b71d44e15ed249602a_0.jpg,https://ipricethailand.com/dickies/เครองแตงกาย/เสอยด/
-,,,,,,,,,TRUE,Yeezy,รองเท้า,https://ipricethailand.com/yeezy/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/,https://p.ipricegroup.com/4623107fc2482443cbe1e0593db4918a81cc687f_0.jpg,https://ipricethailand.com/yeezy/รองเทา/
-,,,,,,,,,TRUE,Converse,รองเท้า,https://ipricethailand.com/converse/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/,https://p.ipricegroup.com/7bf34336ded953454cda644533057b6753dbe306_0.jpg,https://ipricethailand.com/converse/รองเทา/
-,,,,,,,,,TRUE,Giordano,เสื้อเชิ้ต,https://ipricethailand.com/giordano/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B9%80%E0%B8%AA%E0%B8%AD/%E0%B9%80%E0%B8%8A%E0%B8%95/,https://p.ipricegroup.com/9accf01f44ba1f7d0d17ef8e6764a19217de15fa_0.jpg,https://ipricethailand.com/giordano/เครองแตงกาย/เสอ/เชต/
+,,,,,,,,,TRUE,Casio,นาฬิกาข้อมือ,https://ipricethailand.com/casio/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/02cf6912e025d458fd6fb2887ecafeaa8871b233_0.jpg,https://ipricethailand.com/casio/นาฬกาขอมอ/
+,,,,,,,,,TRUE,Nike,สำหรับวิ่ง,https://ipricethailand.com/nike/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/%E0%B8%81%E0%B8%AC%E0%B8%B2/%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%A7%E0%B8%87/,https://p.ipricegroup.com/9ad4b5d517071608e7d8c2cc052ec364e963cc09_0.jpg,https://ipricethailand.com/nike/รองเทา/กฬา/สำหรบวง/
+,,,,,,,,,TRUE,Longines,นาฬิกาข้อมือ,https://ipricethailand.com/longines/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/b59391ee79958d0240b76ee2c292eeaa1936ee5a_0.jpg,https://ipricethailand.com/longines/นาฬกาขอมอ/
+,,,,,,,,,TRUE,Adidas,สำหรับวิ่ง,https://ipricethailand.com/adidas/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/%E0%B8%81%E0%B8%AC%E0%B8%B2/%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%A7%E0%B8%87/,https://p.ipricegroup.com/7b0956fdf7494884eab4b21c660dbdd818e05ceb_0.jpg,https://ipricethailand.com/adidas/รองเทา/กฬา/สำหรบวง/
+,,,,,,,,,TRUE,PUMA,รองเท้าผ้าใบ,https://ipricethailand.com/puma/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2%E0%B8%9C%E0%B8%B2%E0%B9%83%E0%B8%9A/,https://p.ipricegroup.com/cad524588af424108881824686c640ac1be5a24d_0.jpg,https://ipricethailand.com/puma/รองเทา/รองเทาผาใบ/
+,,,,,,,,,TRUE,Adidas,รองเท้า,https://ipricethailand.com/adidas/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/47dbd324ec31c767637d6bdd8cc655a9e059af5c_0.jpg,https://ipricethailand.com/adidas/รองเทา/
+,,,,,,,,,TRUE,Patek Philippe,นาฬิกาข้อมือ,https://ipricethailand.com/patek-philippe/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/a1eaa5f8200000e02aae0e6d35ce58383dd5d87b_0.jpg,https://ipricethailand.com/patek-philippe/นาฬกาขอมอ/
+,,,,,,,,,TRUE,Rolex,นาฬิกาข้อมือ,https://ipricethailand.com/rolex/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/b604056dd6e08f30519bd1fc0da14b1bad13ab71_0.jpg,https://ipricethailand.com/rolex/นาฬกาขอมอ/
+,,,,,,,,,TRUE,TOM FORD,สูท,https://ipricethailand.com/tom-ford/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/%E0%B8%8A%E0%B8%94%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E/%E0%B8%AA%E0%B8%97/,https://p.ipricegroup.com/d0265a85d6225f19e6bba8939e78c11977916a8a_0.jpg,https://ipricethailand.com/tom-ford/เครองแตงกาย/ชดสภาพ/สท/
+,,,,,,,,,TRUE,Lacoste,รองเท้า,https://ipricethailand.com/lacoste/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/fa0106c6fc04562a373564fce2f71a074904b18e_0.jpg,https://ipricethailand.com/lacoste/รองเทา/
+,,,,,,,,,TRUE,Wrangler,เสื้อ,https://ipricethailand.com/wrangler/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/%E0%B9%80%E0%B8%AA%E0%B8%AD/,https://p.ipricegroup.com/0eb7ab21fa8920acb21b79f27dd1c45225a995ad_0.jpg,https://ipricethailand.com/wrangler/เครองแตงกาย/เสอ/
+,,,,,,,,,TRUE,Dickies,เสื้อยืด,https://ipricethailand.com/dickies/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/%E0%B9%80%E0%B8%AA%E0%B8%AD%E0%B8%A2%E0%B8%94/,https://p.ipricegroup.com/1c023a1255c10b4468a466aa560e7793d55c5595_0.jpg,https://ipricethailand.com/dickies/เครองแตงกาย/เสอยด/
+,,,,,,,,,TRUE,Yeezy,รองเท้า,https://ipricethailand.com/yeezy/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/add7563f518932af13847f04de0af913a1770c8e_0.jpg,https://ipricethailand.com/yeezy/รองเทา/
+,,,,,,,,,TRUE,Converse,รองเท้า,https://ipricethailand.com/converse/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/42f3a4a8e7fdb9d249a283a11d419ace71a8736b_0.jpg,https://ipricethailand.com/converse/รองเทา/
+,,,,,,,,,TRUE,Giordano,เสื้อเชิ้ต,https://ipricethailand.com/giordano/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B8%9C%E0%B8%8A%E0%B8%B2%E0%B8%A2/%E0%B9%80%E0%B8%AA%E0%B8%AD/%E0%B9%80%E0%B8%8A%E0%B8%95/,https://p.ipricegroup.com/aa8f2b163b593004849e250aa0d0f5045beea1b7_0.jpg,https://ipricethailand.com/giordano/เครองแตงกาย/เสอ/เชต/
 PLP-FA-BrandCategory-Women-Carousel,section5,fashion-panel,แฟชั่นยอดฮิตสำหรับผู้หญิง,https://ipricethailand.com/เครองแตงกาย/ผหญง/,,image-url,url,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/TH_women-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,TRUE,Charles & Keith,กระเป๋า,https://ipricethailand.com/charles-keith/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2/,https://p.ipricegroup.com/5bff80d1fdacafee3add45ff73164db50426b0c2_0.jpg,https://ipricethailand.com/charles-keith/กระเปา/
-,,,,,,,,,TRUE,Anello,กระเป๋า,https://ipricethailand.com/anello/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2/,https://p.ipricegroup.com/7daba2910d625ad70d60423a915443fb65ae18ef_0.jpg,https://ipricethailand.com/anello/กระเปา/
-,,,,,,,,,TRUE,New Balance,รองเท้า,https://ipricethailand.com/new-balance/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/,https://p.ipricegroup.com/545140ed40e12ce358a7e2051295fabff9197669_0.jpg,https://ipricethailand.com/new-balance/รองเทา/
-,,,,,,,,,TRUE,Yves Saint Laurent,กระเป๋า,https://ipricethailand.com/yves-saint-laurent/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2/,https://p.ipricegroup.com/8395e792dd062bd12f989e4d617f72a7cfc72785_0.jpg,https://ipricethailand.com/yves-saint-laurent/กระเปา/
-,,,,,,,,,TRUE,Coach,กระเป๋า,https://ipricethailand.com/coach/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2/,https://p.ipricegroup.com/3078630c513e34c553c86b48ce83a410de456af5_0.jpg,https://ipricethailand.com/coach/กระเปา/
-,,,,,,,,,TRUE,BJ JEANS,เสื้อเชิ้ต,https://ipricethailand.com/bj-jeans/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B9%80%E0%B8%AA%E0%B8%AD/%E0%B9%80%E0%B8%8A%E0%B8%95/,https://p.ipricegroup.com/502aa3bf366c89a93c476aff83ff32874d6140d5_0.jpg,https://ipricethailand.com/bj-jeans/เครองแตงกาย/เสอ/เชต/
-,,,,,,,,,TRUE,CHANEL,กระเป๋า,https://ipricethailand.com/chanel/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2/,https://p.ipricegroup.com/cca210dcd362eb23550d478e370a8120963cfd28_0.jpg,https://ipricethailand.com/chanel/กระเปา/
-,,,,,,,,,TRUE,Tucano,กระเป๋า,https://ipricethailand.com/tucano/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2/,https://p.ipricegroup.com/48dace58270f8dee74f03f699f47ffd3f91a9977_0.jpg,https://ipricethailand.com/tucano/กระเปา/
-,,,,,,,,,FALSE,Burberry,กระเป๋า,https://ipricethailand.com/burberry/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2/,https://p.ipricegroup.com/2b1b48e661149350679d14f26740f2b370b78964_0.jpg,https://ipricethailand.com/burberry/กระเปา/
-,,,,,,,,,TRUE,Teens Sport,เครื่องแต่งกาย,https://ipricethailand.com/teens-sport/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/e71cc24629aadc7d4205715f0f9116fadf13a772_0.jpg,https://ipricethailand.com/teens-sport/เครองแตงกาย/
-,,,,,,,,,TRUE,Zara,เครื่องแต่งกาย,https://ipricethailand.com/zara/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/,https://p.ipricegroup.com/1d5cdec14d3639662641af7ad188b27e82bba088_0.jpg,https://ipricethailand.com/zara/เครองแตงกาย/
-,,,,,,,,,FALSE,Fendi,กำไลข้อมือ,https://ipricethailand.com/fendi/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%9A/%E0%B8%81%E0%B8%B3%E0%B9%84%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/,https://p.ipricegroup.com/d632b7a90ffd809d4cf2f1ae0393d7846ba07aec_0.jpg,https://ipricethailand.com/fendi/เครองประดบ/กำไลขอมอ/
-,,,,,,,,,TRUE,F.O.F,ชุดนอน,https://ipricethailand.com/fof/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B8%8A%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%99/,https://p.ipricegroup.com/939de9c3dfe4b6f9879dc8c8a9dfd8d3b465ae9f_0.jpg,https://ipricethailand.com/fof/เครองแตงกาย/ชดนอน/
-,,,,,,,,,TRUE,Miu Miu,กระเป๋า,https://ipricethailand.com/miu-miu/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2/,https://p.ipricegroup.com/96cd4e5b2c9d9d0079ecccddc0b84c84b5875e50_0.jpg,https://ipricethailand.com/miu-miu/กระเปา/
-,,,,,,,,,FALSE,Dolce & Gabbana,เครื่องประดับ,https://ipricethailand.com/dolce-gabbana/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%9A/,https://p.ipricegroup.com/99e5512720a47fd607a703a5db83302497ed36da_0.jpg,https://ipricethailand.com/dolce-gabbana/เครองประดบ/
+,,,,,,,,,TRUE,Casio,นาฬิกาข้อมือ,https://ipricethailand.com/casio/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/,https://p.ipricegroup.com/937198be2a29444cbb9cc06a95c4fa07a4a2efa9_0.jpg,https://ipricethailand.com/charles-keith/กระเปา/
+,,,,,,,,,TRUE,Nike,สำหรับวิ่ง,https://ipricethailand.com/nike/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/%E0%B8%81%E0%B8%AC%E0%B8%B2/%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%A7%E0%B8%87/,https://p.ipricegroup.com/63d23b841dcbcceba0715c3f53cc5ce223ed8345_0.jpg,https://ipricethailand.com/anello/กระเปา/
+,,,,,,,,,TRUE,Longines,นาฬิกาข้อมือ,https://ipricethailand.com/longines/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/,https://p.ipricegroup.com/27df453c0f9cc3c9094e7fa2ecad3e762849d8fb_0.jpg,https://ipricethailand.com/new-balance/รองเทา/
+,,,,,,,,,TRUE,Adidas,สำหรับวิ่ง,https://ipricethailand.com/adidas/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/%E0%B8%81%E0%B8%AC%E0%B8%B2/%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%A7%E0%B8%87/,https://p.ipricegroup.com/449e51439945005583e36047cdc8e9f49314561e_0.jpg,https://ipricethailand.com/yves-saint-laurent/กระเปา/
+,,,,,,,,,TRUE,PUMA,รองเท้าผ้าใบ,https://ipricethailand.com/puma/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2%E0%B8%9C%E0%B8%B2%E0%B9%83%E0%B8%9A/,https://p.ipricegroup.com/391c168d1924325a9fd3b56a7178408587bd054d_0.jpg,https://ipricethailand.com/coach/กระเปา/
+,,,,,,,,,TRUE,Adidas,รองเท้า,https://ipricethailand.com/adidas/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/,https://p.ipricegroup.com/2d58844e473189404e6d2da7ca685e92b76a5c09_0.jpg,https://ipricethailand.com/bj-jeans/เครองแตงกาย/เสอ/เชต/
+,,,,,,,,,TRUE,Patek Philippe,นาฬิกาข้อมือ,https://ipricethailand.com/patek-philippe/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/,https://p.ipricegroup.com/3d4b7adff9c9a26cda08315fcc249aeda7a86376_0.jpg,https://ipricethailand.com/chanel/กระเปา/
+,,,,,,,,,TRUE,Rolex,นาฬิกาข้อมือ,https://ipricethailand.com/rolex/%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%81%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%AD/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/,https://p.ipricegroup.com/fc9095491cc81c83e05c3a17faf7b15dc34d1fce_0.jpg,https://ipricethailand.com/tucano/กระเปา/
+,,,,,,,,,FALSE,TOM FORD,สูท,,,https://ipricethailand.com/burberry/กระเปา/
+,,,,,,,,,TRUE,Lacoste,รองเท้า,https://ipricethailand.com/lacoste/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/,https://p.ipricegroup.com/fd6fbc45fa6c8ed6847e20fe9119887f128b3e13_0.jpg,https://ipricethailand.com/teens-sport/เครองแตงกาย/
+,,,,,,,,,TRUE,Wrangler,เสื้อ,https://ipricethailand.com/wrangler/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/%E0%B9%80%E0%B8%AA%E0%B8%AD/,https://p.ipricegroup.com/0a3b3d720bdad19075010d29a331ce29eb4eefc7_0.jpg,https://ipricethailand.com/zara/เครองแตงกาย/
+,,,,,,,,,FALSE,Dickies,เสื้อยืด,,,https://ipricethailand.com/fendi/เครองประดบ/กำไลขอมอ/
+,,,,,,,,,TRUE,Yeezy,รองเท้า,https://ipricethailand.com/yeezy/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/,https://p.ipricegroup.com/4623107fc2482443cbe1e0593db4918a81cc687f_0.jpg,https://ipricethailand.com/fof/เครองแตงกาย/ชดนอน/
+,,,,,,,,,TRUE,Converse,รองเท้า,https://ipricethailand.com/converse/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B2/%E0%B8%9C%E0%B8%AB%E0%B8%8D%E0%B8%87/,https://p.ipricegroup.com/e3157e1e9ab804b18708691ecb8035f6541fe01e_0.jpg,https://ipricethailand.com/miu-miu/กระเปา/
+,,,,,,,,,FALSE,Giordano,เสื้อเชิ้ต,,,https://ipricethailand.com/dolce-gabbana/เครองประดบ/
 PLP-FA-Brand-Carousel,section5_brand,link,แบรนด์แฟชั่นยอดฮิต,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Adidas,https://a.ipricegroup.com/media/Zach__2_/adidas.png,https://ipricethailand.com/adidas/,,,,,,
@@ -220,13 +221,13 @@ PLP-FA-Brand-Carousel,section5_brand,link,แบรนด์แฟชั่น�
 ,,,,,,ASICS,https://a.ipricegroup.com/brand/asics.jpg,https://ipricethailand.com/asics/,,,,,,
 ,,,,,,Vans,https://a.ipricegroup.com/brand/vans.jpg,https://ipricethailand.com/vans/,,,,,,
 ,,,,,,Louis vuitton,https://a.ipricegroup.com/brand/louis-vuitton.jpg,https://ipricethailand.com/louis-vuitton/,,,,,,
-,,,,,,Patek Philippe,https://a.ipricegroup.com/brand/patek-philippe.jpg,https://ipricethailand.com/patek-philippe/,,,,,,
-,,,,,,Longchamp,https://a.ipricegroup.com/brand/longchamp.jpg,https://ipricethailand.com/longchamp/,,,,,,
+,,,,,,,,https://ipricethailand.com/patek-philippe/,,,,,,
+,,,,,,,,https://ipricethailand.com/longchamp/,,,,,,
 ,,,,,,Zara,https://a.ipricegroup.com/brand/zara.jpg,https://ipricethailand.com/zara/,,,,,,
 ,,,,,,SKECHERS,https://a.ipricegroup.com/brand/skechers.jpg,https://ipricethailand.com/skechers/,,,,,,
-,,,,,,PUMA,https://a.ipricegroup.com/media/Zach__2_/puma.png,https://ipricethailand.com/puma/,,,,,,
+,,,,,,,,https://ipricethailand.com/puma/,,,,,,
 ,,,,,,Daniel Wellington,https://a.ipricegroup.com/media/Zach__2_/daniel-wellington.png,https://ipricethailand.com/daniel-wellington/,,,,,,
-,,,,,,Swarovski,https://a.ipricegroup.com/media/Zach__2_/swarovski.png,https://ipricethailand.com/swarovski/,,,,,,
+,,,,,,,,https://ipricethailand.com/swarovski/,,,,,,
 ,,,,,,Rolex,https://a.ipricegroup.com/brand/rolex.jpg,https://ipricethailand.com/rolex/,,,,,,
 ,,,,,,Victoria's Secret,https://a.ipricegroup.com/brand/victorias-secret.jpg,https://ipricethailand.com/victorias-secret/,,,,,,
 ,,,,,,,https://a.ipricegroup.com/media/homepage/TH_allbrands.jpg,https://ipricethailand.com/brands/,,,,,,
@@ -258,6 +259,7 @@ PLP-FA-Category-Carousel,section12,product-carousel,,,,,,,,,,,,
 ,,,,,,,,,name,url,,,,
 ,,,,,,,,,เป้สะพายหลัง,https://ipricethailand.com/กระเปา/เปสะพายหลง/,,,,
 ,,,,,,,,,กระเป๋าสตางค์,https://ipricethailand.com/กระเปา/กระเปาสตางค/,,,,
+,,,,,,,,,,https://ipricethailand.com/กระเปาถอ/กระเปาโทท/,,,,
 ,,,,,,,,,กระเป๋าคลัทช์,https://ipricethailand.com/กระเปา/กระเปาถอ/กระเปาคลทช/,,,,
 ,,,,,,,,,กระเป๋าสะพาย,https://ipricethailand.com/กระเปา/กระเปาสะพาย/,,,,
 ,,,,,,,,,กระเป๋าถือ,https://ipricethailand.com/กระเปา/กระเปาถอ/,,,,
@@ -274,6 +276,7 @@ PLP-FA-Category-Carousel,section12,product-carousel,,,,,,,,,,,,
 ,,,,,,,,,ลูกปัด,https://ipricethailand.com/เครองประดบ/ลกปด/,,,,
 ,,,,,,,,,เข็มกลัดติดเสื้อ,https://ipricethailand.com/เครองประดบ/เขมกลด/,,,,
 ,,,,,,,,,ชุดเครื่องประดับ,https://ipricethailand.com/เครองประดบ/ชดเครองประดบ/,,,,
+,,,,,,,,,,https://ipricethailand.com/เครองประดบ/accessories/,,,,
 ,,,,,,นาฬิกาข้อมือ,https://a.ipricegroup.com/media/homepage/Icon_v2/Watches_v2.png,https://ipricethailand.com/นาฬกาขอมอ/,items1,,,,,
 ,,,,,,,,,name,url,,,,
 ,,,,,,,,,นาฬิกากีฬา,https://ipricethailand.com/นาฬกาขอมอ/นาฬกากฬา/,,,,
@@ -306,7 +309,7 @@ PLP-HB-Brand-Carousel,section13_brand,link,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,The Face Shop,https://a.ipricegroup.com/brand/the-face-shop.jpg,https://ipricethailand.com/the-face-shop/,,,,,,
 ,,,,,,Amway,https://a.ipricegroup.com/brand/amway.jpg,https://ipricethailand.com/amway/,,,,,,
-,,,,,,Mistine,https://a.ipricegroup.com/brand/mistine.jpg,https://ipricethailand.com/mistine/,,,,,,
+,,,,,,Mistine,,https://ipricethailand.com/mistine/,,,,,,
 ,,,,,,Drjill,https://a.ipricegroup.com/brand/drjill.jpg,https://ipricethailand.com/drjill/,,,,,,
 ,,,,,,Innisfree,https://a.ipricegroup.com/brand/innisfree.jpg,https://ipricethailand.com/innisfree/,,,,,,
 ,,,,,,Oriental Princess,https://a.ipricegroup.com/brand/oriental-princess.jpg,https://ipricethailand.com/oriental-princess/,,,,,,
@@ -314,12 +317,12 @@ PLP-HB-Brand-Carousel,section13_brand,link,,,,items,,,,,,,,
 ,,,,,,Eucerin,https://a.ipricegroup.com/brand/eucerin.jpg,https://ipricethailand.com/eucerin/,,,,,,
 ,,,,,,Cute Press,https://a.ipricegroup.com/brand/cute-press.jpg,https://ipricethailand.com/cute-press/,,,,,,
 ,,,,,,Etude House,https://a.ipricegroup.com/brand/etude-house.jpg,https://ipricethailand.com/etude-house/,,,,,,
-,,,,,,Yuri,https://a.ipricegroup.com/brand/yuri.jpg,https://ipricethailand.com/yuri/,,,,,,
+,,,,,,Yuri,,https://ipricethailand.com/yuri/,,,,,,
 ,,,,,,Blackmores,https://a.ipricegroup.com/brand/blackmores.jpg,https://ipricethailand.com/blackmores/,,,,,,
 ,,,,,,Bath & Body Works,https://a.ipricegroup.com/brand/bath-body-works.jpg,https://ipricethailand.com/bath-body-works/,,,,,,
-,,,,,,Smooth-E,https://a.ipricegroup.com/brand/smooth-e.jpg,https://ipricethailand.com/smooth-e/,,,,,,
+,,,,,,Smooth-E,,https://ipricethailand.com/smooth-e/,,,,,,
 ,,,,,,Yves Rocher,https://a.ipricegroup.com/brand/yves-rocher.jpg,https://ipricethailand.com/yves-rocher/,,,,,,
-,,,,,,Beauty Buffet,https://a.ipricegroup.com/brand/beauty-buffet.jpg,https://ipricethailand.com/beauty-buffet/,,,,,,
+,,,,,,Beauty Buffet,,https://ipricethailand.com/beauty-buffet/,,,,,,
 ,,,,,,Hiruscar,https://a.ipricegroup.com/brand/hiruscar.jpg,https://ipricethailand.com/hiruscar/,,,,,,
 ,,,,,,SK-II,https://a.ipricegroup.com/media/Zach__2_/sk-ii.png,https://ipricethailand.com/sk-ii/,,,,,,
 ,,,,,,Skinfood,https://a.ipricegroup.com/brand/skinfood.jpg,https://ipricethailand.com/skinfood/,,,,,,
@@ -412,6 +415,7 @@ PLP-HB-Category-Carousel,section14,product-carousel,,,,,,,,,,,,
 ,,,,,,,,,เครื่องพ่นยาและเครื่องช่วยหายใจ,https://ipricethailand.com/เวชภณฑ/เครองพนยาและเครองชวยหายใจ/,,,,
 ,,,,,,,,,เก้าอี้นั่งถ่าย,https://ipricethailand.com/เวชภณฑ/เกาอนงถาย/,,,,
 ,,,,,,,,,ชุดทดสอบภาวะเจริญพันธุ์,https://ipricethailand.com/เวชภณฑ/ชดทดสอบภาวะเจรญพนธ/,,,,
+,,,,,,,,,,https://ipricethailand.com/เวชภณฑ/เบาะ-ripple-mattresses/,,,,
 ,,,,,,,,,เตียงผู้ป่วย,https://ipricethailand.com/เวชภณฑ/เตยงผปวย/,,,,
 PDP-HB-Carousel,section2,product-carousel,,,,items,,,,,,,,
 ,,,,,,name,price,store-count,image-url,url,,,,

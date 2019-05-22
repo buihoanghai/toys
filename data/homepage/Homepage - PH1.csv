@@ -20,10 +20,10 @@ Coupons-Store-Carousel,section6,catagory-carousel-no-text,Find the Best Deals On
 PLP-EL-BrandCategory-Carousel,section3,catagory-carousel,Compare the Best Prices in Electronics,,,items,,,,,,,,
 ,,,,,,brand-name,name,image-url,url,,,,,
 ,,,,,,Samsung,Smartphones,https://p.ipricegroup.com/uploaded_4bfba04c84fa2adc876a8d97df908af3.jpg,https://iprice.ph/samsung/phones-tablets/smartphones/,,,,,
-,,,,,,vivo,Smartphones,https://p.ipricegroup.com/uploaded_6e0fa1b5f5082f7621b003518545513f.jpg,https://iprice.ph/vivo/phones-tablets/smartphones/,,,,,
+,,,,,,vivo,Smartphones,https://p.ipricegroup.com/uploaded_2a965b51b4ef6c87089911e058fdea38.jpg,https://iprice.ph/vivo/phones-tablets/smartphones/,,,,,
 ,,,,,,OPPO,Smartphones,https://p.ipricegroup.com/uploaded_e9927353825a4f5e60a50a0369631d1d.jpg,https://iprice.ph/oppo/phones-tablets/smartphones/,,,,,
 ,,,,,,Cherry Mobile,Smartphones,https://p.ipricegroup.com/uploaded_87aaf461630a02be92e98d2cd282ff8b.jpg,https://iprice.ph/cherry-mobile/phones-tablets/smartphones/,,,,,
-,,,,,,Asus,Smartphones,https://p.ipricegroup.com/uploaded_4d01eeabe8e744e837f7f22537dc73b5.jpg,https://iprice.ph/asus/phones-tablets/smartphones/,,,,,
+,,,,,,Asus,Smartphones,https://p.ipricegroup.com/uploaded_5a67819738c77de644711dcb13657f75.jpg,https://iprice.ph/asus/phones-tablets/smartphones/,,,,,
 ,,,,,,Huawei,Smartphones,https://p.ipricegroup.com/uploaded_a0e0141c4864fa6eee761a6d7296ab0c.jpg,https://iprice.ph/huawei/phones-tablets/smartphones/,,,,,
 ,,,,,,LG,Smartphones,https://p.ipricegroup.com/uploaded_3dae98635b5054fcdb2c84d1f049ec15.jpg,https://iprice.ph/lg/phones-tablets/smartphones/,,,,,
 ,,,,,,Brother,Printers,https://p.ipricegroup.com/uploaded_9fabe3a13b27e3131f27a32aa2609211.jpg,https://iprice.ph/brother/computing/printers/,,,,,
@@ -32,7 +32,7 @@ PLP-EL-BrandCategory-Carousel,section3,catagory-carousel,Compare the Best Prices
 ,,,,,,Microsoft,Office,https://p.ipricegroup.com/29543110_0.jpg,https://iprice.ph/microsoft/computing/software/office/,,,,,
 ,,,,,,Acer,Laptops,https://p.ipricegroup.com/uploaded_ee01c45d904d866957cce7ca35cc14ea.jpg,https://iprice.ph/acer/computing/laptops/,,,,,
 ,,,,,,Epson,Printers,https://p.ipricegroup.com/uploaded_07365e1e5b88bf5845297771c87c8a0c.jpg,https://iprice.ph/epson/computing/printers/,,,,,
-,,,,,,HP,Laptops,https://p.ipricegroup.com/uploaded_eca5ad696ae30c49ab2eefd734555225.jpg,https://iprice.ph/hp/computing/laptops/,,,,,
+,,,,,,HP,Laptops,https://p.ipricegroup.com/uploaded_ad4e77250544c43166f6bb4ac24d91a4.jpg,https://iprice.ph/hp/computing/laptops/,,,,,
 ,,,,,,Kindle,Phones & Tablets,https://p.ipricegroup.com/e574a64631da1fef4bb7e403861b2b0fda1bb1bf_0.jpg,https://iprice.ph/kindle/phones-tablets/,,,,,
 ,,,,,,Apple,Laptops,https://p.ipricegroup.com/31742752_0.jpg,https://iprice.ph/apple/computing/laptops/,,,,,
 ,,,,,,MyPhone,Smartphones,https://p.ipricegroup.com/uploaded_886b09492786761c3b297d324daa8fce.jpg,https://iprice.ph/myphone/phones-tablets/smartphones/,,,,,
@@ -129,17 +129,17 @@ PDP-EL-Carousel,section1,product-carousel,,,,items,,,,,,,,
 ,,,,,,Apple iPhone 6,"₱ 6,801.08",5,https://p.ipricegroup.com/uploaded_8fedeedccef59f3c2fba21f8541299c5.jpg,https://iprice.ph/compare/apple-iphone-6/,,,,
 ,,,,,,Samsung Galaxy J7 Prime,"₱ 9,990.00",3,https://p.ipricegroup.com/uploaded_9af6adc7872902f278ceac3eea988486.jpg,https://iprice.ph/compare/samsung-galaxy-j7-prime/,,,,
 ,,,,,,Huawei Nova 2i,"₱ 11,949.00",5,https://p.ipricegroup.com/uploaded_28e85dcc986fdc5a8a3fc2e9e3c99957.jpg,https://iprice.ph/compare/huawei-nova-2i/,,,,
-,,,,,,Samsung Galaxy J2 Prime,"₱ 4,099.00",4,https://p.ipricegroup.com/uploaded_6902a5d3f2345140073194397f687bb6.jpg,https://iprice.ph/compare/samsung-galaxy-j2-prime/,,,,
+,,,,,,Samsung Galaxy J2 Prime,"₱ 4,213.00",4,https://p.ipricegroup.com/uploaded_6902a5d3f2345140073194397f687bb6.jpg,https://iprice.ph/compare/samsung-galaxy-j2-prime/,,,,
 ,,,,,,Apple iPhone 5s,"₱ 13,990.00",1,https://p.ipricegroup.com/uploaded_b6f366ef802ae2f566c0c35c09bb83d8.jpg,https://iprice.ph/compare/apple-iphone-5s/,,,,
 ,,,,,,OPPO F5,"₱ 8,200.00",2,https://p.ipricegroup.com/55709704_0.jpg,https://iprice.ph/compare/oppo-f5/,,,,
 ,,,,,,OPPO A3s,"₱ 5,500.00",1,https://p.ipricegroup.com/uploaded_e9927353825a4f5e60a50a0369631d1d.jpg,https://iprice.ph/compare/oppo-a3s/,,,,
 ,,,,,,OPPO F3,"₱ 7,799.00",2,https://p.ipricegroup.com/uploaded_3eaf40178579be7a811e8ca58dbcbf11.jpg,https://iprice.ph/compare/oppo-f3/,,,,
 ,,,,,,Huawei nova 3i,"₱ 11,990.00",6,https://p.ipricegroup.com/uploaded_a0e0141c4864fa6eee761a6d7296ab0c.jpg,https://iprice.ph/compare/huawei-nova-3i/,,,,
 ,,,,,,OPPO F7,"₱ 13,990.00",3,https://p.ipricegroup.com/uploaded_498dd38d23174a22ba540940118c6477.jpg,https://iprice.ph/compare/oppo-f7/,,,,
-,,,,,,OPPO A37,"₱ 4,620.70",2,https://p.ipricegroup.com/32745868_0.jpg,https://iprice.ph/compare/oppo-a37/,,,,
+,,,,,,OPPO A37,"₱ 4,715.00",2,https://p.ipricegroup.com/32745868_0.jpg,https://iprice.ph/compare/oppo-a37/,,,,
 ,,,,,,Vivo V9,"₱ 12,500.00",3,https://p.ipricegroup.com/uploaded_084310ff7b6e8b27be1ab02acbeea6d1.jpg,https://iprice.ph/compare/vivo-v9/,,,,
 ,,,,,,Vivo V5,"₱ 4,999.00",3,https://p.ipricegroup.com/uploaded_5f8caf5be2e1c0ec9bc92c067eda0276.jpg,https://iprice.ph/compare/vivo-v5/,,,,
-,,,,,,OPPO A83,"₱ 6,899.00",3,https://p.ipricegroup.com/uploaded_57b1b49555156a3b078f44c22e34876b.jpg,https://iprice.ph/compare/oppo-a83/,,,,
+,,,,,,OPPO A83,"₱ 6,990.00",3,https://p.ipricegroup.com/uploaded_57b1b49555156a3b078f44c22e34876b.jpg,https://iprice.ph/compare/oppo-a83/,,,,
 ,,,,,,Samsung Galaxy J5,"₱ 3,999.00",2,https://p.ipricegroup.com/uploaded_65a5c68099714b4123515295d5b0dbae.jpg,https://iprice.ph/compare/samsung-galaxy-j5/,,,,
 ,,,,,,Samsung Galaxy Note 8,"₱ 29,500.00",5,https://p.ipricegroup.com/uploaded_7457688518fb740e3a6c723ba2b40654.jpg,https://iprice.ph/compare/samsung-galaxy-note-8/,,,,
 ,,,,,,OPPO F1s,"₱ 5,800.00",1,https://p.ipricegroup.com/uploaded_efe7ee3eab70017fee1715f7852b0469.jpg,https://iprice.ph/compare/oppo-f1s/,,,,
@@ -170,45 +170,45 @@ PDP-EL-SeeMore,section1_link,link,,,,items,,,,,,,,
 PLP-FA-BrandCategory-Men-Carousel,section4,fashion-panel,Shop Men's Fashion,https://iprice.ph/clothing/men/,,image-url,url,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/PH_men-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,TRUE,Nike,Shoes,https://iprice.ph/nike/shoes/,https://p.ipricegroup.com/9f531cd1edee867e093540be05dfc8eed2b985ea_0.jpg,https://iprice.ph/nike/shoes/
-,,,,,,,,,TRUE,Converse,Shoes,https://iprice.ph/converse/shoes/,https://p.ipricegroup.com/fd3a967ce1e973c3bc5c404025dd95a55140ab5c_0.jpg,https://iprice.ph/converse/shoes/
-,,,,,,,,,TRUE,Adidas,Basketball,https://iprice.ph/adidas/shoes/sports/basketball/,https://p.ipricegroup.com/691b10fd41aa85f14997b72fe58bae85a75d3fcd_0.jpg,https://iprice.ph/adidas/shoes/sports/basketball/
-,,,,,,,,,TRUE,Gucci,Shoes,https://iprice.ph/gucci/shoes/,https://p.ipricegroup.com/1299a4631efcc1ec5d05243f487bb3186b23173e_0.jpg,https://iprice.ph/gucci/shoes/
-,,,,,,,,,TRUE,Adidas,Running,https://iprice.ph/adidas/shoes/sports/running/,https://p.ipricegroup.com/cea58b61ae6ea33d2bf4c4726005b659d502aae2_0.jpg,https://iprice.ph/adidas/shoes/sports/running/
-,,,,,,,,,TRUE,Casio,Watches,https://iprice.ph/casio/watches/,https://p.ipricegroup.com/5b7bc12316218f8e036a77ed367532c384bb7f5d_0.jpg,https://iprice.ph/casio/watches/
-,,,,,,,,,TRUE,Nike,Running,https://iprice.ph/nike/shoes/sports/running/,https://p.ipricegroup.com/7ae9a18544311bd2411122b464bf252b9f907410_0.jpg,https://iprice.ph/nike/shoes/sports/running/
-,,,,,,,,,TRUE,Adidas,Shoes,https://iprice.ph/adidas/shoes/,https://p.ipricegroup.com/3639ebb65da4a8480473d471acace9167db3074c_0.jpg,https://iprice.ph/adidas/shoes/
-,,,,,,,,,TRUE,FILA,Shoes,https://iprice.ph/fila/shoes/,https://p.ipricegroup.com/ec7cdc09f9bfdee6bb18a4ee922560552fb7f03d_0.jpg,https://iprice.ph/fila/shoes/
-,,,,,,,,,TRUE,Sperry,Shoes,https://iprice.ph/sperry/shoes/,https://p.ipricegroup.com/689df713d00306c75376e081f730c9639e7ff62b_0.jpg,https://iprice.ph/sperry/shoes/
-,,,,,,,,,TRUE,Vans,Shoes,https://iprice.ph/vans/shoes/,https://p.ipricegroup.com/af1aabe08e00cc2a05fb85a2d218f2b4dc62e949_0.jpg,https://iprice.ph/vans/shoes/
-,,,,,,,,,TRUE,Rolex,Watches,https://iprice.ph/rolex/watches/,https://p.ipricegroup.com/cd3dcbf9b607ced26e292a80e45e34d94eb381d9_0.jpg,https://iprice.ph/rolex/watches/
-,,,,,,,,,TRUE,Lacoste,Shoes,https://iprice.ph/lacoste/shoes/,https://p.ipricegroup.com/a4378e656d627eebf12eadfa8fc316a2f4243147_0.jpg,https://iprice.ph/lacoste/shoes/
-,,,,,,,,,TRUE,PUMA,Shoes,https://iprice.ph/puma/shoes/,https://p.ipricegroup.com/47e033dc9b6211c25a4ab4a42da57a1633f9a21c_0.jpg,https://iprice.ph/puma/shoes/
-,,,,,,,,,TRUE,Fossil,Watches,https://iprice.ph/fossil/watches/,https://p.ipricegroup.com/5eeb96895c5aac0ba2fac19f6b9299c69339c180_0.jpg,https://iprice.ph/fossil/watches/
+,,,,,,,,,TRUE,Nike,Shoes,https://iprice.ph/nike/shoes/men/,https://p.ipricegroup.com/f0fc586744e9fc6aa7297792182d84e8d9198db5_0.jpg,https://iprice.ph/nike/shoes/
+,,,,,,,,,TRUE,Converse,Shoes,https://iprice.ph/converse/shoes/men/,https://p.ipricegroup.com/fd3a967ce1e973c3bc5c404025dd95a55140ab5c_0.jpg,https://iprice.ph/converse/shoes/
+,,,,,,,,,TRUE,Adidas,Basketball,https://iprice.ph/adidas/shoes/men/sports/basketball/,https://p.ipricegroup.com/a9226e3e915b49ceb6d77baae5d1e42bb0ac129a_0.jpg,https://iprice.ph/adidas/shoes/sports/basketball/
+,,,,,,,,,TRUE,Gucci,Shoes,https://iprice.ph/gucci/shoes/men/,https://p.ipricegroup.com/1299a4631efcc1ec5d05243f487bb3186b23173e_0.jpg,https://iprice.ph/gucci/shoes/
+,,,,,,,,,TRUE,Adidas,Running,https://iprice.ph/adidas/shoes/men/sports/running/,https://p.ipricegroup.com/99231812ae3b81a234c004518a8856ddaa08741b_0.jpg,https://iprice.ph/adidas/shoes/sports/running/
+,,,,,,,,,TRUE,Casio,Watches,https://iprice.ph/casio/watches/men/,https://p.ipricegroup.com/09a93b1f2b77545a7a900d3e90f9494771e7e827_0.jpg,https://iprice.ph/casio/watches/
+,,,,,,,,,TRUE,Nike,Running,https://iprice.ph/nike/shoes/men/sports/running/,https://p.ipricegroup.com/acd041fee332c380d06db5a4744ef5c11c733da9_0.jpg,https://iprice.ph/nike/shoes/sports/running/
+,,,,,,,,,TRUE,Adidas,Shoes,https://iprice.ph/adidas/shoes/men/,https://p.ipricegroup.com/1aef37012254ed8683c44406d64378e0f870d87e_0.jpg,https://iprice.ph/adidas/shoes/
+,,,,,,,,,TRUE,FILA,Shoes,https://iprice.ph/fila/shoes/men/,https://p.ipricegroup.com/b179760fadfaecf3f0c08df2a6c9ede834152021_0.jpg,https://iprice.ph/fila/shoes/
+,,,,,,,,,TRUE,Sperry,Shoes,https://iprice.ph/sperry/shoes/men/,https://p.ipricegroup.com/71617fbc354f2ccbaaf705d5778fb76d563ee7fe_0.jpg,https://iprice.ph/sperry/shoes/
+,,,,,,,,,TRUE,Vans,Shoes,https://iprice.ph/vans/shoes/men/,https://p.ipricegroup.com/2146d988109244ec872b68bab7da16a9624046ce_0.jpg,https://iprice.ph/vans/shoes/
+,,,,,,,,,TRUE,Rolex,Watches,https://iprice.ph/rolex/watches/men/,https://p.ipricegroup.com/00cf09fca51231b989f76f5a3e39b071c50e8975_0.jpg,https://iprice.ph/rolex/watches/
+,,,,,,,,,TRUE,Lacoste,Shoes,https://iprice.ph/lacoste/shoes/men/,https://p.ipricegroup.com/9e06e423e0d0805d2f994bc10c61e0d62a48612c_0.jpg,https://iprice.ph/lacoste/shoes/
+,,,,,,,,,TRUE,PUMA,Shoes,https://iprice.ph/puma/shoes/men/,https://p.ipricegroup.com/47e033dc9b6211c25a4ab4a42da57a1633f9a21c_0.jpg,https://iprice.ph/puma/shoes/
+,,,,,,,,,TRUE,Fossil,Watches,https://iprice.ph/fossil/watches/men/,https://p.ipricegroup.com/5eeb96895c5aac0ba2fac19f6b9299c69339c180_0.jpg,https://iprice.ph/fossil/watches/
 PLP-FA-BrandCategory-Women-Carousel,section5,fashion-panel,Shop Women's Fashion,https://iprice.ph/clothing/women/,,image-url,url,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/PH_women-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,TRUE,Longchamp,Bags,https://iprice.ph/longchamp/bags/,https://p.ipricegroup.com/e214332da306cce6343ad765b80ebd2e67d0717c_0.jpg,https://iprice.ph/longchamp/bags/
-,,,,,,,,,TRUE,ZALORA,Dresses,https://iprice.ph/zalora/clothing/dresses/,https://p.ipricegroup.com/1c952a7b6c4d72b98b424ed63bede5b22ffbaa1b_0.jpg,https://iprice.ph/zalora/clothing/dresses/
-,,,,,,,,,TRUE,MANGO,Clothing,https://iprice.ph/mango/clothing/,https://p.ipricegroup.com/c4c1c273169a2eea4e211161f2dcd20a55581e2b_0.jpg,https://iprice.ph/mango/clothing/
-,,,,,,,,,TRUE,Keds,Shoes,https://iprice.ph/keds/shoes/,https://p.ipricegroup.com/9f6a9791a04b5dd78acc7cfd698f2c4d4ad1911c_0.jpg,https://iprice.ph/keds/shoes/
-,,,,,,,,,TRUE,Louis Vuitton,Bags,https://iprice.ph/louis-vuitton/bags/,https://p.ipricegroup.com/3712bad4b153a37e0a59671660173ad82047652c_0.jpg,https://iprice.ph/louis-vuitton/bags/
-,,,,,,,,,TRUE,PENSHOPPE,Clothing,https://iprice.ph/penshoppe/clothing/,https://p.ipricegroup.com/74ea5436a64d12fd953e30059223c3c27e54557a_0.jpg,https://iprice.ph/penshoppe/clothing/
-,,,,,,,,,TRUE,KAMISETA,Clothing,https://iprice.ph/kamiseta/clothing/,https://p.ipricegroup.com/5c0125882d10c9920a937bfbd643d6d4921aa31f_0.jpg,https://iprice.ph/kamiseta/clothing/
-,,,,,,,,,TRUE,Havaianas,Shoes,https://iprice.ph/havaianas/shoes/,https://p.ipricegroup.com/ad9e15a6979338b099a851d56e6c73c4a6586ff0_0.jpg,https://iprice.ph/havaianas/shoes/
-,,,,,,,,,TRUE,Michael Kors,Bags,https://iprice.ph/michael-kors/bags/,https://p.ipricegroup.com/2374c85c9d9d70f6771816757cc11f8db65b9788_0.jpg,https://iprice.ph/michael-kors/bags/
-,,,,,,,,,TRUE,Anne Klein,Watches,https://iprice.ph/anne-klein/watches/,https://p.ipricegroup.com/47b669aca29cc6803ff5126dd7bef28f67ccc389_0.jpg,https://iprice.ph/anne-klein/watches/
-,,,,,,,,,TRUE,Balenciaga,Hats,https://iprice.ph/balenciaga/clothing/hats/,https://p.ipricegroup.com/be37ba12df953f5fede9c1c0b2ddf4523069666d_0.jpg,https://iprice.ph/balenciaga/clothing/hats/
-,,,,,,,,,TRUE,Gibi,Shoes,https://iprice.ph/gibi/shoes/,https://p.ipricegroup.com/8cfc23ac6ca09b93fb6c9da93043bec6d7b273a4_0.jpg,https://iprice.ph/gibi/shoes/
-,,,,,,,,,TRUE,Herschel Supply Co.,Bags,https://iprice.ph/herschel-supply-co/bags/,https://p.ipricegroup.com/f7bc188161acfa7616f78423b07b693956fd3356_0.jpg,https://iprice.ph/herschel-supply-co/bags/
-,,,,,,,,,TRUE,Michaela,Bags,https://iprice.ph/michaela/bags/,https://p.ipricegroup.com/2c7ba8771fabf2fde29c3d290168423b688301d9_0.jpg,https://iprice.ph/michaela/bags/
-,,,,,,,,,TRUE,Onitsuka Tiger,Shoes,https://iprice.ph/onitsuka-tiger/shoes/,https://p.ipricegroup.com/f94970f1a94cb316453703d6cc9259b5d168337b_0.jpg,https://iprice.ph/onitsuka-tiger/shoes/
+,,,,,,,,,TRUE,Nike,Shoes,https://iprice.ph/nike/shoes/women/,https://p.ipricegroup.com/9f531cd1edee867e093540be05dfc8eed2b985ea_0.jpg,https://iprice.ph/longchamp/bags/
+,,,,,,,,,TRUE,Converse,Shoes,https://iprice.ph/converse/shoes/women/,https://p.ipricegroup.com/9b67a02a512d6760990b161812bae4d4e09e5d7d_0.jpg,https://iprice.ph/zalora/clothing/dresses/
+,,,,,,,,,TRUE,Adidas,Basketball,https://iprice.ph/adidas/shoes/women/sports/basketball/,https://p.ipricegroup.com/d521aa2a9a7e130f6f39114e80a859f9b7c64eb2_0.jpg,https://iprice.ph/mango/clothing/
+,,,,,,,,,TRUE,Gucci,Shoes,https://iprice.ph/gucci/shoes/women/,https://p.ipricegroup.com/ba813ad95d372bdc6193c7451a14677fc43c7d42_0.jpg,https://iprice.ph/keds/shoes/
+,,,,,,,,,TRUE,Adidas,Running,https://iprice.ph/adidas/shoes/women/sports/running/,https://p.ipricegroup.com/d459e1251373e6407a7573c80afb88be390b2fc7_0.jpg,https://iprice.ph/louis-vuitton/bags/
+,,,,,,,,,TRUE,Casio,Watches,https://iprice.ph/casio/watches/women/,https://p.ipricegroup.com/5b7bc12316218f8e036a77ed367532c384bb7f5d_0.jpg,https://iprice.ph/penshoppe/clothing/
+,,,,,,,,,TRUE,Nike,Running,https://iprice.ph/nike/shoes/women/sports/running/,https://p.ipricegroup.com/7ae9a18544311bd2411122b464bf252b9f907410_0.jpg,https://iprice.ph/kamiseta/clothing/
+,,,,,,,,,TRUE,Adidas,Shoes,https://iprice.ph/adidas/shoes/women/,https://p.ipricegroup.com/3639ebb65da4a8480473d471acace9167db3074c_0.jpg,https://iprice.ph/havaianas/shoes/
+,,,,,,,,,TRUE,FILA,Shoes,https://iprice.ph/fila/shoes/women/,https://p.ipricegroup.com/ec7cdc09f9bfdee6bb18a4ee922560552fb7f03d_0.jpg,https://iprice.ph/michael-kors/bags/
+,,,,,,,,,TRUE,Sperry,Shoes,https://iprice.ph/sperry/shoes/women/,https://p.ipricegroup.com/2302b9d049f91423f61bb9fb0ef146ced6e6a9b4_0.jpg,https://iprice.ph/anne-klein/watches/
+,,,,,,,,,TRUE,Vans,Shoes,https://iprice.ph/vans/shoes/women/,https://p.ipricegroup.com/af1aabe08e00cc2a05fb85a2d218f2b4dc62e949_0.jpg,https://iprice.ph/balenciaga/clothing/hats/
+,,,,,,,,,TRUE,Rolex,Watches,https://iprice.ph/rolex/watches/women/,https://p.ipricegroup.com/cd3dcbf9b607ced26e292a80e45e34d94eb381d9_0.jpg,https://iprice.ph/gibi/shoes/
+,,,,,,,,,TRUE,Lacoste,Shoes,https://iprice.ph/lacoste/shoes/women/,https://p.ipricegroup.com/a2b2294cbc038dd02ddf10c564f013b4e4668cba_0.jpg,https://iprice.ph/herschel-supply-co/bags/
+,,,,,,,,,TRUE,PUMA,Shoes,https://iprice.ph/puma/shoes/women/,https://p.ipricegroup.com/0074bc42762e5fe54312731d65bc0312e4967995_0.jpg,https://iprice.ph/michaela/bags/
+,,,,,,,,,TRUE,Fossil,Watches,https://iprice.ph/fossil/watches/women/,https://p.ipricegroup.com/bcb76222dffc110e94c0a2c984bfbeb96fdb2db7_0.jpg,https://iprice.ph/onitsuka-tiger/shoes/
 PLP-FA-Brand-Carousel,section5_brand,link,Popular Fashion Brands,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,ZALORA,https://a.ipricegroup.com/brand/zalora.jpg,https://iprice.ph/zalora/,,,,,,
 ,,,,,,Vans,https://a.ipricegroup.com/brand/vans.jpg,https://iprice.ph/vans/,,,,,,
 ,,,,,,Adidas,https://a.ipricegroup.com/media/adidas.png,https://iprice.ph/adidas/,,,,,,
-,,,,,,Cignal,https://a.ipricegroup.com/brand/cignal.jpg,https://iprice.ph/cignal/,,,,,,
+,,,,,,Cignal,,https://iprice.ph/cignal/,,,,,,
 ,,,,,,H&M,https://a.ipricegroup.com/brand/h-m.jpg,https://iprice.ph/h-m/,,,,,,
 ,,,,,,Nike,https://a.ipricegroup.com/brand/nike.jpg,https://iprice.ph/nike/,,,,,,
 ,,,,,,Herschel Supply Co.,https://a.ipricegroup.com/brand/herschel-supply-co.jpg,https://iprice.ph/herschel-supply-co/,,,,,,
@@ -220,8 +220,8 @@ PLP-FA-Brand-Carousel,section5_brand,link,Popular Fashion Brands,,,items,,,,,,,,
 ,,,,,,Uniqlo,https://a.ipricegroup.com/brand/uniqlo.jpg,https://iprice.ph/uniqlo/,,,,,,
 ,,,,,,Gucci,https://a.ipricegroup.com/brand/gucci.jpg,https://iprice.ph/gucci/,,,,,,
 ,,,,,,Sperry,https://a.ipricegroup.com/brand/sperry.jpg,https://iprice.ph/sperry/,,,,,,
-,,,,,,Decathlon,https://a.ipricegroup.com/brand/decathlon.jpg,https://iprice.ph/decathlon/,,,,,,
-,,,,,,Kultura,https://a.ipricegroup.com/brand/kultura.jpg,https://iprice.ph/kultura/,,,,,,
+,,,,,,Decathlon,,https://iprice.ph/decathlon/,,,,,,
+,,,,,,Kultura,,https://iprice.ph/kultura/,,,,,,
 ,,,,,,Anello,https://a.ipricegroup.com/brand/anello.jpg,https://iprice.ph/anello/,,,,,,
 ,,,,,,Forever 21,https://a.ipricegroup.com/brand/forever-21.jpg,https://iprice.ph/forever-21/,,,,,,
 ,,,,,,Onitsuka Tiger,https://a.ipricegroup.com/brand/onitsuka-tiger.jpg,https://iprice.ph/onitsuka-tiger/,,,,,,
@@ -330,18 +330,18 @@ PLP-HB-BrandCategory-Carousel,section13,fashion-panel,Shop Health & Beauty,,,ite
 ,,,,,,NYX Cosmetics,Lipsticks,https://p.ipricegroup.com/700008b946fea7d7062f9e27f4903207fbd34246_0.jpg,https://iprice.ph/nyx-cosmetics/makeup/lips/lipsticks/,,,,,
 ,,,,,,Maybelline,Lipsticks,https://p.ipricegroup.com/78c683219c0e78bc82c95c227218e0f0aa02b780_0.jpg,https://iprice.ph/maybelline/makeup/lips/lipsticks/,,,,,
 ,,,,,,INNISFREE,Skin Care,https://p.ipricegroup.com/c0eb14c19d7b79c3c0931db7367a0d8291bbf9bc_0.jpg,https://iprice.ph/innisfree/skin-care/,,,,,
-,,,,,,Revlon,Lipsticks,https://p.ipricegroup.com/uploaded_a567fbd6690d7eaa9a4dd5d60874050c.jpg,https://iprice.ph/revlon/makeup/lips/lipsticks/,,,,,
+,,,,,,Revlon,Lipsticks,https://p.ipricegroup.com/e385c95ee29051513b7daa4e73e4ab7e16288a73_0.jpg,https://iprice.ph/revlon/makeup/lips/lipsticks/,,,,,
 ,,,,,,The Body Shop,Bath & Body,https://p.ipricegroup.com/aee0dcce95b15dad17b3542c4295b2d05dcb680e_0.jpg,https://iprice.ph/the-body-shop/bath-body/,,,,,
 PLP-HB-Brand-Carousel,section13_brand,link,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Dove,https://a.ipricegroup.com/brand/dove.jpg,https://iprice.ph/dove/,,,,,,
 ,,,,,,The Face Shop,https://a.ipricegroup.com/brand/the-face-shop.jpg,https://iprice.ph/the-face-shop/,,,,,,
 ,,,,,,Cetaphil,https://a.ipricegroup.com/brand/cetaphil.jpg,https://iprice.ph/cetaphil/,,,,,,
-,,,,,,Nworld,https://a.ipricegroup.com/brand/nworld.jpg,https://iprice.ph/nworld/,,,,,,
+,,,,,,Nworld,,https://iprice.ph/nworld/,,,,,,
 ,,,,,,Nature Republic,https://a.ipricegroup.com/brand/nature-republic.jpg,https://iprice.ph/nature-republic/,,,,,,
-,,,,,,Vice Cosmetics,https://a.ipricegroup.com/brand/vice-cosmetics.jpg,https://iprice.ph/vice-cosmetics/,,,,,,
+,,,,,,Vice Cosmetics,,https://iprice.ph/vice-cosmetics/,,,,,,
 ,,,,,,Etude House,https://a.ipricegroup.com/brand/etude-house.jpg,https://iprice.ph/etude-house/,,,,,,
-,,,,,,Human Nature,https://a.ipricegroup.com/brand/human-nature.jpg,https://iprice.ph/human-nature/,,,,,,
+,,,,,,Human Nature,,https://iprice.ph/human-nature/,,,,,,
 ,,,,,,The Body Shop,https://a.ipricegroup.com/brand/the-body-shop.jpg,https://iprice.ph/the-body-shop/,,,,,,
 ,,,,,,Victoria's Secret,https://a.ipricegroup.com/brand/victorias-secret.jpg,https://iprice.ph/victorias-secret/,,,,,,
 ,,,,,,Maybelline,https://s17.postimg.org/rt5epbe4v/maybelline.png,https://iprice.ph/maybelline/,,,,,,
@@ -349,10 +349,10 @@ PLP-HB-Brand-Carousel,section13_brand,link,,,,items,,,,,,,,
 ,,,,,,Innisfree,https://a.ipricegroup.com/brand/innisfree.jpg,https://iprice.ph/innisfree/,,,,,,
 ,,,,,,Jo Malone,https://a.ipricegroup.com/brand/jo-malone.jpg,https://iprice.ph/jo-malone/,,,,,,
 ,,,,,,NYX Cosmetics,https://a.ipricegroup.com/brand/nyx-cosmetics.jpg,https://iprice.ph/nyx-cosmetics/,,,,,,
-,,,,,,BLK Cosmetics,https://a.ipricegroup.com/brand/blk-cosmetics.jpg,https://iprice.ph/blk-cosmetics/,,,,,,
+,,,,,,BLK Cosmetics,,https://iprice.ph/blk-cosmetics/,,,,,,
 ,,,,,,Peripera,https://a.ipricegroup.com/brand/peripera.jpg,https://iprice.ph/peripera/,,,,,,
-,,,,,,The Faceshop,https://a.ipricegroup.com/brand/the-faceshop.jpg,https://iprice.ph/the-faceshop/,,,,,,
-,,,,,,Happy Skin,https://a.ipricegroup.com/brand/happy-skin.jpg,https://iprice.ph/happy-skin/,,,,,,
+,,,,,,The Faceshop,,https://iprice.ph/the-faceshop/,,,,,,
+,,,,,,Happy Skin,,https://iprice.ph/happy-skin/,,,,,,
 ,,,,,,TONYMOLY,https://a.ipricegroup.com/brand/tonymoly.jpg,https://iprice.ph/tonymoly/,,,,,,
 ,,,,,,,https://a.ipricegroup.com/media/homepage/EN_allbrands.jpg,https://iprice.ph/brands/,,,,,,
 PLP-HB-Category-Carousel,section14,product-carousel,,,,,,,,,,,,
@@ -499,6 +499,6 @@ PDP-PLP-SeeMore,section10,link,More Products,1234,1234,items,,,,,,,,
 ,,,,,,On-Ear Headphones,https://p.ipricegroup.com/7868867_0.jpg,https://iprice.ph/compare/jabra-halo-halo/,,,,,,
 ,,,,,,Vivo Y91i,https://p.ipricegroup.com/uploaded_8d785142546e168337fb50e5271e4644.jpg,https://iprice.ph/compare/vivo-y91i/,,,,,,
 ,,,,,,Huawei Mate 20,https://p.ipricegroup.com/717647cbc524804c9e9c2caeb3cf1a6c19a81afa_0.jpg,https://iprice.ph/compare/huawei-mate-20/,,,,,,
-,,,,,,Samsung Galaxy M20,https://p.ipricegroup.com/59514f7d1bc6b244c3633d032ba2540aa37b2b36_0.jpg,https://iprice.ph/compare/samsung-galaxy-m20/,,,,,,
+,,,,,,Samsung Galaxy M20,https://p.ipricegroup.com/19c231130183bae2c915f67a270f1a7111ff5e06_0.jpg,https://iprice.ph/compare/samsung-galaxy-m20/,,,,,,
 ,,,,,,Huawei Y9 (2019),https://p.ipricegroup.com/uploaded_50d2a6a3fe416211324d91f5c27f1483.jpg,https://iprice.ph/compare/huawei-y9-2019/,,,,,,
 End,,,,,,,,,,,,,,

@@ -11,7 +11,7 @@ function process() {
             var arr = util.arrayToJson(json);
             fs.writeFile("parse-csv/results/homepage/" + file.split("/")[file.split("/").length - 1] + ".json", JSON.stringify(arr), function (err) {
                 if (err) {
-                    console.log('Some error occured - file either not saved or corrupted file saved.');
+                    console.log('Some error occured - file either not saved or corrupted file saved.', file);
                 } else {
                     console.log('It\'s saved!');
                 }

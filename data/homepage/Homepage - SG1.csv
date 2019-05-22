@@ -46,7 +46,7 @@ PLP-EL-Brand-Carousel,section3_brand,catagory-carousel-no-text,,,,items,,,,,,,,
 ,,,,,,Samsung,https://a.ipricegroup.com/brand/samsung.jpg,https://iprice.sg/samsung/,,,,,,
 ,,,,,,Kindle,https://a.ipricegroup.com/brand/kindle.jpg,https://iprice.sg/kindle/,,,,,,
 ,,,,,,Apple,https://a.ipricegroup.com/media/Zach__2_/apple.png,https://iprice.sg/apple/,,,,,,
-,,,,,,GARMIN,https://a.ipricegroup.com/brand/garmin.jpg,https://iprice.sg/garmin/,,,,,,
+,,,,,,,,https://iprice.sg/garmin/,,,,,,
 ,,,,,,DELL,https://a.ipricegroup.com/media/Zach__2_/dell.png,https://iprice.sg/dell/,,,,,,
 ,,,,,,Lenovo,https://a.ipricegroup.com/media/Zach__2_/lenovo.png,https://iprice.sg/lenovo/,,,,,,
 ,,,,,,ASUS,https://a.ipricegroup.com/media/Zach__2_/asus.png,https://iprice.sg/asus/,,,,,,
@@ -61,7 +61,7 @@ PLP-EL-Brand-Carousel,section3_brand,catagory-carousel-no-text,,,,items,,,,,,,,
 ,,,,,,Panasonic,https://a.ipricegroup.com/media/Zach__2_/panasonic.png,https://iprice.sg/panasonic/,,,,,,
 ,,,,,,Corsair,https://a.ipricegroup.com/brand/corsair.jpg,https://iprice.sg/corsair/,,,,,,
 ,,,,,,Sennheiser,https://a.ipricegroup.com/brand/sennheiser.jpg,https://iprice.sg/sennheiser/,,,,,,
-,,,,,,Bitdefender,https://a.ipricegroup.com/brand/bitdefender.jpg,https://iprice.sg/bitdefender/,,,,,,
+,,,,,,Bitdefender,,https://iprice.sg/bitdefender/,,,,,,
 ,,,,,,Huawei,https://a.ipricegroup.com/media/Zach__2_/huawei.png,https://iprice.sg/huawei/,,,,,,
 ,,,,,,,https://a.ipricegroup.com/media/homepage/EN_allbrands.jpg,https://iprice.sg/brands/,,,,,,
 PLP-EL-Category-Carousel,section11,product-carousel,,,,items,,,,,,,,
@@ -146,7 +146,7 @@ PDP-EL-Carousel,section1,product-carousel,,,,items,,,,,,,,
 ,,,,,,Huawei nova 3i,S$ 276.00,5,https://p.ipricegroup.com/uploaded_3feef59ac8bf830e66e025a9d3d889ca.jpg,https://iprice.sg/compare/huawei-nova-3i/,,,,
 ,,,,,,OnePlus 5T,S$ 585.00,4,https://p.ipricegroup.com/uploaded_38ee3a5637c6702476ee787806699966.jpg,https://iprice.sg/compare/oneplus-5t/,,,,
 ,,,,,,Nintendo Switch,S$ 417.00,4,https://p.ipricegroup.com/uploaded_c39042bf1c8fc151e29f88fae06062af.jpg,https://iprice.sg/compare/nintendo-switch/,,,,
-,,,,,,Samsung Galaxy S8 Plus,S$ 853.52,1,https://p.ipricegroup.com/uploaded_4d8a4ed4148bd1b78c3d0c10b2ba8ac6.jpg,https://iprice.sg/compare/samsung-galaxy-s8-plus/,,,,
+,,,,,,,,,,https://iprice.sg/compare/samsung-galaxy-s8-plus/,,,,
 PDP-EL-SeeMore,section1_link,link,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Apple iPhone XR,https://p.ipricegroup.com/uploaded_e6eef252bf3ad44ae6180ab130fccb6a.jpg,https://iprice.sg/compare/apple-iphone-xr/,,,,,,
@@ -172,43 +172,47 @@ PDP-EL-SeeMore,section1_link,link,,,,items,,,,,,,,
 PLP-FA-BrandCategory-Men-Carousel,section4,fashion-panel,Shop Men's Fashion,https://iprice.sg/clothing/men/,,image-url,,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/SGHK_men-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,TRUE,A For Arcade,Clothing,https://iprice.sg/a-for-arcade/clothing/,https://p.ipricegroup.com/48345bc29ae5319dc133c3a1093492e6a9982ebd_0.jpg,https://iprice.sg/a-for-arcade/clothing/
-,,,,,,,,,TRUE,Herschel Supply Co.,Bags,https://iprice.sg/herschel-supply-co/bags/,https://p.ipricegroup.com/e5eb26ec5b7e22122af7dfaa9d35aecfc9867a37_0.jpg,https://iprice.sg/herschel-supply-co/bags/
-,,,,,,,,,FALSE,Timbuk2,Messenger,https://iprice.sg/timbuk2/bags/sling/messenger/,https://p.ipricegroup.com/3c97ef4a515dd9483f87efc12a40361305150a18_0.jpg,https://iprice.sg/timbuk2/bags/sling/messenger/
-,,,,,,,,,TRUE,Audemars Piguet,Luxury,https://iprice.sg/audemars-piguet/watches/luxury/,https://p.ipricegroup.com/c1d5de13aa2f2462949681f0bc2f9a6896fc35cd_0.jpg,https://iprice.sg/audemars-piguet/watches/luxury/
-,,,,,,,,,TRUE,Converse,Sneakers,https://iprice.sg/converse/shoes/sneakers/,https://p.ipricegroup.com/251a16a98ba68181c7847bfdd19439447c5526a3_0.jpg,https://iprice.sg/converse/shoes/sneakers/
-,,,,,,,,,TRUE,Reebok,Shoes,https://iprice.sg/reebok/shoes/,https://p.ipricegroup.com/a1021f3daea5fed179d5d4bd8c33c5d317855e77_0.jpg,https://iprice.sg/reebok/shoes/
-,,,,,,,,,TRUE,PUMA,Shoes,https://iprice.sg/puma/shoes/,https://p.ipricegroup.com/9334d733f9b9c4eb8f2ea9a628324293f2215004_0.jpg,https://iprice.sg/puma/shoes/
-,,,,,,,,,TRUE,ASICS,Shoes,https://iprice.sg/asics/shoes/,https://p.ipricegroup.com/7905db8102151b4064a1c54d249ea98c611bff17_0.jpg,https://iprice.sg/asics/shoes/
-,,,,,,,,,TRUE,Nike,Shoes,https://iprice.sg/nike/shoes/,https://p.ipricegroup.com/288744976d368dd316569307a628189110f5b9fb_0.jpg,https://iprice.sg/nike/shoes/
-,,,,,,,,,TRUE,FILA,Shoes,https://iprice.sg/fila/shoes/,https://p.ipricegroup.com/89629712d45d1c1eec7ba885b0d3ddaca598b37c_0.jpg,https://iprice.sg/fila/shoes/
-,,,,,,,,,TRUE,Adidas,Shoes,https://iprice.sg/adidas/shoes/,https://p.ipricegroup.com/1c3657ce4880ea6748a79d294b7b3aad66292374_0.jpg,https://iprice.sg/adidas/shoes/
-,,,,,,,,,TRUE,Fossil,Watches,https://iprice.sg/fossil/watches/,https://p.ipricegroup.com/c94308712c4a5166d1c3090f0bf9ba09d8ff4f20_0.jpg,https://iprice.sg/fossil/watches/
-,,,,,,,,,TRUE,Jaeger-LeCoultre,Luxury,https://iprice.sg/jaeger-lecoultre/reverso/watches/luxury/,https://p.ipricegroup.com/7eb93da6670ec91135d8c06936d159727042a661_0.jpg,https://iprice.sg/jaeger-lecoultre/reverso/watches/luxury/
-,,,,,,,,,FALSE,Giordano,Clothing,https://iprice.sg/giordano/clothing/,https://p.ipricegroup.com/9c6abe4724f0d0946141681c6d8b5878617d264b_0.jpg,https://iprice.sg/giordano/clothing/
-,,,,,,,,,TRUE,TAG Heuer,Watches,https://iprice.sg/tag-heuer/watches/,https://p.ipricegroup.com/95aab4ddd1b33bb3e41b5f2312654667f3a91bc8_0.jpg,https://iprice.sg/tag-heuer/watches/
+,,,,,,,,,TRUE,A For Arcade,Clothing,https://iprice.sg/a-for-arcade/clothing/men/,https://p.ipricegroup.com/48345bc29ae5319dc133c3a1093492e6a9982ebd_0.jpg,https://iprice.sg/a-for-arcade/clothing/
+,,,,,,,,,TRUE,Herschel Supply Co.,Bags,https://iprice.sg/herschel-supply-co/bags/men/,https://p.ipricegroup.com/e5eb26ec5b7e22122af7dfaa9d35aecfc9867a37_0.jpg,https://iprice.sg/herschel-supply-co/bags/
+,,,,,,,,,FALSE,Timbuk2,Messenger,,,https://iprice.sg/timbuk2/bags/sling/messenger/
+,,,,,,,,,TRUE,Audemars Piguet,Luxury,https://iprice.sg/audemars-piguet/watches/men/luxury/,https://p.ipricegroup.com/c1d5de13aa2f2462949681f0bc2f9a6896fc35cd_0.jpg,https://iprice.sg/audemars-piguet/watches/luxury/
+,,,,,,,,,,,,,,https://iprice.sg/casio/g-shock/
+,,,,,,,,,TRUE,Converse,Sneakers,https://iprice.sg/converse/shoes/men/sneakers/,https://p.ipricegroup.com/251a16a98ba68181c7847bfdd19439447c5526a3_0.jpg,https://iprice.sg/converse/shoes/sneakers/
+,,,,,,,,,,,,,,https://iprice.sg/topman/
+,,,,,,,,,TRUE,Reebok,Shoes,https://iprice.sg/reebok/shoes/men/,https://p.ipricegroup.com/a1021f3daea5fed179d5d4bd8c33c5d317855e77_0.jpg,https://iprice.sg/reebok/shoes/
+,,,,,,,,,TRUE,PUMA,Shoes,https://iprice.sg/puma/shoes/men/,https://p.ipricegroup.com/0fead6ef28a163dd3271cf7aa22c3fac5f80c044_0.jpg,https://iprice.sg/puma/shoes/
+,,,,,,,,,TRUE,ASICS,Shoes,https://iprice.sg/asics/shoes/men/,https://p.ipricegroup.com/7905db8102151b4064a1c54d249ea98c611bff17_0.jpg,https://iprice.sg/asics/shoes/
+,,,,,,,,,TRUE,Nike,Shoes,https://iprice.sg/nike/shoes/men/,https://p.ipricegroup.com/288744976d368dd316569307a628189110f5b9fb_0.jpg,https://iprice.sg/nike/shoes/
+,,,,,,,,,TRUE,FILA,Shoes,https://iprice.sg/fila/shoes/men/,https://p.ipricegroup.com/89629712d45d1c1eec7ba885b0d3ddaca598b37c_0.jpg,https://iprice.sg/fila/shoes/
+,,,,,,,,,,,,,,https://iprice.sg/rolex/pre-owned-watches/
+,,,,,,,,,TRUE,Adidas,Shoes,https://iprice.sg/adidas/shoes/men/,https://p.ipricegroup.com/37ac590bec6840fd21448b9b4cfa5b2732d497b6_0.jpg,https://iprice.sg/adidas/shoes/
+,,,,,,,,,TRUE,Fossil,Watches,https://iprice.sg/fossil/watches/men/,https://p.ipricegroup.com/8e0e8edabb761c5ca23b0a7d83e52fc60dcc23cb_0.jpg,https://iprice.sg/fossil/watches/
+,,,,,,,,,,,,,,https://iprice.sg/adidas/stan-smith/
+,,,,,,,,,TRUE,Jaeger-LeCoultre,Luxury,https://iprice.sg/jaeger-lecoultre/reverso/watches/men/luxury/,https://p.ipricegroup.com/7eb93da6670ec91135d8c06936d159727042a661_0.jpg,https://iprice.sg/jaeger-lecoultre/reverso/watches/luxury/
+,,,,,,,,,FALSE,Giordano,Clothing,,,https://iprice.sg/giordano/clothing/
+,,,,,,,,,TRUE,TAG Heuer,Watches,https://iprice.sg/tag-heuer/watches/men/,https://p.ipricegroup.com/95aab4ddd1b33bb3e41b5f2312654667f3a91bc8_0.jpg,https://iprice.sg/tag-heuer/watches/
 PLP-FA-BrandCategory-Women-Carousel,section5,fashion-panel,Shop Women's Fashion,https://iprice.sg/clothing/women/,,image-url,url,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/SGHK_women-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,FALSE,ASOS,High heels shoes,https://iprice.sg/asos/shoes/high-heels/,https://p.ipricegroup.com/870e11a35b3c191e61cb3a35752914f0ee316267_0.jpg,https://iprice.sg/asos/shoes/high-heels/
-,,,,,,,,,TRUE,Kate Spade New York,Bags,https://iprice.sg/kate-spade-new-york/bags/,https://p.ipricegroup.com/dc322f2c9c6f34914745bf98dc750df43dfba4d6_0.jpg,https://iprice.sg/kate-spade-new-york/bags/
-,,,,,,,,,FALSE,Timberland,Women,https://iprice.sg/timberland/shoes/women/,https://p.ipricegroup.com/94a9e7bfb63a5beea68746a93bf897da2f8febf5_0.jpg,https://iprice.sg/timberland/shoes/
-,,,,,,,,,TRUE,Swarovski,Beads,https://iprice.sg/swarovski/jewellery/beads/,https://p.ipricegroup.com/06e648741d8a35a9603fe319ae5ce8871d1d3c9c_0.jpg,https://iprice.sg/swarovski/jewellery/beads/
-,,,,,,,,,,ALDO,Shoes,https://iprice.sg/aldo/shoes/,https://p.ipricegroup.com/9066dee703307f78926b488f279b769bc8a1bc84_0.jpg,https://iprice.sg/aldo/shoes/
-,,,,,,,,,TRUE,Dorothy Perkins,Clothing,https://iprice.sg/dorothy-perkins/clothing/,https://p.ipricegroup.com/012cc56848426ebe38ace1e15efa15e23ae8fef1_0.jpg,https://iprice.sg/dorothy-perkins/clothing/
-,,,,,,,,,,Topshop,Clothing,https://iprice.sg/topshop/clothing/,https://p.ipricegroup.com/670fe87f0b2f88d795fe425a6d207cfe38851869_0.jpg,https://iprice.sg/topshop/clothing/
-,,,,,,,,,TRUE,Hush Puppies,Shoes,https://iprice.sg/hush-puppies/shoes/,https://p.ipricegroup.com/3c6a2141293d1b02fe2a0292a6e73e5a283605a4_0.jpg,https://iprice.sg/hush-puppies/shoes/
-,,,,,,,,,TRUE,Charles & Keith,Bags,https://iprice.sg/charles-keith/bags/,https://p.ipricegroup.com/31907f2579098d0704a64b3808e63482de4d741d_0.jpg,https://iprice.sg/charles-keith/bags/
-,,,,,,,,,TRUE,Dr. Martens,Shoes,https://iprice.sg/dr-martens/shoes/,https://p.ipricegroup.com/c645c69c6973c43a962875d2dced9ff3efe9c91c_0.jpg,https://iprice.sg/dr-martens/shoes/
-,,,,,,,,,TRUE,Longchamp,Bags,https://iprice.sg/longchamp/bags/,https://p.ipricegroup.com/e214332da306cce6343ad765b80ebd2e67d0717c_0.jpg,https://iprice.sg/longchamp/bags/
-,,,,,,,,,TRUE,Louis Vuitton,Bags,https://iprice.sg/louis-vuitton/bags/,https://p.ipricegroup.com/cf994e1080280c9e7151cc0f8d1dcbe2949b67a8_0.jpg,https://iprice.sg/louis-vuitton/bags/
-,,,,,,,,,,MCM,Women,https://iprice.sg/mcm/bags/women/,https://p.ipricegroup.com/bcc4274c0483242903a573f5c54468635c17c67c_0.jpg,https://iprice.sg/mcm/bags/
-,,,,,,,,,TRUE,BVLGARI,Watches,https://iprice.sg/bvlgari/watches/,https://p.ipricegroup.com/63eba8f3b5d580979a8dc623d0365d9e9f2d49a4_0.jpg,https://iprice.sg/bvlgari/watches/
-,,,,,,,,,TRUE,ISSEY MIYAKE,Bags,https://iprice.sg/issey-miyake/bags/,https://p.ipricegroup.com/b2ff712d038e4746ae30ac88dc81b2ab4d33561e_0.jpg,https://iprice.sg/issey-miyake/bags/
-,,,,,,,,,,Anello,Bags,https://iprice.sg/anello/bags/,https://p.ipricegroup.com/29d9e1902d758a4cc5a5bb7717614d44a2f5d485_0.jpg,https://iprice.sg/anello/bags/
-,,,,,,,,,TRUE,Breitling,Watches,https://iprice.sg/breitling/watches/,https://p.ipricegroup.com/c7982a27733128d317513f0c51060eed9a8391ba_0.jpg,https://iprice.sg/breitling/watches/
-,,,,,,,,,FALSE,Salvatore Ferragamo,Shoes,https://iprice.sg/salvatore-ferragamo/shoes/,https://p.ipricegroup.com/78a4688fcf63efba8418b4c7de0e3c2d857f5fdf_0.jpg,https://iprice.sg/salvatore-ferragamo/shoes/
-,,,,,,,,,TRUE,Gucci,Sling,https://iprice.sg/gucci/bags/sling/,https://p.ipricegroup.com/29e4458aedd403d6ce7f777a20b1ebc08baccedd_0.jpg,https://iprice.sg/gucci/bags/sling/
+,,,,,,,,,FALSE,A For Arcade,Clothing,,,https://iprice.sg/asos/shoes/high-heels/
+,,,,,,,,,TRUE,Herschel Supply Co.,Bags,https://iprice.sg/herschel-supply-co/bags/women/,https://p.ipricegroup.com/f0f94339262d30dfe73405930a20926a1dc9d22a_0.jpg,https://iprice.sg/kate-spade-new-york/bags/
+,,,,,,,,,FALSE,Timbuk2,Messenger,,,https://iprice.sg/timberland/shoes/women/
+,,,,,,,,,TRUE,Audemars Piguet,Luxury,https://iprice.sg/audemars-piguet/watches/women/luxury/,https://p.ipricegroup.com/ff9751309e0f4ac3e04ce549318406fdcbfbf731_0.jpg,https://iprice.sg/swarovski/jewellery/beads/
+,,,,,,,,,,,,,,https://iprice.sg/aldo/shoes/
+,,,,,,,,,TRUE,Converse,Sneakers,https://iprice.sg/converse/shoes/women/sneakers/,https://p.ipricegroup.com/44434b115b65d627e7c8469c5c4ef3a72c3f39eb_0.jpg,https://iprice.sg/dorothy-perkins/clothing/
+,,,,,,,,,,,,,,https://iprice.sg/topshop/clothing/
+,,,,,,,,,TRUE,Reebok,Shoes,https://iprice.sg/reebok/shoes/women/,https://p.ipricegroup.com/6d468f5c3bf57cbd19457cd619c450ee0b5a2d39_0.jpg,https://iprice.sg/hush-puppies/shoes/
+,,,,,,,,,TRUE,PUMA,Shoes,https://iprice.sg/puma/shoes/women/,https://p.ipricegroup.com/9334d733f9b9c4eb8f2ea9a628324293f2215004_0.jpg,https://iprice.sg/charles-keith/bags/
+,,,,,,,,,TRUE,ASICS,Shoes,https://iprice.sg/asics/shoes/women/,https://p.ipricegroup.com/7262ae79c65cc2ab081bffca95891c9a51963d11_0.jpg,https://iprice.sg/dr-martens/shoes/
+,,,,,,,,,TRUE,Nike,Shoes,https://iprice.sg/nike/shoes/women/,https://p.ipricegroup.com/2cdb55334ebdb7b5d5ee6c498568d6a2a7bb9de8_0.jpg,https://iprice.sg/longchamp/bags/
+,,,,,,,,,TRUE,FILA,Shoes,https://iprice.sg/fila/shoes/women/,https://p.ipricegroup.com/e601bbcf5d0953c285458d52e1e22cf093199ff4_0.jpg,https://iprice.sg/louis-vuitton/bags/
+,,,,,,,,,,,,,,https://iprice.sg/mcm/bags/women/
+,,,,,,,,,TRUE,Adidas,Shoes,https://iprice.sg/adidas/shoes/women/,https://p.ipricegroup.com/5bfea665021d1b72e0e67871aa32d5c41b3c3035_0.jpg,https://iprice.sg/bvlgari/watches/
+,,,,,,,,,TRUE,Fossil,Watches,https://iprice.sg/fossil/watches/women/,https://p.ipricegroup.com/c94308712c4a5166d1c3090f0bf9ba09d8ff4f20_0.jpg,https://iprice.sg/issey-miyake/bags/
+,,,,,,,,,,,,,,https://iprice.sg/anello/bags/
+,,,,,,,,,TRUE,Jaeger-LeCoultre,Luxury,https://iprice.sg/jaeger-lecoultre/reverso/watches/women/luxury/,https://p.ipricegroup.com/4ce93f060c399c7fe8cb846316683c700d59f58a_0.jpg,https://iprice.sg/breitling/watches/
+,,,,,,,,,FALSE,Giordano,Clothing,,,https://iprice.sg/salvatore-ferragamo/shoes/
+,,,,,,,,,TRUE,TAG Heuer,Watches,https://iprice.sg/tag-heuer/watches/women/,https://p.ipricegroup.com/2a4f0739eb4e74aa059db1b95c5550c4c241ca56_0.jpg,https://iprice.sg/gucci/bags/sling/
 PLP-FA-Brand-Carousel,section5_brand,link,Popular Fashion Brands,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Adidas,https://a.ipricegroup.com/media/Zach__2_/adidas.png,https://iprice.sg/adidas/,,,,,,
@@ -216,7 +220,7 @@ PLP-FA-Brand-Carousel,section5_brand,link,Popular Fashion Brands,,,items,,,,,,,,
 ,,,,,,Nike,https://a.ipricegroup.com/media/Zach__2_/nike.png,https://iprice.sg/nike/,,,,,,
 ,,,,,,ZALORA,https://a.ipricegroup.com/brand/zalora.jpg,https://iprice.sg/zalora/,,,,,,
 ,,,,,,Zalia,https://a.ipricegroup.com/brand/zalia.jpg,https://iprice.sg/zalia/,,,,,,
-,,,,,,Longchamp,https://a.ipricegroup.com/brand/longchamp.jpg,https://iprice.sg/longchamp/,,,,,,
+,,,,,,,,https://iprice.sg/longchamp/,,,,,,
 ,,,,,,Zara,https://a.ipricegroup.com/brand/zara.jpg,https://iprice.sg/zara/,,,,,,
 ,,,,,,Cotton On,https://a.ipricegroup.com/media/Zach__2_/cotton-on.png,https://iprice.sg/cotton-on/,,,,,,
 ,,,,,,Rolex,https://a.ipricegroup.com/brand/rolex.jpg,https://iprice.sg/rolex/,,,,,,
@@ -321,7 +325,7 @@ PLP-HB-BrandCategory-Carousel,section13,fashion-panel,Shop Health & Beauty,,,ite
 ,,,,,,brand-name,name,image-url,url,,,,,
 ,,,,,,Jo Malone,Perfume,https://p.ipricegroup.com/bfb4fb13deafc5f8fe4d0db2914996dc59b4c99a_0.jpg,https://iprice.sg/jo-malone/perfume/,,,,,
 ,,,,,,Okamoto,Condoms,https://p.ipricegroup.com/6c27a5401b8a2eed7a5a51f04467cf8b34b8e991_0.jpg,https://iprice.sg/okamoto/medical-supplies/personal-pleasure/condoms/,,,,,
-,,,,,,Atomy,Skin Care,https://p.ipricegroup.com/95ce9642dd15a7da7cae88ea5679fee183e3f2ee_0.jpg,https://iprice.sg/atomy/skin-care/,,,,,
+,,,,,,,,,https://iprice.sg/atomy/skin-care/,,,,,
 ,,,,,,innisfree,Masks,https://p.ipricegroup.com/uploaded_9f1879aba46cba2f3dc3ee8f3f3ca4c3.jpg,https://iprice.sg/innisfree/skin-care/face/masks/,,,,,
 ,,,,,,Yves Saint Laurent,Lipsticks,https://p.ipricegroup.com/995921559090aef096b51b82f7528ff8cbf96ced_0.jpg,https://iprice.sg/yves-saint-laurent/makeup/lips/lipsticks/,,,,,
 ,,,,,,M.A.C,Lipsticks,https://p.ipricegroup.com/uploaded_5cb8efce5a22137aa3c03d019e8fbce9.jpg,https://iprice.sg/mac/makeup/lips/lipsticks/,,,,,
@@ -344,12 +348,12 @@ PLP-HB-Brand-Carousel,section13_brand,link,,,,items,,,,,,,,
 ,,,,,,Innisfree,https://a.ipricegroup.com/brand/innisfree.jpg,https://iprice.sg/innisfree/,,,,,,
 ,,,,,,Sephora,https://a.ipricegroup.com/media/Zach__2_/sephora.png,https://iprice.sg/sephora/,,,,,,
 ,,,,,,Colourpop,https://a.ipricegroup.com/brand/colourpop.jpg,https://iprice.sg/colourpop/,,,,,,
-,,,,,,Eu Yan Sang,https://a.ipricegroup.com/brand/eu-yan-sang.jpg,https://iprice.sg/eu-yan-sang/,,,,,,
+,,,,,,Eu Yan Sang,,https://iprice.sg/eu-yan-sang/,,,,,,
 ,,,,,,LANEIGE,https://a.ipricegroup.com/brand/laneige.jpg,https://iprice.sg/laneige/,,,,,,
 ,,,,,,GNC,https://a.ipricegroup.com/brand/gnc.jpg,https://iprice.sg/gnc/,,,,,,
 ,,,,,,Etude House,https://a.ipricegroup.com/brand/etude-house.jpg,https://iprice.sg/etude-house/,,,,,,
 ,,,,,,Young Living,https://a.ipricegroup.com/brand/young-living.jpg,https://iprice.sg/young-living/,,,,,,
-,,,,,,The Body Shop,https://a.ipricegroup.com/brand/the-body-shop.jpg,https://iprice.sg/the-body-shop/,,,,,,
+,,,,,,The Body Shop,,https://iprice.sg/the-body-shop/,,,,,,
 ,,,,,,Herbalife,https://a.ipricegroup.com/brand/herbalife.jpg,https://iprice.sg/herbalife/,,,,,,
 ,,,,,,LUSH,https://a.ipricegroup.com/brand/lush.jpg,https://iprice.sg/lush/,,,,,,
 ,,,,,,Bath & Body Works,https://a.ipricegroup.com/brand/bath-body-works.jpg,https://iprice.sg/bath-body-works/,,,,,,
@@ -363,7 +367,7 @@ PLP-HB-Brand-Carousel,section13_brand,link,,,,items,,,,,,,,
 ,,,,,,MEDICUBE,https://a.ipricegroup.com/brand/medicube.jpg,https://iprice.sg/medicube/,,,,,,
 ,,,,,,Jo Malone,https://a.ipricegroup.com/brand/jo-malone.jpg,https://iprice.sg/jo-malone/,,,,,,
 ,,,,,,Tarte,https://a.ipricegroup.com/brand/tarte.jpg,https://iprice.sg/tarte/,,,,,,
-,,,,,,Panadol,https://a.ipricegroup.com/brand/panadol.jpg,https://iprice.sg/panadol/,,,,,,
+,,,,,,Panadol,,https://iprice.sg/panadol/,,,,,,
 ,,,,,,Cetaphil,https://a.ipricegroup.com/brand/cetaphil.jpg,https://iprice.sg/cetaphil/,,,,,,
 ,,,,,,Benefit,https://a.ipricegroup.com/brand/benefit.jpg,https://iprice.sg/benefit/,,,,,,
 ,,,,,,Skin Inc,https://a.ipricegroup.com/brand/skin-inc.jpg,https://iprice.sg/skin-inc/,,,,,,
@@ -478,7 +482,7 @@ PDP-HB-Carousel,section2,product-carousel,,,,items,,,,,,,,
 ,,,,,,Innisfree Super Volcanic Pore Clay Mask,S$ 9.90,10,https://p.ipricegroup.com/uploaded_9f1879aba46cba2f3dc3ee8f3f3ca4c3.jpg,https://iprice.sg/compare/innisfree-super-volcanic-pore-clay-mask/,,,,
 ,,,,,,SK-II Facial Treatment Essence,S$ 14.90,6,https://p.ipricegroup.com/uploaded_121ffe768b93ad0443c67c92bc96a80c.jpg,https://iprice.sg/compare/sk-ii-facial-treatment-essence/,,,,
 ,,,,,,Colourpop Lippie Stix,S$ 7.75,4,https://p.ipricegroup.com/uploaded_44d6cb864b134423d608215453591514.jpg,https://iprice.sg/compare/colourpop-lippie-stix/,,,,
-,,,,,,Maybelline Fit Me Foundation Matte Poreless,S$ 13.90,5,https://p.ipricegroup.com/uploaded_e8dddad35747641d0a61e4b2e37d7e0f.jpg,https://iprice.sg/compare/maybelline-fit-me-foundation-matte-poreless/,,,,
+,,,,,,,,,,https://iprice.sg/compare/maybelline-fit-me-foundation-matte-poreless/,,,,
 PDP-HB-SeeMore,section2,product-carousel,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Philips Series 5000 BT5200/15,https://p.ipricegroup.com/uploaded_b07a8364cc4d886ef001ca7633ac949a.jpg,https://iprice.sg/compare/philips-series-5000-bt520015/,,,,,,
@@ -498,8 +502,8 @@ PDP-PLP-SeeMore,section10,link,More Products,1234,1234,items,,,,,,,,
 ,,,,,,IKEA,https://p.ipricegroup.com/493937a0192a7132b163964875d34f701291ace4_0.jpg,https://iprice.sg/ikea/,,,,,,
 ,,,,,,TOTO,https://p.ipricegroup.com/e931a5a664d3a86a9bb3d191244a84d2322973e0_0.jpg,https://iprice.sg/toto/,,,,,,
 ,,,,,,TOME,https://p.ipricegroup.com/86e9df3ec036f77e5e414145999574ec6b6e436c_0.jpg,https://iprice.sg/tome/,,,,,,
-,,,,,,Air Fryers,https://p.ipricegroup.com/21894561_0.jpg,https://iprice.sg/appliances/fryers/air/,,,,,,
-,,,,,,Air Beds,https://p.ipricegroup.com/3852704ad1d5f209ebc5526bbbc5e780b620bfbd_0.jpg,https://iprice.sg/bedroom/beds/air/,,,,,,
+,,,,,,Air,https://p.ipricegroup.com/21894561_0.jpg,https://iprice.sg/appliances/fryers/air/,,,,,,
+,,,,,,Air,https://p.ipricegroup.com/3852704ad1d5f209ebc5526bbbc5e780b620bfbd_0.jpg,https://iprice.sg/bedroom/beds/air/,,,,,,
 ,,,,,,Movies,https://p.ipricegroup.com/6298a37ac674a743aa3278ab93f73cbc6cec0d9a_0.jpg,https://iprice.sg/hobbies/movies/,,,,,,
 ,,,,,,Luxury,https://p.ipricegroup.com/b604056dd6e08f30519bd1fc0da14b1bad13ab71_0.jpg,https://iprice.sg/watches/luxury/,,,,,,
 ,,,,,,MUJI,https://p.ipricegroup.com/ab6d370bc31ff6ef94f7fe66f7ca5ebd753ec0be_0.jpg,https://iprice.sg/muji/,,,,,,

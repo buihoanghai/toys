@@ -143,10 +143,10 @@ PDP-EL-Carousel,section1,product-carousel,,,,items,,,,,,,,
 ,,,,,,Nokia 8,"HK$ 2,582.47",1,https://p.ipricegroup.com/uploaded_bd2f6e5f30ec2dcc58c9a1fa4416bebf.jpg,https://iprice.hk/compare/nokia-8/,,,,
 ,,,,,,Nokia 6,"HK$ 1,405.05",1,https://p.ipricegroup.com/uploaded_ea1afd2609b2fe00330cfc8dadd05d95.jpg,https://iprice.hk/compare/nokia-6/,,,,
 ,,,,,,Acer Aspire VX5-591G,"HK$ 6,976.36",1,https://p.ipricegroup.com/uploaded_a022f105e7703e4470ee730d5253d78e.jpg,https://iprice.hk/compare/acer-aspire-vx5-591g/,,,,
-,,,,,,Samsung Galaxy S8 Plus,"HK$ 5,167.05",1,https://p.ipricegroup.com/uploaded_4d8a4ed4148bd1b78c3d0c10b2ba8ac6.jpg,https://iprice.hk/compare/samsung-galaxy-s8-plus/,,,,
-,,,,,,Huawei Nova 2i,"HK$ 2,354.76",1,https://p.ipricegroup.com/uploaded_28e85dcc986fdc5a8a3fc2e9e3c99957.jpg,https://iprice.hk/compare/huawei-nova-2i/,,,,
-,,,,,,Huawei Mate 10,"HK$ 3,450.54",2,https://p.ipricegroup.com/uploaded_98875d420da84e66df97ff47341a0449.jpg,https://iprice.hk/compare/huawei-mate-10/,,,,
-,,,,,,Huawei Mate 10,"HK$ 3,450.54",2,https://p.ipricegroup.com/uploaded_98875d420da84e66df97ff47341a0449.jpg,https://iprice.hk/compare/huawei-mate-10/,,,,
+,,,,,,,,,,https://iprice.hk/compare/samsung-galaxy-s8-plus/,,,,
+,,,,,,,,,,https://iprice.hk/compare/huawei-nova-2i/,,,,
+,,,,,,,,,,https://iprice.hk/compare/huawei-mate-10/,,,,
+,,,,,,,,,,https://iprice.hk/compare/huawei-mate-10/,,,,
 PDP-EL-SeeMore,section1_link,link,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Apple iPhone Xr,https://p.ipricegroup.com/uploaded_31ecdef0ef7fb7cd83a766426fbb7c8b.jpg,https://iprice.hk/compare/apple-iphone-xr/,,,,,,
@@ -172,47 +172,47 @@ PDP-EL-SeeMore,section1_link,link,,,,items,,,,,,,,
 PLP-FA-BrandCategory-Men-Carousel,section4,fashion-panel,Shop Men's Fashion,https://iprice.hk/clothing/men/,,image-url,,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/SGHK_men-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,TRUE,Nike,Shoes,https://iprice.hk/nike/shoes/,https://p.ipricegroup.com/46c06e0fcad25c00753f357ad79281e30c07be2d_0.jpg,https://iprice.hk/nike/shoes/
-,,,,,,,,,TRUE,Adidas,Shoes,https://iprice.hk/adidas/shoes/,https://p.ipricegroup.com/872409213683da6d5faa16c0855b8a84d0fa0e96_0.jpg,https://iprice.hk/adidas/shoes/
-,,,,,,,,,TRUE,PUMA,Shoes,https://iprice.hk/puma/shoes/,https://p.ipricegroup.com/8c65009ae506e99ad23d46744f336c64472e22da_0.jpg,https://iprice.hk/puma/shoes/
-,,,,,,,,,TRUE,Tudor,Watches,https://iprice.hk/tudor/watches/,https://p.ipricegroup.com/dc8c2092d7afd590aafdf236b0998bf1c3329df3_0.jpg,https://iprice.hk/tudor/watches/
-,,,,,,,,,TRUE,Birkenstock,Shoes,https://iprice.hk/birkenstock/shoes/,https://p.ipricegroup.com/6cce23565aa3c822d0db8fdbd142b27353b795b1_0.jpg,https://iprice.hk/birkenstock/shoes/
-,,,,,,,,,TRUE,Valentino,Shoes,https://iprice.hk/valentino/shoes/,https://p.ipricegroup.com/84d9b3496d3dfc16ead7751e6f1026b0e470933d_0.jpg,https://iprice.hk/valentino/shoes/
-,,,,,,,,,TRUE,ORIS,Watches,https://iprice.hk/oris/watches/,https://p.ipricegroup.com/0904bc81f792e64676e37af544c5fa249c36b693_0.jpg,https://iprice.hk/oris/watches/
-,,,,,,,,,TRUE,IWC,Watches,https://iprice.hk/iwc/watches/,https://p.ipricegroup.com/91b4374fe820463d56ba1bb2ce284806573f51a2_0.jpg,https://iprice.hk/iwc/watches/
-,,,,,,,,,TRUE,Rado,Watches,https://iprice.hk/rado/watches/,https://p.ipricegroup.com/b41d5aa0b486db737c4dd13eb599cede256bdc14_0.jpg,https://iprice.hk/rado/watches/
-,,,,,,,,,TRUE,Tissot,Watches,https://iprice.hk/tissot/watches/,https://p.ipricegroup.com/41edc0628ffd42de78273b51ad139d252d57c7f3_0.jpg,https://iprice.hk/tissot/watches/
-,,,,,,,,,TRUE,TOMS,Shoes,https://iprice.hk/toms/shoes/,https://p.ipricegroup.com/028976c047268dcdc7055ec6883a04b5d06a0451_0.jpg,https://iprice.hk/toms/shoes/
-,,,,,,,,,TRUE,Cole Haan,Shoes,https://iprice.hk/cole-haan/shoes/,https://p.ipricegroup.com/3c7b719bc091312691e0eda4c489db5c72818e27_0.jpg,https://iprice.hk/cole-haan/shoes/
-,,,,,,,,,TRUE,Gucci,Belts,https://iprice.hk/gucci/clothing/belts/,https://p.ipricegroup.com/b05091fde539f63b891b14d0396c3cad06f80566_0.jpg,https://iprice.hk/gucci/clothing/belts/
-,,,,,,,,,TRUE,Armani,Watches,https://iprice.hk/armani/watches/,https://p.ipricegroup.com/03bf4de0a88058eb33fff8a30483c21c16248ba0_0.jpg,https://iprice.hk/armani/watches/
-,,,,,,,,,TRUE,BVLGARI,Watches,https://iprice.hk/bvlgari/watches/,https://p.ipricegroup.com/225687a8fbedcbbb9c2cced1e49123957c94ad99_0.jpg,https://iprice.hk/bvlgari/watches/
-,,,,,,,,,TRUE,Merrell,Shoes,https://iprice.hk/merrell/shoes/,https://p.ipricegroup.com/0e5c3abd392898181c1ec377da412245a8bf1fd0_0.jpg,https://iprice.hk/merrell/shoes/
-,,,,,,,,,TRUE,ORIENT,Watches,https://iprice.hk/orient/watches/,https://p.ipricegroup.com/6d2491ffbe3be76c2b1001be5692d5ced1963571_0.jpg,https://iprice.hk/orient/watches/
-,,,,,,,,,TRUE,Paul Smith,Wallets,https://iprice.hk/paul-smith/bags/wallets/,https://p.ipricegroup.com/1f8cfceebcd1dbcc931a3b8a09fede8daed41b8c_0.jpg,https://iprice.hk/paul-smith/bags/wallets/
-,,,,,,,,,TRUE,Citizen,Watches,https://iprice.hk/citizen/watches/,https://p.ipricegroup.com/c8161f34b37e2f6a6a89a3db9fe1272478064cc8_0.jpg,https://iprice.hk/citizen/watches/
+,,,,,,,,,TRUE,Nike,Shoes,https://iprice.hk/nike/shoes/men/,https://p.ipricegroup.com/46c06e0fcad25c00753f357ad79281e30c07be2d_0.jpg,https://iprice.hk/nike/shoes/
+,,,,,,,,,TRUE,Adidas,Shoes,https://iprice.hk/adidas/shoes/men/,https://p.ipricegroup.com/872409213683da6d5faa16c0855b8a84d0fa0e96_0.jpg,https://iprice.hk/adidas/shoes/
+,,,,,,,,,TRUE,PUMA,Shoes,https://iprice.hk/puma/shoes/men/,https://p.ipricegroup.com/6e42b4596ffd1f6fd02f72f66aefd415474b9fbb_0.jpg,https://iprice.hk/puma/shoes/
+,,,,,,,,,TRUE,Tudor,Watches,https://iprice.hk/tudor/watches/men/,https://p.ipricegroup.com/dc8c2092d7afd590aafdf236b0998bf1c3329df3_0.jpg,https://iprice.hk/tudor/watches/
+,,,,,,,,,TRUE,Birkenstock,Shoes,https://iprice.hk/birkenstock/shoes/men/,https://p.ipricegroup.com/5929a9ab1d2b280816ecb1f54f6547a63e71d25d_0.jpg,https://iprice.hk/birkenstock/shoes/
+,,,,,,,,,TRUE,Valentino,Shoes,https://iprice.hk/valentino/shoes/men/,https://p.ipricegroup.com/ffea6b7987166a68bbfe21edbf06059e957af06e_0.jpg,https://iprice.hk/valentino/shoes/
+,,,,,,,,,TRUE,ORIS,Watches,https://iprice.hk/oris/watches/men/,https://p.ipricegroup.com/0904bc81f792e64676e37af544c5fa249c36b693_0.jpg,https://iprice.hk/oris/watches/
+,,,,,,,,,TRUE,IWC,Watches,https://iprice.hk/iwc/watches/men/,https://p.ipricegroup.com/91b4374fe820463d56ba1bb2ce284806573f51a2_0.jpg,https://iprice.hk/iwc/watches/
+,,,,,,,,,TRUE,Rado,Watches,https://iprice.hk/rado/watches/men/,https://p.ipricegroup.com/b41d5aa0b486db737c4dd13eb599cede256bdc14_0.jpg,https://iprice.hk/rado/watches/
+,,,,,,,,,TRUE,Tissot,Watches,https://iprice.hk/tissot/watches/men/,https://p.ipricegroup.com/41edc0628ffd42de78273b51ad139d252d57c7f3_0.jpg,https://iprice.hk/tissot/watches/
+,,,,,,,,,TRUE,TOMS,Shoes,https://iprice.hk/toms/shoes/men/,https://p.ipricegroup.com/974a18c57351b6d3e5ce2b7eeda9dad4fdfd66a0_0.jpg,https://iprice.hk/toms/shoes/
+,,,,,,,,,TRUE,Cole Haan,Shoes,https://iprice.hk/cole-haan/shoes/men/,https://p.ipricegroup.com/725f10ee4766af8547f9d707f3b1105a4fea90ab_0.jpg,https://iprice.hk/cole-haan/shoes/
+,,,,,,,,,TRUE,Gucci,Belts,https://iprice.hk/gucci/clothing/men/belts/,https://p.ipricegroup.com/b05091fde539f63b891b14d0396c3cad06f80566_0.jpg,https://iprice.hk/gucci/clothing/belts/
+,,,,,,,,,TRUE,Armani,Watches,https://iprice.hk/armani/watches/men/,https://p.ipricegroup.com/f18c0ea0d4129d430474f1ab721aae8022145a6c_0.jpg,https://iprice.hk/armani/watches/
+,,,,,,,,,TRUE,Furla,Bags,https://iprice.hk/furla/bags/men/,https://p.ipricegroup.com/ad2eca295716b4f57aeaaa385eb8d0415a6ae81c_0.jpg,https://iprice.hk/furla/bags/
+,,,,,,,,,TRUE,Merrell,Shoes,https://iprice.hk/merrell/shoes/men/,https://p.ipricegroup.com/0e5c3abd392898181c1ec377da412245a8bf1fd0_0.jpg,https://iprice.hk/merrell/shoes/
+,,,,,,,,,TRUE,ORIENT,Watches,https://iprice.hk/orient/watches/men/,https://p.ipricegroup.com/6d2491ffbe3be76c2b1001be5692d5ced1963571_0.jpg,https://iprice.hk/orient/watches/
+,,,,,,,,,TRUE,Paul Smith,Wallets,https://iprice.hk/paul-smith/bags/men/wallets/,https://p.ipricegroup.com/1f8cfceebcd1dbcc931a3b8a09fede8daed41b8c_0.jpg,https://iprice.hk/paul-smith/bags/wallets/
+,,,,,,,,,TRUE,Citizen,Watches,https://iprice.hk/citizen/watches/men/,https://p.ipricegroup.com/c8161f34b37e2f6a6a89a3db9fe1272478064cc8_0.jpg,https://iprice.hk/citizen/watches/
 PLP-FA-BrandCategory-Women-Carousel,section5,fashion-panel,Shop Women's Fashion,https://iprice.hk/clothing/women/,,image-url,url,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/SGHK_women-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,TRUE,Coach,Bags,https://iprice.hk/coach/bags/,https://p.ipricegroup.com/6b92d2b897efc319a1be3890dbbad0b427b8374e_0.jpg,https://iprice.hk/coach/bags/
-,,,,,,,,,TRUE,Kate Spade New York,Bags,https://iprice.hk/kate-spade-new-york/bags/,https://p.ipricegroup.com/9e49faf1b6827a98c3cd0353e900bc168803e25b_0.jpg,https://iprice.hk/kate-spade-new-york/bags/
-,,,,,,,,,TRUE,Yves Saint Laurent,Bags,https://iprice.hk/yves-saint-laurent/bags/,https://p.ipricegroup.com/f9314f12dc3c40fefbb502bccc552e327736cb80_0.jpg,https://iprice.hk/yves-saint-laurent/bags/
-,,,,,,,,,TRUE,ZAFUL,Clothing,https://iprice.hk/zaful/clothing/,https://p.ipricegroup.com/36fee5414abb1dc58e4438b5b59301a30ab9d8ce_0.jpg,https://iprice.hk/zaful/clothing/
-,,,,,,,,,TRUE,Mango,Clothing,https://iprice.hk/mango/clothing/,https://p.ipricegroup.com/8c3700d267223641f495626540c7435fa6e8fcad_0.jpg,https://iprice.hk/mango/clothing/
-,,,,,,,,,TRUE,Longchamp,Bags,https://iprice.hk/longchamp/bags/,https://p.ipricegroup.com/3207112466487b21d4f2e9e835711240827fbe62_0.jpg,https://iprice.hk/longchamp/bags/
-,,,,,,,,,TRUE,SheIn,Clothing,https://iprice.hk/shein/clothing/,https://p.ipricegroup.com/55c6269ec35e1de977b1d46f44ec5dc3ec904c4a_0.jpg,https://iprice.hk/shein/clothing/
-,,,,,,,,,FALSE,Anello,Bags,https://iprice.hk/anello/bags/,https://p.ipricegroup.com/b61ee3338ab1be98834c688a1657257bc8963a75_0.jpg,https://iprice.hk/anello/bags/
-,,,,,,,,,TRUE,Prada,Bags,https://iprice.hk/prada/bags/,https://p.ipricegroup.com/0cab31d258c4f632b3c08b22f62a8b8c00f6fdf0_0.jpg,https://iprice.hk/prada/bags/
-,,,,,,,,,TRUE,Gucci,Bags,https://iprice.hk/gucci/bags/,https://p.ipricegroup.com/f2e934a1946bb229ef48f2f2f71c5a402e27227e_0.jpg,https://iprice.hk/gucci/bags/
-,,,,,,,,,TRUE,Swatch,Watches,https://iprice.hk/swatch/watches/,https://p.ipricegroup.com/0d54cddd7d134461b0af3e1416b4512fa98a6ddd_0.jpg,https://iprice.hk/swatch/watches/
-,,,,,,,,,TRUE,Loewe,Bags,https://iprice.hk/loewe/bags/,https://p.ipricegroup.com/53b5de819ce899bc70d744dee422b50f42f623a8_0.jpg,https://iprice.hk/loewe/bags/
-,,,,,,,,,TRUE,MCM,Bags,https://iprice.hk/mcm/bags/,https://p.ipricegroup.com/cf52cf0a9bc5c72f2df3621f42d69aff6a4b8f45_0.jpg,https://iprice.hk/mcm/bags/
-,,,,,,,,,TRUE,Céline,Bags,https://iprice.hk/celine/bags/,https://p.ipricegroup.com/92a433cfadf8f6ff98ff118d92cf3092d5639514_0.jpg,https://iprice.hk/celine/bags/
-,,,,,,,,,TRUE,Michael Kors,Watches,https://iprice.hk/michael-kors/watches/,https://p.ipricegroup.com/fbdaf44a4f255c841a271f62448c9d659e07e114_0.jpg,https://iprice.hk/michael-kors/watches/
-,,,,,,,,,TRUE,Tory Burch,Bags,https://iprice.hk/tory-burch/bags/,https://p.ipricegroup.com/5d78dad490741117a464eb7a62d336c15cceb128_0.jpg,https://iprice.hk/tory-burch/bags/
-,,,,,,,,,TRUE,Furla,Bags,https://iprice.hk/furla/bags/,https://p.ipricegroup.com/0cd39777dac7b896331eae259a57c1488c730a21_0.jpg,https://iprice.hk/furla/bags/
-,,,,,,,,,TRUE,CHANEL,Bags,https://iprice.hk/chanel/bags/,https://p.ipricegroup.com/710ffeef64eb66db8658cb1bd9e350b0952341b2_0.jpg,https://iprice.hk/chanel/bags/
-,,,,,,,,,TRUE,Louis Vuitton,Bags,https://iprice.hk/louis-vuitton/bags/,https://p.ipricegroup.com/999e73dc9aa64ebcc7c98ee537bdf3d22fc80ef1_0.jpg,https://iprice.hk/louis-vuitton/bags/
+,,,,,,,,,TRUE,Nike,Shoes,https://iprice.hk/nike/shoes/women/,https://p.ipricegroup.com/e8f26db02a3c65be65f6d19a1d3d8a3d036bc9e2_0.jpg,https://iprice.hk/coach/bags/
+,,,,,,,,,TRUE,Adidas,Shoes,https://iprice.hk/adidas/shoes/women/,https://p.ipricegroup.com/93f4ce1cc14d8db4a12b8503d9f0665e056c1e24_0.jpg,https://iprice.hk/kate-spade-new-york/bags/
+,,,,,,,,,TRUE,PUMA,Shoes,https://iprice.hk/puma/shoes/women/,https://p.ipricegroup.com/8c65009ae506e99ad23d46744f336c64472e22da_0.jpg,https://iprice.hk/yves-saint-laurent/bags/
+,,,,,,,,,TRUE,Tudor,Watches,https://iprice.hk/tudor/watches/women/,https://p.ipricegroup.com/ee54ee385adbd1127a4f7adf86b7623b1e4c0262_0.jpg,https://iprice.hk/zaful/clothing/
+,,,,,,,,,TRUE,Birkenstock,Shoes,https://iprice.hk/birkenstock/shoes/women/,https://p.ipricegroup.com/3f90ee479a323873607b5c153e12c1635a91bc0e_0.jpg,https://iprice.hk/mango/clothing/
+,,,,,,,,,TRUE,Valentino,Shoes,https://iprice.hk/valentino/shoes/women/,https://p.ipricegroup.com/84d9b3496d3dfc16ead7751e6f1026b0e470933d_0.jpg,https://iprice.hk/longchamp/bags/
+,,,,,,,,,TRUE,ORIS,Watches,https://iprice.hk/oris/watches/women/,https://p.ipricegroup.com/9f0c4c2bcbf85b6e9130aefdc836f193f1087681_0.jpg,https://iprice.hk/shein/clothing/
+,,,,,,,,,FALSE,IWC,Watches,,,https://iprice.hk/anello/bags/
+,,,,,,,,,TRUE,Rado,Watches,https://iprice.hk/rado/watches/women/,https://p.ipricegroup.com/23b52c7371b884d9b7086c684e347a6f08aff19a_0.jpg,https://iprice.hk/prada/bags/
+,,,,,,,,,TRUE,Tissot,Watches,https://iprice.hk/tissot/watches/women/,https://p.ipricegroup.com/66e5dedb5ac530793d8c68bf42d76e4406721719_0.jpg,https://iprice.hk/gucci/bags/
+,,,,,,,,,TRUE,TOMS,Shoes,https://iprice.hk/toms/shoes/women/,https://p.ipricegroup.com/028976c047268dcdc7055ec6883a04b5d06a0451_0.jpg,https://iprice.hk/swatch/watches/
+,,,,,,,,,TRUE,Cole Haan,Shoes,https://iprice.hk/cole-haan/shoes/women/,https://p.ipricegroup.com/3c7b719bc091312691e0eda4c489db5c72818e27_0.jpg,https://iprice.hk/loewe/bags/
+,,,,,,,,,TRUE,Gucci,Belts,https://iprice.hk/gucci/clothing/women/belts/,https://p.ipricegroup.com/9ece11dddf5c38f202a3fda140dff08c5f3aaa99_0.jpg,https://iprice.hk/mcm/bags/
+,,,,,,,,,TRUE,Armani,Watches,https://iprice.hk/armani/watches/women/,https://p.ipricegroup.com/03bf4de0a88058eb33fff8a30483c21c16248ba0_0.jpg,https://iprice.hk/celine/bags/
+,,,,,,,,,TRUE,Furla,Bags,https://iprice.hk/furla/bags/women/,https://p.ipricegroup.com/0cd39777dac7b896331eae259a57c1488c730a21_0.jpg,https://iprice.hk/michael-kors/watches/
+,,,,,,,,,TRUE,Merrell,Shoes,https://iprice.hk/merrell/shoes/women/,https://p.ipricegroup.com/76dabc9cbd7c2304ba6eb022712377951439dfae_0.jpg,https://iprice.hk/tory-burch/bags/
+,,,,,,,,,TRUE,ORIENT,Watches,https://iprice.hk/orient/watches/women/,https://p.ipricegroup.com/c3857e238cfbbd0a2b496a2d13f3d799cadf1945_0.jpg,https://iprice.hk/bvlgari/watches/
+,,,,,,,,,TRUE,Paul Smith,Wallets,https://iprice.hk/paul-smith/bags/women/wallets/,https://p.ipricegroup.com/fe4f08b56a50a6b1607fc8c4bafa8c5451f7457a_0.jpg,https://iprice.hk/chanel/bags/
+,,,,,,,,,TRUE,Citizen,Watches,https://iprice.hk/citizen/watches/women/,https://p.ipricegroup.com/d265165aa99e17fc3c4753e78aa3ea0f1da32ec4_0.jpg,https://iprice.hk/louis-vuitton/bags/
 PLP-FA-Brand-Carousel,section5_brand,link,Popular Fashion Brands,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Adidas,https://a.ipricegroup.com/media/Zach__2_/adidas.png,https://iprice.hk/adidas/,,,,,,
@@ -342,33 +342,36 @@ PLP-HB-BrandCategory-Carousel,section13,fashion-panel,Shop Health & Beauty,,,ite
 ,,,,,,laura mercier,Face,https://p.ipricegroup.com/bf047219bd28cb6c80d499a179f710700c2382a7_0.jpg,https://iprice.hk/laura-mercier/makeup/face/,,,,,
 ,,,,,,3CE,Lip Makeups,https://p.ipricegroup.com/55495b75adddd51b0ebc8b10b89db8eee84e17e0_0.jpg,https://iprice.hk/3ce/makeup/lips/,,,,,
 ,,,,,,Clarins,Face,https://p.ipricegroup.com/9b233db1a0f140f5fe84fa2276be491ddd88c367_0.jpg,https://iprice.hk/clarins/skin-care/face/,,,,,
-,,,,,,BaByliss,Styling,https://p.ipricegroup.com/f29d6f60e4db94e84d7abfa5fc1fb33c896b1531_0.jpg,https://iprice.hk/babyliss/hair-care/styling/,,,,,
+,,,,,,,,,https://iprice.hk/babyliss/hair-care/styling/,,,,,
 PLP-HB-Brand-Carousel,section13_brand,link,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
-,,,,,,Innisfree,https://a.ipricegroup.com/brand/innisfree.jpg,https://iprice.hk/innisfree/,,,,,,
-,,,,,,Philips,https://a.ipricegroup.com/media/philips_2.png,https://iprice.hk/philips/,,,,,,
-,,,,,,Nature Republic,https://a.ipricegroup.com/brand/nature-republic.jpg,https://iprice.hk/nature-republic/,,,,,,
-,,,,,,Etude House,https://a.ipricegroup.com/brand/etude-house.jpg,https://iprice.hk/etude-house/,,,,,,
-,,,,,,Kiehl's,https://a.ipricegroup.com/brand/kiehls.jpg,https://iprice.hk/kiehls/,,,,,,
-,,,,,,Sulwhasoo,https://a.ipricegroup.com/brand/sulwhasoo.jpg,https://iprice.hk/sulwhasoo/,,,,,,
-,,,,,,NARS,https://a.ipricegroup.com/brand/nars.jpg,https://iprice.hk/nars/,,,,,,
-,,,,,,Mac,https://a.ipricegroup.com/brand/mac.jpg,https://iprice.hk/mac/,,,,,,
-,,,,,,MUJI,https://a.ipricegroup.com/brand/muji.jpg,https://iprice.hk/muji/,,,,,,
-,,,,,,L'occitane,https://a.ipricegroup.com/brand/loccitane.jpg,https://iprice.hk/loccitane/,,,,,,
-,,,,,,Origins,https://a.ipricegroup.com/brand/origins.jpg,https://iprice.hk/origins/,,,,,,
-,,,,,,Dior,https://a.ipricegroup.com/media/Zach__2_/dior.png,https://iprice.hk/dior/,,,,,,
-,,,,,,Estée Lauder,https://a.ipricegroup.com/brand/estee-lauder.jpg,https://iprice.hk/estee-lauder/,,,,,,
-,,,,,,Jo Malone,https://a.ipricegroup.com/brand/jo-malone.jpg,https://iprice.hk/jo-malone/,,,,,,
-,,,,,,Clinique,https://a.ipricegroup.com/brand/clinique.jpg,https://iprice.hk/clinique/,,,,,,
-,,,,,,HERMÈS,https://a.ipricegroup.com/brand/hermes.jpg,https://iprice.hk/hermes/,,,,,,
-,,,,,,SOFINA,https://a.ipricegroup.com/brand/sofina.jpg,https://iprice.hk/sofina/,,,,,,
-,,,,,,IOPE,https://a.ipricegroup.com/brand/iope.jpg,https://iprice.hk/iope/,,,,,,
-,,,,,,Benefit,https://a.ipricegroup.com/brand/benefit.jpg,https://iprice.hk/benefit/,,,,,,
-,,,,,,Bobbi Brown,https://a.ipricegroup.com/brand/bobbi-brown.jpg,https://iprice.hk/bobbi-brown/,,,,,,
-,,,,,,Lancôme,https://a.ipricegroup.com/brand/lancome.jpg,https://iprice.hk/lancome/,,,,,,
-,,,,,,LANEIGE,https://a.ipricegroup.com/brand/laneige.jpg,https://iprice.hk/laneige/,,,,,,
-,,,,,,Aveeno,https://a.ipricegroup.com/brand/aveeno.jpg,https://iprice.hk/aveeno/,,,,,,
-,,,,,,,https://a.ipricegroup.com/media/homepage/EN_allbrands.jpg,https://iprice.hk/brands/,,,,,,
+,,,,,,Innisfree,https://a.ipricegroup.com/brand/babyliss.jpg,https://iprice.hk/innisfree/,,,,,,
+,,,,,,Philips,https://a.ipricegroup.com/brand/innisfree.jpg,https://iprice.hk/philips/,,,,,,
+,,,,,,Nature Republic,https://a.ipricegroup.com/media/philips_2.png,https://iprice.hk/nature-republic/,,,,,,
+,,,,,,Etude House,https://a.ipricegroup.com/brand/nature-republic.jpg,https://iprice.hk/etude-house/,,,,,,
+,,,,,,Kiehl's,https://a.ipricegroup.com/brand/etude-house.jpg,https://iprice.hk/kiehls/,,,,,,
+,,,,,,Sulwhasoo,https://a.ipricegroup.com/brand/kiehls.jpg,https://iprice.hk/sulwhasoo/,,,,,,
+,,,,,,NARS,https://a.ipricegroup.com/brand/sulwhasoo.jpg,https://iprice.hk/nars/,,,,,,
+,,,,,,Mac,https://a.ipricegroup.com/brand/nars.jpg,https://iprice.hk/mac/,,,,,,
+,,,,,,Daiso,https://a.ipricegroup.com/brand/mac.jpg,https://iprice.hk/daiso/,,,,,,
+,,,,,,MUJI,,https://iprice.hk/muji/,,,,,,
+,,,,,,L'occitane,https://a.ipricegroup.com/brand/muji.jpg,https://iprice.hk/loccitane/,,,,,,
+,,,,,,Origins,https://a.ipricegroup.com/brand/loccitane.jpg,https://iprice.hk/origins/,,,,,,
+,,,,,,Dior,https://a.ipricegroup.com/brand/origins.jpg,https://iprice.hk/dior/,,,,,,
+,,,,,,Estée Lauder,https://a.ipricegroup.com/media/Zach__2_/dior.png,https://iprice.hk/estee-lauder/,,,,,,
+,,,,,,Jo Malone,https://a.ipricegroup.com/brand/estee-lauder.jpg,https://iprice.hk/jo-malone/,,,,,,
+,,,,,,Clinique,https://a.ipricegroup.com/brand/jo-malone.jpg,https://iprice.hk/clinique/,,,,,,
+,,,,,,HERMÈS,https://a.ipricegroup.com/brand/clinique.jpg,https://iprice.hk/hermes/,,,,,,
+,,,,,,Orbis,https://a.ipricegroup.com/brand/hermes.jpg,https://iprice.hk/orbis/,,,,,,
+,,,,,,SOFINA,,https://iprice.hk/sofina/,,,,,,
+,,,,,,IOPE,https://a.ipricegroup.com/brand/sofina.jpg,https://iprice.hk/iope/,,,,,,
+,,,,,,Benefit,https://a.ipricegroup.com/brand/iope.jpg,https://iprice.hk/benefit/,,,,,,
+,,,,,,Bobbi Brown,https://a.ipricegroup.com/brand/benefit.jpg,https://iprice.hk/bobbi-brown/,,,,,,
+,,,,,,IPSA,https://a.ipricegroup.com/brand/bobbi-brown.jpg,https://iprice.hk/ipsa/,,,,,,
+,,,,,,Lancôme,,https://iprice.hk/lancome/,,,,,,
+,,,,,,LANEIGE,https://a.ipricegroup.com/brand/lancome.jpg,https://iprice.hk/laneige/,,,,,,
+,,,,,,Aveeno,https://a.ipricegroup.com/brand/laneige.jpg,https://iprice.hk/aveeno/,,,,,,
+,,,,,,,https://a.ipricegroup.com/brand/aveeno.jpg,https://iprice.hk/brands/,,,,,,
 PLP-HB-Category-Carousel,section14,product-carousel,,,,,,,,,,,,
 ,,,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
@@ -478,7 +481,7 @@ PDP-HB-Carousel,section2,product-carousel,,,,items,,,,,,,,
 ,,,,,,Shiseido WHITE LUCENT Brightening Protective Emulsion W,HK$ 86.34,2,https://p.ipricegroup.com/37bad3b39b61ff127739530d7c443c07d639ea15_0.jpg,https://iprice.hk/compare/shiseido-white-lucent-brightening-protective-emulsion-w/,,,,
 ,,,,,,Innisfree Jeju Volcanic Pore Clay Mask 100ml,HK$ 58.32,2,https://p.ipricegroup.com/3f48bd3dc4e52da960222135a069937766dccf6c_0.jpg,https://iprice.hk/compare/innisfree-jeju-volcanic-pore-clay-mask-100ml/,,,,
 ,,,,,,Etude House Moistfull Collagen Water Jelly Cream,HK$ 82.58,3,https://p.ipricegroup.com/393e872b27521d6c5d2b1aa5f7c1440f1e3456fc_0.jpg,https://iprice.hk/compare/etude-house-moistfull-collagen-water-jelly-cream/,,,,
-,,,,,,Innisfree No Sebum Mineral Powder,HK$ 29.12,5,https://p.ipricegroup.com/uploaded_c8b566f4553886ff5284bc16a27011a6.jpg,https://iprice.hk/compare/innisfree-no-sebum-mineral-powder/,,,,
+,,,,,,,,,,https://iprice.hk/compare/innisfree-no-sebum-mineral-powder/,,,,
 PDP-HB-SeeMore,section2,product-carousel,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Foreo Luna Mini 2,https://p.ipricegroup.com/uploaded_d04c225e7883604364f6e446e33928f9.jpg,https://iprice.hk/compare/foreo-luna-mini-2/,,,,,,

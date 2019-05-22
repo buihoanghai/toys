@@ -62,7 +62,7 @@ PLP-EL-Brand-Carousel,section3_brand,catagory-carousel-no-text,,,,items,,,,,,,,
 ,,,,,,LG,https://a.ipricegroup.com/media/lg.png,https://iprice.vn/lg/,,,,,,
 ,,,,,,Lenovo,https://a.ipricegroup.com/media/lenovos.png,https://iprice.vn/lenovo/,,,,,,
 ,,,,,,Canon,https://a.ipricegroup.com/media/canon_2.png,https://iprice.vn/canon/,,,,,,
-,,,,,,COOLPAD,https://a.ipricegroup.com/brand/coolpad.jpg,https://iprice.vn/coolpad/,,,,,,
+,,,,,,COOLPAD,,https://iprice.vn/coolpad/,,,,,,
 ,,,,,,,https://a.ipricegroup.com/media/homepage/VN_allbrands.jpg,https://iprice.vn/brands/,,,,,,
 PLP-EL-Category-Carousel,section11,product-carousel,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
@@ -144,7 +144,7 @@ PDP-EL-Carousel,section1,product-carousel,,,,items,,,,,,,,
 ,,,,,,Vivo Y81,3.719.000 đ,6,https://p.ipricegroup.com/uploaded_1be5391f1aebcc608201c7ca28de4dcb.jpg,https://iprice.vn/gia-ban/vivo-y81/,,,,
 ,,,,,,Nokia 7 Plus,8.990.000 đ,3,https://p.ipricegroup.com/uploaded_febe209fd976a0c774c09f5f1ef8a158.jpg,https://iprice.vn/gia-ban/nokia-7-plus/,,,,
 ,,,,,,OPPO A3s,2.150.000 đ,9,https://p.ipricegroup.com/uploaded_90c31425747129b9c1dad7f3d185b4f1.jpg,https://iprice.vn/gia-ban/oppo-a3s/,,,,
-,,,,,,Huawei Nova 3i,5.350.000 đ,9,https://p.ipricegroup.com/uploaded_374e006ec1f6febb2f1c97a9b86bd61e.jpg,https://iprice.vn/gia-ban/huawei-nova-3i/,,,,
+,,,,,,Huawei Nova 3i,5.290.000 đ,9,https://p.ipricegroup.com/uploaded_374e006ec1f6febb2f1c97a9b86bd61e.jpg,https://iprice.vn/gia-ban/huawei-nova-3i/,,,,
 ,,,,,,Samsung Galaxy J7 Plus,5.500.000 đ,8,https://p.ipricegroup.com/uploaded_9b7731264b3072a147ec4a023f170414.jpg,https://iprice.vn/gia-ban/samsung-galaxy-j7-plus/,,,,
 PDP-EL-SeeMore,section1_link,link,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
@@ -171,48 +171,47 @@ PDP-EL-SeeMore,section1_link,link,,,,items,,,,,,,,
 PLP-FA-BrandCategory-Men-Carousel,section4,fashion-panel,Thời trang Nam,https://iprice.vn/quan-ao/nam/,,image-url,,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/VN_men-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,TRUE,Adidas,Quần áo thời trang,https://iprice.vn/adidas/quan-ao/,https://p.ipricegroup.com/281d9f6f8e229cb2cafd6b2f05135cdb4c38db83_0.jpg,https://iprice.vn/adidas/quan-ao/
-,,,,,,,,,TRUE,Adidas,Giày sneaker,https://iprice.vn/adidas/prophere/giay-dep/giay-sneaker/,https://p.ipricegroup.com/3e73d82d40c2eca3b5617f95aa59654993fb184b_0.jpg,https://iprice.vn/adidas/prophere/giay-dep/giay-sneaker/
-,,,,,,,,,TRUE,SoYoung,Áo sơ mi,https://iprice.vn/soyoung/quan-ao/ao-so-mi/,https://p.ipricegroup.com/ee32f5595cc572b2a8bd4ddfbd4042644577f52a_0.jpg,https://iprice.vn/soyoung/quan-ao/ao-so-mi/
-,,,,,,,,,TRUE,Manchester United,Quần áo thời trang,https://iprice.vn/manchester-united/quan-ao/,https://p.ipricegroup.com/f62b5ff83102f9b4f6c63305bafdc6d396dfcf23_0.jpg,https://iprice.vn/manchester-united/quan-ao/
-,,,,,,,,,TRUE,Blue Exchange,Quần jean,https://iprice.vn/blue-exchange/quan-ao/jeans/,https://p.ipricegroup.com/d0f7fbb7808a20707d0202d49cd1856365c21727_0.jpg,https://iprice.vn/blue-exchange/quan-ao/jeans/
-,,,,,,,,,TRUE,Blue Exchange,Áo sơ mi,https://iprice.vn/blue-exchange/quan-ao/ao-so-mi/,https://p.ipricegroup.com/0358634349b5b192421e2cbd20dcf6f9d84e5fb6_0.jpg,https://iprice.vn/blue-exchange/quan-ao/ao-so-mi/
-,,,,,,,,,TRUE,Giordano,Quần áo thời trang,https://iprice.vn/giordano/quan-ao/,https://p.ipricegroup.com/02432352ea64eb8b82b9dc725102cfb267c36cbe_0.jpg,https://iprice.vn/giordano/quan-ao/
-,,,,,,,,,TRUE,Biti’s,Giày dép,https://iprice.vn/bitis/hunter/giay-dep/,https://p.ipricegroup.com/e38d53a7a6a33e82deeb0ef370aebeafefdc94f4_0.jpg,https://iprice.vn/bitis/hunter/giay-dep/
-,,,,,,,,,TRUE,Fonto Menswear,Quần áo thời trang,https://iprice.vn/fonto-menswear/quan-ao/,https://p.ipricegroup.com/c0b1bcd9b3d57df5c3be3cf2568c6cd56a511a1f_0.jpg,https://iprice.vn/fonto-menswear/quan-ao/
-,,,,,,,,,TRUE,Nike,Giày dép,https://iprice.vn/nike/giay-dep/,https://p.ipricegroup.com/uploaded_da9a5ddbbe208dfddddbbdb4d5b18609.jpg,https://iprice.vn/nike/giay-dep/
-,,,,,,,,,TRUE,Biluxury,Áo sơ mi,https://iprice.vn/biluxury/quan-ao/ao-so-mi/,https://p.ipricegroup.com/3bdacb7ba02339f96cc201f5b4fc84aab29f58e0_0.jpg,https://iprice.vn/biluxury/quan-ao/ao-so-mi/
-,,,,,,,,,TRUE,Casio,Đồng hồ,https://iprice.vn/casio/dong-ho/,https://p.ipricegroup.com/6a1bb107d6379894df341117eda73a84fa550eea_0.jpg,https://iprice.vn/casio/dong-ho/
-,,,,,,,,,TRUE,Adidas,Giày dép,https://iprice.vn/adidas/human-race/giay-dep/,https://p.ipricegroup.com/d0af2c99ab06e5e1194e67ea6c14edd08f456783_0.jpg,https://iprice.vn/adidas/human-race/giay-dep/
-,,,,,,,,,TRUE,Geox,Giày dép,https://iprice.vn/geox/nebula/giay-dep/,https://p.ipricegroup.com/17473f0d3daa281e007db027a58621e306d6247c_0.jpg,https://iprice.vn/geox/nebula/giay-dep/
-,,,,,,,,,TRUE,Balenciaga,Giày dép,https://iprice.vn/balenciaga/giay-dep/,https://p.ipricegroup.com/eee0c6f81ca8622446012ea24e95f061de581859_0.jpg,https://iprice.vn/balenciaga/giay-dep/
-,,,,,,,,,TRUE,New Balance,Giày dép,https://iprice.vn/new-balance/giay-dep/,https://p.ipricegroup.com/uploaded_2a6400f75886ec95819c8a61d58e7610.jpg,https://iprice.vn/new-balance/giay-dep/
-,,,,,,,,,TRUE,Converse,Giày dép,https://iprice.vn/converse/giay-dep/,https://p.ipricegroup.com/uploaded_967e8afbd1749ab2101358275e205feb.jpg,https://iprice.vn/converse/giay-dep/
-,,,,,,,,,TRUE,FILA,Giày dép,https://iprice.vn/fila/giay-dep/,https://p.ipricegroup.com/d054e73992c1541ee338af7b7d540483a8260c6a_0.jpg,https://iprice.vn/fila/giay-dep/
-,,,,,,,,,,Rick Owens,Giày dép,https://iprice.vn/rick-owens/giay-dep/,https://p.ipricegroup.com/812dfff9f990a927ad67fb731e4f264bad02a599_0.jpg,https://iprice.vn/rick-owens/giay-dep/
+,,,,,,,,,TRUE,Adidas,Quần áo thời trang,https://iprice.vn/adidas/quan-ao/nam/,https://p.ipricegroup.com/12e8dc6b6ca9c07e6f234a731f9bbabdd53223dd_0.jpg,https://iprice.vn/adidas/quan-ao/
+,,,,,,,,,TRUE,Adidas,Giày sneaker,https://iprice.vn/adidas/prophere/giay-dep/nam/giay-sneaker/,https://p.ipricegroup.com/f0a15d7cc3a76ab4f23c234a35b6ddde62af919c_0.jpg,https://iprice.vn/adidas/prophere/giay-dep/giay-sneaker/
+,,,,,,,,,TRUE,SoYoung,Áo sơ mi,https://iprice.vn/soyoung/quan-ao/nam/ao-so-mi/,https://p.ipricegroup.com/ee32f5595cc572b2a8bd4ddfbd4042644577f52a_0.jpg,https://iprice.vn/soyoung/quan-ao/ao-so-mi/
+,,,,,,,,,TRUE,Manchester United,Quần áo thời trang,https://iprice.vn/manchester-united/quan-ao/nam/,https://p.ipricegroup.com/f62b5ff83102f9b4f6c63305bafdc6d396dfcf23_0.jpg,https://iprice.vn/manchester-united/quan-ao/
+,,,,,,,,,TRUE,Blue Exchange,Quần jean,https://iprice.vn/blue-exchange/quan-ao/nam/jeans/,https://p.ipricegroup.com/d0f7fbb7808a20707d0202d49cd1856365c21727_0.jpg,https://iprice.vn/blue-exchange/quan-ao/jeans/
+,,,,,,,,,TRUE,Blue Exchange,Áo sơ mi,https://iprice.vn/blue-exchange/quan-ao/nam/ao-so-mi/,https://p.ipricegroup.com/0358634349b5b192421e2cbd20dcf6f9d84e5fb6_0.jpg,https://iprice.vn/blue-exchange/quan-ao/ao-so-mi/
+,,,,,,,,,TRUE,Giordano,Quần áo thời trang,https://iprice.vn/giordano/quan-ao/nam/,https://p.ipricegroup.com/02432352ea64eb8b82b9dc725102cfb267c36cbe_0.jpg,https://iprice.vn/giordano/quan-ao/
+,,,,,,,,,TRUE,Biti’s,Giày dép,https://iprice.vn/bitis/hunter/giay-dep/nam/,https://p.ipricegroup.com/e38d53a7a6a33e82deeb0ef370aebeafefdc94f4_0.jpg,https://iprice.vn/bitis/hunter/giay-dep/
+,,,,,,,,,TRUE,Fonto Menswear,Quần áo thời trang,https://iprice.vn/fonto-menswear/quan-ao/nam/,https://p.ipricegroup.com/c0b1bcd9b3d57df5c3be3cf2568c6cd56a511a1f_0.jpg,https://iprice.vn/fonto-menswear/quan-ao/
+,,,,,,,,,TRUE,Nike,Giày dép,https://iprice.vn/nike/giay-dep/nam/,https://p.ipricegroup.com/uploaded_da9a5ddbbe208dfddddbbdb4d5b18609.jpg,https://iprice.vn/nike/giay-dep/
+,,,,,,,,,TRUE,Biluxury,Áo sơ mi,https://iprice.vn/biluxury/quan-ao/nam/ao-so-mi/,https://p.ipricegroup.com/3bdacb7ba02339f96cc201f5b4fc84aab29f58e0_0.jpg,https://iprice.vn/biluxury/quan-ao/ao-so-mi/
+,,,,,,,,,TRUE,Casio,Đồng hồ,https://iprice.vn/casio/dong-ho/nam/,https://p.ipricegroup.com/6a1bb107d6379894df341117eda73a84fa550eea_0.jpg,https://iprice.vn/casio/dong-ho/
+,,,,,,,,,TRUE,Adidas,Giày dép,https://iprice.vn/adidas/human-race/giay-dep/nam/,https://p.ipricegroup.com/5414fe67fddbb96aff0908135a7abea09a83e58b_0.jpg,https://iprice.vn/adidas/human-race/giay-dep/
+,,,,,,,,,TRUE,Geox,Giày dép,https://iprice.vn/geox/nebula/giay-dep/nam/,https://p.ipricegroup.com/17473f0d3daa281e007db027a58621e306d6247c_0.jpg,https://iprice.vn/geox/nebula/giay-dep/
+,,,,,,,,,TRUE,Balenciaga,Giày dép,https://iprice.vn/balenciaga/giay-dep/nam/,https://p.ipricegroup.com/c6fbc90aee7f5d1716f6452ce0f1eb6b4bf6f584_0.jpg,https://iprice.vn/balenciaga/giay-dep/
+,,,,,,,,,TRUE,New Balance,Giày dép,https://iprice.vn/new-balance/giay-dep/nam/,https://p.ipricegroup.com/uploaded_2a6400f75886ec95819c8a61d58e7610.jpg,https://iprice.vn/new-balance/giay-dep/
+,,,,,,,,,TRUE,Converse,Giày dép,https://iprice.vn/converse/giay-dep/nam/,https://p.ipricegroup.com/uploaded_967e8afbd1749ab2101358275e205feb.jpg,https://iprice.vn/converse/giay-dep/
+,,,,,,,,,TRUE,FILA,Giày dép,https://iprice.vn/fila/giay-dep/nam/,https://p.ipricegroup.com/d054e73992c1541ee338af7b7d540483a8260c6a_0.jpg,https://iprice.vn/fila/giay-dep/
+,,,,,,,,,,,,,,https://iprice.vn/rick-owens/giay-dep/
 PLP-FA-BrandCategory-Women-Carousel,section5,fashion-panel,Thời trang Nữ,https://iprice.vn/quan-ao/nu/,,image-url,url,label,type,,,,,
 ,,,,,,https://a.ipricegroup.com/media/homepage/VN_women-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
-,,,,,,,,,TRUE,H&M,Quần áo thời trang,https://iprice.vn/h-m/quan-ao/,https://p.ipricegroup.com/e570845380184bc106ee4b519a3b9cc2fddfe9b9_0.jpg,https://iprice.vn/h-m/quan-ao/
-,,,,,,,,,TRUE,Vascara,Túi xách,https://iprice.vn/vascara/tui/tui-xach/,https://p.ipricegroup.com/048aeb7e58538c80a9e72d97b32a2cb60bfcc937_0.jpg,https://iprice.vn/vascara/tui/tui-xach/
-,,,,,,,,,TRUE,Sarisiu,Giày dép,https://iprice.vn/sarisiu/giay-dep/,https://p.ipricegroup.com/f18dee1429f8603db799c3207bfc4d7c74e80f12_0.jpg,https://iprice.vn/sarisiu/giay-dep/
-,,,,,,,,,TRUE,Vans,Giày dép,https://iprice.vn/vans/old-skool/giay-dep/,https://p.ipricegroup.com/uploaded_c4e7658f4401280dfcddb047a4b68b9d.jpg,https://iprice.vn/vans/old-skool/giay-dep/
-,,,,,,,,,FALSE,SKMEI,Đồng hồ,https://iprice.vn/skmei/dong-ho/,https://p.ipricegroup.com/9eb7d143328cec91aa26095c67a2c499aeba382a_0.jpg,https://iprice.vn/skmei/dong-ho/
-,,,,,,,,,TRUE,Adidas,Quần jogger,https://iprice.vn/adidas/quan-ao/quan-dai/jogger/,https://p.ipricegroup.com/9e64e5cf8dfb45a613603d96b54c28d25280b260_0.jpg,https://iprice.vn/adidas/quan-ao/quan-dai/jogger/
-,,,,,,,,,TRUE,Gucci,Quần áo thời trang,https://iprice.vn/gucci/quan-ao/,https://p.ipricegroup.com/db9ce3afd26c4112949a2839117967e62e5734c7_0.jpg,https://iprice.vn/gucci/quan-ao/
-,,,,,,,,,TRUE,Daniel Wellington,Đồng hồ,https://iprice.vn/daniel-wellington/dong-ho/,https://p.ipricegroup.com/e943b77a4a8ba376feec360b429da3fa8c090e1d_0.jpg,https://iprice.vn/daniel-wellington/dong-ho/
-,,,,,,,,,FALSE,Zalora,Đầm,https://iprice.vn/zalora/quan-ao/dam/,https://p.ipricegroup.com/e4377504e9540f6fa4768838109cca979b994a94_0.jpg,https://iprice.vn/zalora/quan-ao/dam/
-,,,,,,,,,TRUE,M2,Quần áo thời trang,https://iprice.vn/m2/quan-ao/,https://p.ipricegroup.com/a695b9499aac9d5bcc362c9cb5cc9a825ffb7bd4_0.jpg,https://iprice.vn/m2/quan-ao/
-,,,,,,,,,FALSE,Adidas,Giày dép,https://iprice.vn/adidas/giay-dep/,https://p.ipricegroup.com/uploaded_eb9fd64bdc7834c28c8feab9e450a1c6.jpg,https://iprice.vn/adidas/giay-dep/
-,,,,,,,,,FALSE,Michael Kors,Đồng hồ,https://iprice.vn/michael-kors/dong-ho/,https://p.ipricegroup.com/a3d7954e976ba8a23f14d5e72ab82f6dd6b5548b_0.jpg,https://iprice.vn/michael-kors/dong-ho/
-,,,,,,,,,TRUE,LAMER,Chân váy,https://iprice.vn/lamer/quan-ao/vay/,https://p.ipricegroup.com/280a0c0278e0d5141b6e89f7f7429ead03b9e027_0.jpg,https://iprice.vn/lamer/quan-ao/vay/
-,,,,,,,,,TRUE,Pnjsilver,Vòng đeo tay,https://iprice.vn/pnjsilver/trang-suc/vong-deo-tay/,https://p.ipricegroup.com/9f54941f63154f824e09421a47bc94f1d9077107_0.jpg,https://iprice.vn/pnjsilver/trang-suc/vong-deo-tay/
-,,,,,,,,,TRUE,Yeezy,Giày sneaker,https://iprice.vn/yeezy/giay-dep/giay-sneaker/,https://p.ipricegroup.com/02c7eadc1604ebc6fdcbf8693763c1b42c1ba691_0.jpg,https://iprice.vn/yeezy/giay-dep/giay-sneaker/
-,,,,,,,,,TRUE,Mango,Quần áo thời trang,https://iprice.vn/mango/quan-ao/,https://p.ipricegroup.com/82d36cc56a64fbc29047944d901f31e1e1f0c569_0.jpg,https://iprice.vn/mango/quan-ao/
-,,,,,,,,,TRUE,Uniqlo,Quần áo thời trang,https://iprice.vn/uniqlo/quan-ao/,https://p.ipricegroup.com/f2894c79322be9649cfa5bfeba55afe248d93009_0.jpg,https://iprice.vn/uniqlo/quan-ao/
-,,,,,,,,,TRUE,Zara,Quần áo thời trang,https://iprice.vn/zara/quan-ao/,https://p.ipricegroup.com/14b70312044ded7bfe29f04133185971992b88ee_0.jpg,https://iprice.vn/zara/quan-ao/
-,,,,,,,,,TRUE,FILA,Giày dép,https://iprice.vn/fila/giay-dep/,https://p.ipricegroup.com/facb9dd53568b0ed94aee56b85611a038fbfb289_0.jpg,https://iprice.vn/fila/giay-dep/
-PLP-FA-Brand-Carousel,section5_brand,link,Thương hiệu thời trang được yêu thích,,,items,,,,,,,,
+,,,,,,,,,TRUE,Adidas,Quần áo thời trang,https://iprice.vn/adidas/quan-ao/nu/,https://p.ipricegroup.com/63478a6d1910a5a23ec447a39cc204094494ed6d_0.jpg,https://iprice.vn/h-m/quan-ao/
+,,,,,,,,,TRUE,Adidas,Giày sneaker,https://iprice.vn/adidas/prophere/giay-dep/nu/giay-sneaker/,https://p.ipricegroup.com/07734f2d496ef9ac865a6b4a68485ffb49a38653_0.jpg,https://iprice.vn/vascara/tui/tui-xach/
+,,,,,,,,,TRUE,SoYoung,Áo sơ mi,https://iprice.vn/soyoung/quan-ao/nu/ao-so-mi/,https://p.ipricegroup.com/2c5ce6b53a2e3adf8c928ad037def5c34bdc9330_0.jpg,https://iprice.vn/sarisiu/giay-dep/
+,,,,,,,,,TRUE,Manchester United,Quần áo thời trang,https://iprice.vn/manchester-united/quan-ao/nu/,https://p.ipricegroup.com/5bf18e827b88538061252df0e9cfb751e210de01_0.jpg,https://iprice.vn/vans/old-skool/giay-dep/
+,,,,,,,,,FALSE,Blue Exchange,Quần jean,,,https://iprice.vn/skmei/dong-ho/
+,,,,,,,,,TRUE,Blue Exchange,Áo sơ mi,https://iprice.vn/blue-exchange/quan-ao/nu/ao-so-mi/,https://p.ipricegroup.com/284ba93a42ce2c63782eda48633f50440f5ed0cd_0.jpg,https://iprice.vn/adidas/quan-ao/quan-dai/jogger/
+,,,,,,,,,TRUE,Giordano,Quần áo thời trang,https://iprice.vn/giordano/quan-ao/nu/,https://p.ipricegroup.com/aebea6990239eada47464a65c7cb3e2c111c1aee_0.jpg,https://iprice.vn/gucci/quan-ao/
+,,,,,,,,,TRUE,Biti’s,Giày dép,https://iprice.vn/bitis/hunter/giay-dep/nu/,https://p.ipricegroup.com/28d28cae02b4f6ce53e32dfe6a99543ef96a6748_0.jpg,https://iprice.vn/daniel-wellington/dong-ho/
+,,,,,,,,,FALSE,Fonto Menswear,Quần áo thời trang,,,https://iprice.vn/zalora/quan-ao/dam/
+,,,,,,,,,TRUE,Nike,Giày dép,https://iprice.vn/nike/giay-dep/nu/,https://p.ipricegroup.com/uploaded_da9a5ddbbe208dfddddbbdb4d5b18609.jpg,https://iprice.vn/m2/quan-ao/
+,,,,,,,,,FALSE,Sakos,Vali,,,https://iprice.vn/adidas/giay-dep/
+,,,,,,,,,FALSE,Biluxury,Áo sơ mi,,,https://iprice.vn/michael-kors/dong-ho/
+,,,,,,,,,TRUE,Casio,Đồng hồ,https://iprice.vn/casio/dong-ho/nu/,https://p.ipricegroup.com/7b61648bf9ec607099709c1b89694ddce672c6a6_0.jpg,https://iprice.vn/lamer/quan-ao/vay/
+,,,,,,,,,TRUE,Adidas,Giày dép,https://iprice.vn/adidas/human-race/giay-dep/nu/,https://p.ipricegroup.com/92c7a643b5226963544778f95b0e4afb1046f803_0.jpg,https://iprice.vn/pnjsilver/trang-suc/vong-deo-tay/
+,,,,,,,,,TRUE,Geox,Giày dép,https://iprice.vn/geox/nebula/giay-dep/nu/,https://p.ipricegroup.com/25be3026c40cdcbddb50c7aaeaeb75d3a4343f3c_0.jpg,https://iprice.vn/yeezy/giay-dep/giay-sneaker/
+,,,,,,,,,TRUE,Balenciaga,Giày dép,https://iprice.vn/balenciaga/giay-dep/nu/,https://p.ipricegroup.com/065d5464883be6bec6e0ab8fa97ca8b633a17332_0.jpg,https://iprice.vn/mango/quan-ao/
+,,,,,,,,,TRUE,New Balance,Giày dép,https://iprice.vn/new-balance/giay-dep/nu/,https://p.ipricegroup.com/7813f5e147333a50d9ace9f9d839bb5930e94c2c_0.jpg,https://iprice.vn/uniqlo/quan-ao/
+,,,,,,,,,TRUE,Converse,Giày dép,https://iprice.vn/converse/giay-dep/nu/,https://p.ipricegroup.com/890dc57a92127dba891afc607b2cde6a35dd89aa_0.jpg,https://iprice.vn/zara/quan-ao/
+PLP-FA-Brand-Carousel,section5_brand,link,Thương hiệu thời trang được yêu thích,,,items,,,TRUE,FILA,Giày dép,https://iprice.vn/fila/giay-dep/nu/,https://p.ipricegroup.com/facb9dd53568b0ed94aee56b85611a038fbfb289_0.jpg,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Vascara,https://a.ipricegroup.com/brand/vascara.jpg,https://iprice.vn/vascara/,,,,,,
 ,,,,,,Biti’s,https://a.ipricegroup.com/brand/bitis.jpg,https://iprice.vn/bitis/,,,,,,
@@ -220,19 +219,19 @@ PLP-FA-Brand-Carousel,section5_brand,link,Thương hiệu thời trang được 
 ,,,,,,Nike,https://a.ipricegroup.com/media/Zach__2_/nike.png,https://iprice.vn/nike/,,,,,,
 ,,,,,,Zara,https://a.ipricegroup.com/brand/zara.jpg,https://iprice.vn/zara/,,,,,,
 ,,,,,,Mango,https://a.ipricegroup.com/brand/mango.jpg,https://iprice.vn/mango/,,,,,,
-,,,,,,Vans,https://a.ipricegroup.com/brand/vans.jpg,https://iprice.vn/vans/,,,,,,
-,,,,,,Charles & Keith,https://a.ipricegroup.com/brand/charles-keith.jpg,https://iprice.vn/charles-keith/,,,,,,
+,,,,,,,,https://iprice.vn/vans/,,,,,,
+,,,,,,Charles & Keith,,https://iprice.vn/charles-keith/,,,,,,
 ,,,,,,Lime Orange,https://a.ipricegroup.com/brand/lime-orange.jpg,https://iprice.vn/lime-orange/,,,,,,
-,,,,,,Canifa,https://a.ipricegroup.com/brand/canifa.jpg,https://iprice.vn/canifa/,,,,,,
+,,,,,,Canifa,,https://iprice.vn/canifa/,,,,,,
 ,,,,,,Michael Kors,https://a.ipricegroup.com/media/Zach__2_/michael-kors.png,https://iprice.vn/michael-kors/,,,,,,
-,,,,,,Forever21,https://a.ipricegroup.com/brand/forever21.jpg,https://iprice.vn/forever21/,,,,,,
+,,,,,,Forever21,,https://iprice.vn/forever21/,,,,,,
 ,,,,,,PUMA,https://a.ipricegroup.com/media/Zach__2_/puma.png,https://iprice.vn/puma/,,,,,,
 ,,,,,,Pnjsilver,https://a.ipricegroup.com/brand/pnjsilver.jpg,https://iprice.vn/pnjsilver/,,,,,,
 ,,,,,,New Balance,https://a.ipricegroup.com/brand/new-balance.jpg,https://iprice.vn/new-balance/,,,,,,
 ,,,,,,Converse,https://a.ipricegroup.com/media/Zach__2_/converse.png,https://iprice.vn/converse/,,,,,,
-,,,,,,Louis Vuitton,https://a.ipricegroup.com/brand/louis-vuitton.jpg,https://iprice.vn/louis-vuitton/,,,,,,
-,,,,,,Mnml Couture,https://a.ipricegroup.com/brand/mnml-couture.jpg,https://iprice.vn/mnml-couture/,,,,,,
-,,,,,,Forever Young,https://a.ipricegroup.com/brand/forever-young.jpg,https://iprice.vn/forever-young/,,,,,,
+,,,,,,Louis Vuitton,,https://iprice.vn/louis-vuitton/,,,,,,
+,,,,,,Mnml Couture,,https://iprice.vn/mnml-couture/,,,,,,
+,,,,,,Forever Young,,https://iprice.vn/forever-young/,,,,,,
 ,,,,,,ALDO,https://a.ipricegroup.com/brand/aldo.jpg,https://iprice.vn/aldo/,,,,,,
 ,,,,,,Uniqlo,https://a.ipricegroup.com/brand/uniqlo.jpg,https://iprice.vn/uniqlo/,,,,,,
 ,,,,,,,https://a.ipricegroup.com/media/homepage/VN_allbrands.jpg,https://iprice.vn/brands/,,,,,,
@@ -264,6 +263,7 @@ PLP-FA-Category-Carousel,section12,product-carousel,,,,,,,,,,,,
 ,,,,,,,,,Túi xách,https://iprice.vn/tui/tui-xach/,,,,
 ,,,,,,,,,Túi thể thao,https://iprice.vn/tui/dung-do-the-duc/,,,,
 ,,,,,,,,,Đựng tài liệu,https://iprice.vn/tui/dung-tai-lieu/,,,,
+,,,,,,,,,,https://iprice.vn/tui/du-lich/,,,,
 ,,,,,,,,,Túi đeo hông,https://iprice.vn/tui/deo-hong/,,,,
 ,,,,,,Trang sức,https://a.ipricegroup.com/media/homepage/Icon_v2/Jewellery.png,https://iprice.vn/trang-suc/,items1,,,,,
 ,,,,,,,,,name,url,,,,
@@ -312,27 +312,27 @@ PLP-HB-Brand-Carousel,section13_brand,link,,,,items,,,,,,,,
 ,,,,,,Sephora,https://a.ipricegroup.com/brand/sephora.jpg,https://iprice.vn/sephora/,,,,,,
 ,,,,,,La Roche-Posay,https://a.ipricegroup.com/brand/la-roche-posay.jpg,https://iprice.vn/la-roche-posay/,,,,,,
 ,,,,,,LANEIGE,https://a.ipricegroup.com/brand/laneige.jpg,https://iprice.vn/laneige/,,,,,,
-,,,,,,BENA,https://a.ipricegroup.com/brand/bena.jpg,https://iprice.vn/bena/,,,,,,
+,,,,,,BENA,,https://iprice.vn/bena/,,,,,,
 ,,,,,,Yves Rocher,https://a.ipricegroup.com/brand/yves-rocher.jpg,https://iprice.vn/yves-rocher/,,,,,,
 ,,,,,,Vaseline,https://a.ipricegroup.com/brand/vaseline.jpg,https://iprice.vn/vaseline/,,,,,,
 ,,,,,,Shiseido,https://a.ipricegroup.com/brand/shiseido.jpg,https://iprice.vn/shiseido/,,,,,,
 ,,,,,,Dior,https://a.ipricegroup.com/media/Zach__2_/dior.png,https://iprice.vn/dior/,,,,,,
-,,,,,,Thorakao,https://a.ipricegroup.com/brand/thorakao.jpg,https://iprice.vn/thorakao/,,,,,,
+,,,,,,Thorakao,,https://iprice.vn/thorakao/,,,,,,
 ,,,,,,Vichy,https://a.ipricegroup.com/brand/vichy.jpg,https://iprice.vn/vichy/,,,,,,
 ,,,,,,Pond's,https://a.ipricegroup.com/brand/ponds.jpg,https://iprice.vn/ponds/,,,,,,
-,,,,,,Skinfood,https://a.ipricegroup.com/brand/skinfood.jpg,https://iprice.vn/skinfood/,,,,,,
-,,,,,,Durex,https://a.ipricegroup.com/brand/durex.jpg,https://iprice.vn/durex/,,,,,,
+,,,,,,Skinfood,,https://iprice.vn/skinfood/,,,,,,
+,,,,,,Durex,,https://iprice.vn/durex/,,,,,,
 ,,,,,,Cetaphil,https://a.ipricegroup.com/brand/cetaphil.jpg,https://iprice.vn/cetaphil/,,,,,,
 ,,,,,,Ensure,https://a.ipricegroup.com/brand/ensure.jpg,https://iprice.vn/ensure/,,,,,,
 ,,,,,,Hada Labo,https://a.ipricegroup.com/brand/hada-labo.jpg,https://iprice.vn/hada-labo/,,,,,,
-,,,,,,LOréal Professionnel,https://a.ipricegroup.com/brand/loreal-professionnel.jpg,https://iprice.vn/loreal-professionnel/,,,,,,
-,,,,,,Etude House,https://a.ipricegroup.com/brand/etude-house.jpg,https://iprice.vn/etude-house/,,,,,,
+,,,,,,LOréal Professionnel,,https://iprice.vn/loreal-professionnel/,,,,,,
+,,,,,,,,https://iprice.vn/etude-house/,,,,,,
 ,,,,,,Lancôme,https://a.ipricegroup.com/brand/lancome.jpg,https://iprice.vn/lancome/,,,,,,
 ,,,,,,Nature Republic,https://a.ipricegroup.com/brand/nature-republic.jpg,https://iprice.vn/nature-republic/,,,,,,
 ,,,,,,Bioderma,https://a.ipricegroup.com/brand/bioderma.jpg,https://iprice.vn/bioderma/,,,,,,
 ,,,,,,Ohui,https://a.ipricegroup.com/brand/ohui.jpg,https://iprice.vn/ohui/,,,,,,
 ,,,,,,NIVEA,https://a.ipricegroup.com/brand/nivea.jpg,https://iprice.vn/nivea/,,,,,,
-,,,,,,SKII,https://a.ipricegroup.com/brand/skii.jpg,https://iprice.vn/skii/,,,,,,
+,,,,,,SKII,,https://iprice.vn/skii/,,,,,,
 ,,,,,,,https://a.ipricegroup.com/media/homepage/VN_allbrands.jpg,https://iprice.vn/brands/,,,,,,
 PLP-HB-Category-Carousel,section14,product-carousel,,,,,,,,,,,,
 ,,,,,,items,,,,,,,,
@@ -462,20 +462,20 @@ PDP-HB-SeeMore,section2,product-carousel,,,,items,,,,,,,,
 PDP-PLP-SeeMore,section10,link,Các sản phẩm khác,1234,1234,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Thể thao,https://p.ipricegroup.com/5e3587c3319b59af287dc0c340d68e02cf356ec5_0.jpg,https://iprice.vn/do-choi/tro-choi-ngoai-troi/the-thao/,,,,,,
-,,,,,,Tạp chí thể thao,https://p.ipricegroup.com/9469a0def6536b907f405aef93c3d8a9fda0a1c7_0.jpg,https://iprice.vn/so-thich/tap-chi/the-thao/,,,,,,
+,,,,,,Thể thao,https://p.ipricegroup.com/9469a0def6536b907f405aef93c3d8a9fda0a1c7_0.jpg,https://iprice.vn/so-thich/tap-chi/the-thao/,,,,,,
 ,,,,,,Bóng đá,https://p.ipricegroup.com/79612dc9f87a20c191f26e87e95b51043bbcb91c_0.jpg,https://iprice.vn/the-thao-dong-doi/bong-da/,,,,,,
 ,,,,,,Phim,https://p.ipricegroup.com/6e2c81416f1150968e5cdb29c798f986a5c2fa01_0.jpg,https://iprice.vn/so-thich/phim/,,,,,,
-,,,,,,Đồ chơi karaoke,https://p.ipricegroup.com/991a6a6360ade88187685aed1abf43c50bd49bc7_0.jpg,https://iprice.vn/do-choi/dung-pin/karaoke/,,,,,,
+,,,,,,Karaoke,https://p.ipricegroup.com/991a6a6360ade88187685aed1abf43c50bd49bc7_0.jpg,https://iprice.vn/do-choi/dung-pin/karaoke/,,,,,,
 ,,,,,,Karaoke,https://p.ipricegroup.com/c32e5eb9cbcfae18a9c3d210b0f12d68c7ceffe1_0.jpg,https://iprice.vn/am-thanh-hi-fi/micro/karaoke/,,,,,,
 ,,,,,,Máy tính,https://p.ipricegroup.com/uploaded_669bb01d2080725f74a717301e7e5d6c.jpg,https://iprice.vn/van-phong-pham/may-tinh/,,,,,,
-,,,,,,Đồ chơi máy tính,https://p.ipricegroup.com/d2d1a44e74659bca6aa27f6a00ad5159d3991dea_0.jpg,https://iprice.vn/do-choi/dung-pin/may-tinh/,,,,,,
+,,,,,,Máy tính,https://p.ipricegroup.com/d2d1a44e74659bca6aa27f6a00ad5159d3991dea_0.jpg,https://iprice.vn/do-choi/dung-pin/may-tinh/,,,,,,
 ,,,,,,Game,https://p.ipricegroup.com/e444c5d97836160da908cf67074ff5b8ca0330b7_0.jpg,https://iprice.vn/tin-hoc/phan-mem/game/,,,,,,
 ,,,,,,Phim hoạt hình,https://p.ipricegroup.com/de23d56d08c74a90f8b50b486d932c91bc0efd66_0.jpg,https://iprice.vn/so-thich/phim/hoat-hinh/,,,,,,
 ,,,,,,Ảnh,https://p.ipricegroup.com/643b46fc9671736936012bcda4b686b3838e174b_0.jpg,https://iprice.vn/so-thich/sach/anh/,,,,,,
 ,,,,,,Lịch,https://p.ipricegroup.com/ab4ce008574321a91513de82688ae40b2dd98c7f_0.jpg,https://iprice.vn/van-phong-pham/cac-san-pham-tu-giay/lich/,,,,,,
 ,,,,,,Tai nghe bluetooth,https://p.ipricegroup.com/75c048bd65a65c30bed00aaa79514992bfd4098c_0.jpg,https://iprice.vn/dien-thoai-may-tinh-bang/tai-nghe-bluetooth/,,,,,,
 ,,,,,,Điện thoại,https://p.ipricegroup.com/uploaded_484feb9ce02ef17619363f43425ae8c3.jpg,https://iprice.vn/dien-thoai-may-tinh-bang/dien-thoai-thong-minh/,,,,,,
-,,,,,,Điện thoại sắp ra mắt,https://p.ipricegroup.com/uploaded_7cbfb89e06f118619ee2a80a445d5fd0.jpg,https://iprice.vn/san-pham-sap-ra-mat/dien-thoai-thong-minh/,,,,,,
+,,,,,,Điện thoại,https://p.ipricegroup.com/uploaded_7cbfb89e06f118619ee2a80a445d5fd0.jpg,https://iprice.vn/san-pham-sap-ra-mat/dien-thoai-thong-minh/,,,,,,
 ,,,,,,Giải trí,https://p.ipricegroup.com/b6fc8d3cea7bec7e0afae0839523b17e4d2628da_0.jpg,https://iprice.vn/so-thich/tap-chi/giai-tri/,,,,,,
 ,,,,,,Tennis,https://p.ipricegroup.com/6881cabf096bf32bb106a92ffae18b829bef8914_0.jpg,https://iprice.vn/the-thao-choi-vot/tennis/,,,,,,
 ,,,,,,Hài,https://p.ipricegroup.com/f8475a910dbf00cfbcfee115855282ffd78e6116_0.jpg,https://iprice.vn/so-thich/phim/hai/,,,,,,

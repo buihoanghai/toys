@@ -12,8 +12,8 @@ let url;
 		executablePath: '/usr/bin/google-chrome'
 	});
 	const page = await browser.newPage();
-	for (let i = 0; i < homepage['PLP-FA-BrandCategory-Men-Carousel'].items.length; i++) {
-		let item = homepage['PLP-FA-BrandCategory-Men-Carousel'].items[i];
+	for (let i = 0; i < homepage['PLP-FA-BrandCategory-Women-Carousel'].items.length; i++) {
+		let item = homepage['PLP-FA-BrandCategory-Women-Carousel'].items[i];
 		url = item['main-url'];
 		if (url.indexOf("iprice") === -1) {
 			url = config.url + url;
