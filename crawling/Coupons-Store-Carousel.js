@@ -23,7 +23,7 @@ let result = [];
 			if(!breadcrumb[breadcrumb.length - 1]){
 				return [];
 			}
-			name = breadcrumb[breadcrumb.length - 1].innerText.trim();
+			name = breadcrumb[breadcrumb.length - 1].innerText.replace("> ", "").trim();
 			let data = [];
 			data.push(name.trim());
 			data.push(imageUrl);

@@ -17,7 +17,7 @@ let result = [];
 		// await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
 			let brandName = document.querySelector('#clear_filters a span');
-			brandName = brandName.innerText.trim();
+			brandName = brandName.innerText.replace("> ", "").trim();
 			let image =document.querySelector('.db-l.ba.b--gray-light.mr3.dn.v-mid amp-img');
 
 			let imageUrl = image? image.getAttribute('src').trim() : "";

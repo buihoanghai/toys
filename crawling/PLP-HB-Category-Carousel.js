@@ -17,11 +17,11 @@ let result = [];
 			let item = items[i].items[j];
 			if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 			const data = await page.evaluate(() => {
-				var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
+				var elems = document.querySelectorAll("#breadcrumb ul.dn.dib-l li");
 				if(!elems[elems.length-1]){
 					return "";
 				}
-				return elems[elems.length-1].innerText.trim();
+				return elems[elems.length-1].innerText.replace("> ", "").trim();
 			});
 			result.push(data);
 		}

@@ -8,7 +8,7 @@ function categorizePageType(arr, pageTypes) {
 		if (!data) {
 			console.log("test", i);
 		}
-		let url = data[13];
+		let url = data[5];
 		if (data.length) {
 			data.unshift(getTypePage(url, pageTypes));
 			result.push(data);

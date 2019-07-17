@@ -24,7 +24,7 @@ let url;
 			if (!brandName) {
 				return [];
 			}
-			brandName = brandName.innerText.trim();
+			brandName = brandName.innerText.replace("> ", "").trim();
 			let isWoman = document.querySelector('[data-vars-lb="Women"]');
 			if(!isWoman){
 				isWoman = document.querySelector('[data-vars-lb="Nữ"]');
@@ -35,11 +35,11 @@ let url;
 			if(!isWoman){
 				isWoman = document.querySelector('[data-vars-lb="ผู้หญิง"]');
 			}
-			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
+			let breadcrumb = document.querySelectorAll('#breadcrumb ul.dn.dib-l li');
 			if(!breadcrumb[breadcrumb.length - 1]){
 				return [];
 			}
-			let name = breadcrumb[breadcrumb.length - 1].innerText.trim();
+			let name = breadcrumb[breadcrumb.length - 1].innerText.replace("> ", "").trim();
 			let data = [];
 			data.push(brandName);
 			data.push(name);

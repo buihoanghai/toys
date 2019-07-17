@@ -17,10 +17,12 @@ let result = [];
 			let item = items[i].items[j];
 			if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 			const data = await page.evaluate(() => {
-				var elem = document.querySelector("#b-c+span");
-				if(!elem)
+				var breadcrumb = document.querySelectorAll("#breadcrumb ul.dn.dib-l li");
+				if(!breadcrumb[breadcrumb.length-1]){
 					return "";
-				return elem.innerText.trim();
+				}
+				let name = breadcrumb[breadcrumb.length-1].innerText.replace("> ", "").trim();
+				return name;
 			});
 			result.push(data);
 		}

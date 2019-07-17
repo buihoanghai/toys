@@ -19,9 +19,9 @@ let result = [];
 			if(!brandName){
 				return [];
 			}
-			brandName = brandName.innerText.trim();
-			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
-			let name = breadcrumb[breadcrumb.length-1].innerText.trim();
+			brandName = brandName.innerText.replace("> ", "").trim();
+			let breadcrumb = document.querySelectorAll('#breadcrumb ul.dn.dib-l li');
+			let name = breadcrumb[breadcrumb.length-1].innerText.replace("> ", "").trim();
 			let image =document.querySelector('.listing amp-img');
 
 			let imageUrl = image? image.getAttribute('src').trim() : "";

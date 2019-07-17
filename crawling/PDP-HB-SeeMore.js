@@ -16,12 +16,16 @@ let result = [];
 		if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 		// await page.goto(config.url + item.url);
 		const data = await page.evaluate(() => {
-			var elems = document.querySelectorAll(".dn.dib-l.nowrap span");
+			var elems = document.querySelectorAll("#breadcrumb ul.dn.dib-l li");
 			if(!elems[elems.length-1]){
 				return [];
 			}
-			let name = elems[elems.length-1].innerText.trim();
-			let imageUrl = document.querySelector('#product-gallery amp-img').getAttribute('src').trim();
+			let name = elems[elems.length-1].innerText.replace("> ", "").trim();
+			let image = document.querySelector('#product-gallery amp-img');
+			let imageUrl = "";
+			if(image) {
+				imageUrl = image.getAttribute('src').trim();
+			}
 			let data = [];
 			data.push(name);
 			data.push(imageUrl);

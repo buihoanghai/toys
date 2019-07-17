@@ -3,8 +3,8 @@ const globule = require('globule');
 const saveFile = require("../lib/saveFile");
 const csv = require("../lib/csv");
 const categprize = require('./categorize');
-const pageTypeFile = "./iprice/condition/20190409 Page Type.csv";
-const path = "./iprice/data/ahrefs_allcc_v3.csv";
+const pageTypeFile = "./iprice/condition/page-type3.csv";
+const path = "./iprice/data/ahrefs_iPriceEN_add_Taxonomy.csv";
 let pageTypes;
 async function main() {
 	console.time("Process");

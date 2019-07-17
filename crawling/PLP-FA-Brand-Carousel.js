@@ -15,10 +15,10 @@ let result = [];
 		let item = homepage['PLP-FA-Brand-Carousel'].items[i];
 		if(item.url.indexOf("iprice") === -1){ 			item.url = config.url + item.url; 		} await page.goto(item.url);
 		const data = await page.evaluate(() => {
-			let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
+			let breadcrumb = document.querySelectorAll('#breadcrumb ul.dn.dib-l li');
 			if(!breadcrumb[breadcrumb.length - 1])
 				return [];
-			let brandName =  breadcrumb[breadcrumb.length - 1].innerText.trim();
+			let brandName =  breadcrumb[breadcrumb.length - 1].innerText.replace("> ", "").trim();
 			let image =document.querySelector('.db-l.ba.b--gray-light.mr3.dn.v-mid amp-img');
 			let imageUrl = image? image.getAttribute('src').trim() : "";
 			let data = [];

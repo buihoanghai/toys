@@ -23,13 +23,13 @@ let result = [];
 			let image = document.querySelector('.store-logo-border amp-img');
 			imageUrl = image ? image.getAttribute('src').trim() : "";
 			if (imageUrl) {
-				let breadcrumb = document.querySelectorAll('.dn.dib-l.f12 span');
+				let breadcrumb = document.querySelectorAll('#breadcrumb ul.dn.dib-l li');
 				if (!breadcrumb[breadcrumb.length - 1]) {
 					return [];
 				}
 
 
-				name = breadcrumb[breadcrumb.length - 1].innerText.trim();
+				name = breadcrumb[breadcrumb.length - 1].innerText.replace("> ", "").trim();
 			}
 			else {
 
@@ -39,25 +39,31 @@ let result = [];
 					imageUrl = image ? image.getAttribute('src').trim() : "";
 					let brandName = document.querySelector('#clear_filters a span');
 
-					brandName = brandName ? brandName.innerText.trim() + " " : "";
-					let breadcrumb = document.querySelectorAll('.dn.dib-l.nowrap span');
+					brandName = brandName ? brandName.innerText.replace("> ", "").trim() + " " : "";
+					brandName = brandName.trim();
+					let breadcrumb = document.querySelectorAll('#breadcrumb ul.dn.dib-l li');
 					if (!breadcrumb[breadcrumb.length - 1]) {
 						return [];
 					}
-					if (brandName.trim() !== breadcrumb[breadcrumb.length - 1].innerText.trim()) {
-						name = brandName + breadcrumb[breadcrumb.length - 1].innerText.trim();
+					let lastBreadcrumb = breadcrumb[breadcrumb.length - 1].innerText.replace("> ", "").trim();
+					if (brandName.toLowerCase() !== lastBreadcrumb.toLowerCase()) {
+						name = brandName + ' ' + lastBreadcrumb;
 					} else {
-						name = breadcrumb[breadcrumb.length - 1].innerText.trim();
+						name = lastBreadcrumb;
 					}
 
 				} else {
 					//PDP
-					name = document.querySelector("#b-c");
-					if (!name) {
+					let breadcrumb = document.querySelectorAll('#breadcrumb ul.dn.dib-l li');
+					if (!breadcrumb[breadcrumb.length - 1]) {
 						return [];
 					}
-					name = name.innerText;
-					imageUrl = document.querySelector('#product-gallery amp-img').getAttribute('src').trim();
+					name = breadcrumb[breadcrumb.length - 1].innerText.replace("> ", "").trim();
+					let image = document.querySelector('#product-gallery amp-img');
+					let imageUrl = "";
+					if(image) {
+						imageUrl = image.getAttribute('src').trim();
+					}
 				}
 			}
 			let data = [];
