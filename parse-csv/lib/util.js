@@ -193,6 +193,9 @@ function arrayToJson(table) {
 									item[heads[indexCol]] = cell;
 								}
 							} else {
+								if(!currentRow){
+									console.log("te",heads[indexCol]);
+								}
 								currentRow[heads[indexCol]] = cell;
 							}
 					}

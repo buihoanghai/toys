@@ -23,7 +23,6 @@ Coupons-Store-Carousel,section6,catagory-carousel-no-text,Find the Best Deals On
 ,,,,,,Jack Wills Promo Code,https://a.ipricegroup.com/store/jack-wills-hk.jpg?v=1,https://iprice.hk/coupons/jack-wills/,,,,,,
 PLP-EL-BrandCategory-Carousel,section3,catagory-carousel,Compare the Best Prices in Electronics,,,items,,,,,,,,
 ,,,,,,brand-name,name,image-url,url,,,,,
-,,,,,,,,,https://iprice.hk/gaming/games/,,,,,
 ,,,,,,Xiaomi,Smartphone,https://p.ipricegroup.com/uploaded_c17a1bafe6a04b8db59005056282e347.jpg,https://iprice.hk/xiaomi/phones-tablets/smartphones/,,,,,
 ,,,,,,Samsung,Smartphone,https://p.ipricegroup.com/uploaded_95037393dedc2856c66c4a9d87748e28.jpg,https://iprice.hk/samsung/phones-tablets/smartphones/,,,,,
 ,,,,,,TP-LINK,Network Gear,https://p.ipricegroup.com/uploaded_b5af74e20ddd1bd5868bef4f48ee2b97.jpg,https://iprice.hk/tp-link/computing/network-gear/,,,,,
@@ -42,7 +41,8 @@ PLP-EL-BrandCategory-Carousel,section3,catagory-carousel,Compare the Best Prices
 ,,,,,,Jabra,Headphones,https://p.ipricegroup.com/uploaded_e71a69beb7c55c60b8adceb982cf49f5.jpg,https://iprice.hk/jabra/audio-hi-fi/headphones/,,,,,
 ,,,,,,Seagate,Computing,https://p.ipricegroup.com/30827698_0.jpg,https://iprice.hk/seagate/computing/,,,,,
 ,,,,,,Epson,Printers,https://p.ipricegroup.com/31575259_0.jpg,https://iprice.hk/epson/computing/printers/,,,,,
-,,,,,,,,,https://iprice.hk/olympus/camera-photo/,,,,,
+,,,,,,Olympus,Camera & Photo,https://p.ipricegroup.com/32303167_0.jpg,https://iprice.hk/olympus/camera-photo/,,,,,
+,,,,,,Nikon,Lenses,https://p.ipricegroup.com/3131113_0.jpg,https://iprice.hk/nikon/camera-photo/lenses/,,,,,
 PLP-EL-Brand-Carousel,section3_brand,catagory-carousel-no-text,,,,items,,,,,,,,
 ,,,,,,name,image-url,url,,,,,,
 ,,,,,,Samsung,https://a.ipricegroup.com/brand/samsung.jpg,https://iprice.hk/samsung/,,,,,,
@@ -174,7 +174,7 @@ PLP-FA-BrandCategory-Men-Carousel,section4,fashion-panel,Shop Men's Fashion,http
 ,,,,,,https://a.ipricegroup.com/media/homepage/SGHK_men-min.jpg,,1234,category-carousel,items,,,,
 ,,,,,,,,,,brand-name,name,url,image-url,main-url
 ,,,,,,,,,,Rolex,Watches,https://iprice.hk/rolex/watches/,https://p.ipricegroup.com/18186ea40ad890b0f7e7d77e43140d1006388db9_0.jpg,https://iprice.hk/rolex/watches/
-,,,,,,,,,,Adidas,Shoes,https://iprice.hk/adidas/yeezy/shoes/,https://p.ipricegroup.com/57f21e7e565ffce9728681851258639f857555e1_0.jpg,https://iprice.hk/adidas/yeezy/shoes/
+,,,,,,,,,,,,,,https://iprice.hk/adidas/shoes/
 ,,,,,,,,,,Ray-Ban,Sunglasses,https://iprice.hk/ray-ban/clothing/sunglasses/,https://p.ipricegroup.com/9fd039aa3189cab5f48d31fc15946b47ed625e06_0.jpg,https://iprice.hk/ray-ban/clothing/sunglasses/
 ,,,,,,,,,,Casio,Watches,https://iprice.hk/casio/watches/,https://p.ipricegroup.com/984754c6a36eb6a3820743541c06322aac61318c_0.jpg,https://iprice.hk/casio/watches/
 ,,,,,,,,,,Seiko,Watches,https://iprice.hk/seiko/watches/,https://p.ipricegroup.com/955d8d81f40a78f75ed8e0669ac96373fe18e6c9_0.jpg,https://iprice.hk/seiko/watches/
@@ -213,7 +213,7 @@ PLP-FA-Brand-Carousel,section5_brand,link,Popular Fashion Brands,,,items,,,,,,,,
 ,,,,,,Coach,https://a.ipricegroup.com/brand/coach.jpg,https://iprice.hk/coach/,,,,,,
 ,,,,,,FILA,https://a.ipricegroup.com/brand/fila.jpg,https://iprice.hk/fila/,,,,,,
 ,,,,,,Champion,https://a.ipricegroup.com/brand/champion.jpg,https://iprice.hk/champion/,,,,,,
-,,,,,,Monki,https://a.ipricegroup.com/brand/monki.jpg,https://iprice.hk/monki/,,,,,,
+,,,,,,,,https://iprice.hk/adidas/,,,,,,
 ,,,,,,TOMS,https://a.ipricegroup.com/brand/toms.jpg,https://iprice.hk/toms/,,,,,,
 ,,,,,,Furla,https://a.ipricegroup.com/brand/furla.jpg,https://iprice.hk/furla/,,,,,,
 ,,,,,,Vans,https://a.ipricegroup.com/brand/vans.jpg,https://iprice.hk/vans/,,,,,,
