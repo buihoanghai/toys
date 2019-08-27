@@ -65,15 +65,14 @@ case "$HOST" in
   all|iprice|id) changeHost "iprice.co.id" ${IP} ;;
 esac
 case "$HOST" in
-  all|iprice|id) changeHost "line.iprice.co.id" ${IP} ;;
+  all|iprice|line) changeHost "line.iprice.co.id" ${IP} ;;
 esac
-case "$HOST" in
-  all|iprice|id) changeHost "homecredit.iprice.co.id" ${IP} ;;
-esac
+
 
 #CDN
 case "$HOST" in
-  all|cdn) changeHost "cdn-dev.ipricegroup.com" ${IP};;
+  all|cdn)	changeHost "cdn-dev.ipricegroup.com" ${IP}
+			changeHost "cdn-qa.ipricegroup.com" ${IP};;
 esac
 
 # COOD
