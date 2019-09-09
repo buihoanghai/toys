@@ -1,0 +1,206 @@
+<!doctype html>
+<html ⚡ lang="en-my">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="fragment" content="!">
+    <title>Apple iPhone X Prices, Reviews and Specs in Malaysia | iPrice</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.css">
+    <style amp-custom>
+        * {
+            box-sizing: border-box;
+        }
+
+        .swipe-carousel div[role=button] {
+            display: none;
+        }
+
+        .filter-active {
+            transform: translateX(100%);
+        }
+
+        @media screen and (min-width: 60em) {
+            .filter-panel {
+                transform: translate(-100%,5rem);
+            }
+            .filter-active {
+                transform: translateX(0%);
+            }
+        }
+
+        .translateX-1 {
+            transform: translateX(-22rem);
+        }
+
+        .translateX-2 {
+            transform: translateX(-38rem);
+        }
+
+        .translateX-3 {
+            transform: translateX(-51rem);
+        }
+
+        .max-h100 {
+            max-height: 100vh;
+        }
+
+        @media screen and (min-width: 60em) {
+            #toggleFilter:checked + div, #toggleFilter:checked + div > div {
+                height: 16rem;
+            }
+        }
+        #toggle-search-brands:checked + div{
+            display: block;
+        }
+
+    </style>
+    <script async type="text/javascript" src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+</head>
+<body>
+<amp-state id="swipeData">
+    <script type="application/json">
+        {
+            "index": "1"
+        }
+    </script>
+</amp-state>
+<amp-carousel height="100vh" width="100vw" class="swipe-carousel"
+              type="slides"
+              id="mainSwipe"
+              on="slideChange:AMP.setState({swipeData:{index: event.index}})">
+    <!--Main page-->
+    <div class="bg-light-gray" [class]="'bg-light-gray ' +(swipeData.index > 0 ? 'filter-active': '')">
+        <!--Filter header-->
+        <div class="flex flex-wrap f2 pa3 dn-l">
+            <div class="green w-25-ns pa2 br4 b--solid tc" on="tap:mainSwipe.goToSlide(index = 1)"><b>Filter</b> <b class="red">1</b></div>
+            <div class="pa2">Popularity</div>
+            <div class="green ma2"> Price</div>
+            <div class="ma2">Relevance</div>
+        </div>
+        <!--reset-->
+        <div class="dn db-l">
+            <div class="flex flex-wrap green tc">
+                <div class="br4 b--solid pa2 bg-dark-green ma2 "><b>Reset</b></div>
+                <div class="mv2 pv2 tc"><b>|</b></div>
+                <div class="br4 b--solid pa2 ma2 ">Apple<b class="black">  X</b></div>
+                <div class="br4 b--solid pa2 ma2 "> 1100-3400 <b class="black">  X</b></div>
+                <div class="br4 b--solid pa2 ma2 "> Grey <b class="black">  X</b></div>
+                <div class="br4 b--solid pa2 ma2"> 16 <b class="black">  X</b></div>
+            </div>
+        </div>
+        <!--Body-->
+        <div>
+            <!--Breadcrumb -->
+            <div>
+                Breadcrumb
+            </div>
+            <!--Title-->
+            <div>
+                Title
+            </div>
+        </div>
+        This is main page <span [text]="indexFilter"></span>
+
+    </div>
+    <!--Filter-->
+    <div class="flex filter-panel relative">
+        <div class="o-30 w3 bg-black dn-l" on="tap: mainSwipe.goToSlide(index=0)">opacity .8</div>
+        <!--Main filter-->
+        <input type="checkbox" class="dn" id="toggleFilter" />
+        <div class="bg-white flex-grow-1 relative  h2-l">
+            <div class="flex-l overflow-y-scroll overflow-y-hidden-l max-h100 h2-l "
+                 [class]="'flex-l overflow-y-scroll overflow-y-hidden-l max-h100 h2-l translateX-' + indexFilter">
+                <!--Brand filter-->
+                <div class="w-100 w5-l h5 h-auto-l relative overflow-hidden">
+                    <!--Header filter-->
+                    <div class="pa3 pa1-l">
+                        <label for="toggleFilter"><b class="f2 f5-l">Brands</b></label>
+                    </div>
+                    <div class="absolute top-1 right-1 f2  f5-l top-2-l w-100-l">
+                        <label class="green underline right-0-l absolute-l" for="toggle-search-brands">Other</label>
+                        <input type="checkbox" class="dn" id="toggle-search-brands" />
+                        <div class="dn absolute top-0 right-0 w-100-l">
+                            <input class="w-100-l" />
+                        </div>
+                    </div>
+                    <!--main brand filter-->
+                    <div class="flex flex-wrap f2 pa3 pa1-l mt4-l f5-l">
+                        <div class="green pv3 ph4 pa2-l ba b--green br4"> Apple</div>
+                        <div class="pv3 ph4 pa2-l ba b--white br4"> Asus</div>
+                        <div class="pv3 ph4 pa2-l ba b--white br4"> BlackBerry</div>
+                        <div class="pv3 ph4 pa2-l ba b--white br4"> DOOGEE</div>
+                        <div class="pv3 ph4 pa2-l ba b--white br4"> Google</div>
+                        <div class="pv3 ph4 pa2-l ba b--white br4"> HTC</div>
+                        <div class="pv3 ph4 pa2-l ba b--white br4"> Huawei</div>
+                        <div class="pv3 ph4 pa2-l ba b--white br4"> LEAGOO</div>
+                        <div class="pv3 ph4 pa2-l ba b--white br4"> Lenovo</div>
+                    </div>
+
+                </div>
+                <div class="bg-dark-pink w-100 w5-l h5 h-auto-l">
+                    <!--Header filter-->
+                    <div class="pa3 pa1-l f2 f5-l">
+                        <label><b class="green">Iphone</b><b> Models</b></label>
+                    </div>
+                    <div class="green right-1 underline f2 f5-l"> Other</div>
+                    <!-- Iphone Models-->
+                    <div class="container">
+                        <div class="item "> X</div>
+                        <div class="item "> 7</div>
+                        <div class="item "> 8 Pus</div>
+                        <div class="item "> 6</div>
+                        <div class="item "> 6s</div>
+                        <div class="item "> 5s</div>
+                        <div class="item "> SE</div>
+                        <div class="item "> 5c</div>
+                        <div class="item "> 8</div>
+                        <div class="item "> 4s</div>
+                    </div>
+                </div>
+                <div class="bg-dark-red w-100 w5-l h5 h-auto-l">
+                    <!--Header filter-->
+                    <div><label for="toggleFilter">Color</label></div>
+                </div>
+                <div class="bg-dark-green w-100 w5-l h5 h-auto-l">
+                    <!--Header filter-->
+                    <div><label for="toggleFilter">Price</label></div>
+                </div>
+                <div class="bg-dark-blue w-100 w5-l h5 h-auto-l">
+                    <!--Header filter-->
+                    <div><label for="toggleFilter">Category</label></div>
+                </div>
+                <div class="bg-dark-pink w-100 w5-l h5 h-auto-l">
+                    <!--Header filter-->
+                    <div><label for="toggleFilter">Gender</label></div>
+                </div>
+                <div class="bg-dark-red w-100 w5-l h5 h-auto-l mb4 mb0-l">
+                    <!--Header filter-->
+                    <div><label for="toggleFilter">Model</label></div>
+                </div>
+            </div>
+            <!--Button-->
+            <div class="db dn-l absolute bottom-0 w-100 flex">
+                <!--Reset-->
+                <div class="w-50 h3 bg-green">Reset</div>
+                <!--Done-->
+                <div class="w-50 h3 bg-red" on="tap: mainSwipe.goToSlide(index=0)">Done</div>
+            </div>
+        </div>
+
+        <!--Navigation slide-->
+        <div class="dn db-l">
+            <!--Foward-->
+            <div class="absolute right-2 top-0 w2 h2 tc bg-white pa2 ba b--light-silver br-100"
+                 on="tap: AMP.setState({ indexFilter: indexFilter != undefined ? indexFilter + 1 : 1 })">></div>
+            <!--Back-->
+            <div class="absolute left-2 top-0 w2 h2 tc bg-white pa2 ba b--light-silver br-100"
+                 on="tap: AMP.setState({ indexFilter: indexFilter-1})"><</div>
+        </div>
+
+    </div>
+</amp-carousel>
+</body>
+</html>
