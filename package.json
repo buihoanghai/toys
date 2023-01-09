@@ -10,7 +10,7 @@
     "curl": "^0.1.4",
     "event-stream": "^4.0.1",
     "firebase": "^5.7.2",
-    "firebase-admin": "^6.4.0",
+    "firebase-admin": "^11.4.1",
     "globule": "^1.2.1",
     "got": "^9.5.0",
     "lodash": "^4.17.13",
